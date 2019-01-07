@@ -1,0 +1,4001 @@
+Data	Ora	NumeAng	PrenumeAng	NumeSef	PrenumeSef	NrPiese
+12062016	013103	Algren	Steve	Kolbe	Ed	180
+17062014	212529	Plybon	Tara	Abbott	Teresa	100
+13112015	212058	Buckstaff	Clyde	Duong	Lewis	130
+14022016	204615	Powell	Bobbie	Di	Pirro Thomas	60
+22032017	211540	Hanson	Teresa	Kim	Woon	60
+04092017	081352	Fleming	Adrienne	Rivera	Evelyn	170
+15122017	083056	Moore	Robert	Milinkovic	Milorad	50
+05062014	061430	Taylor	Michelle	Van	Winkle Robert	50
+24022016	164910	Kothari	Atul	Van	Winkle Robert	50
+09022015	010659	Bolton	C	Carr	James	120
+25072013	021812	Tran	Hung	Auriemma	Maria	50
+28122016	131139	Templin	Guy	Mendez	Leonard J	80
+16092013	004034	Jones	Terry	Lasson	Calvin	170
+05062015	232425	Dolph	Jonathan	Duong	Lewis	60
+07092017	032126	Dicicco	Geraldine	Shunn	Becky	80
+26092013	200014	Baumgardner	Cathy	Maug	Mary	170
+09072017	190540	Smith	Terry	Rivera	Evelyn	50
+17062016	190905	Harvell	Ted	Kim	Woon	50
+22122015	131700	Taylor	Thom	Veasey	Deborah	100
+08042018	034924	Xiao	Terry	Lasson	Calvin	170
+02032014	081808	Choy	Hyun	Boyton	Affree	110
+26092017	023916	Teutschel	Sarah	Nguyen	Kim	90
+06102014	211236	Carroll	Craig	Hee	Kyong	30
+10042018	154806	Chinh	Stanley	Tribble	Harrison O	160
+28112015	203749	Taylor	Finis	Richards	Stuart	60
+23062016	035954	Taylor	Richard	Nguyen	Phuong	50
+30052013	192929	Memon	Mike	Wiltz	Paul	120
+24012018	082314	Lou	Wah	Abbott	Teresa	180
+18082014	183831	Rodriquez	Jose	Shaskas	John R	160
+30042014	182909	Voschin	Mark	Vickers	Jean	160
+19032014	121332	Tackett	Gary	Rivera	Evelyn	90
+20052017	023941	Terrell	Frank	Urquhart	Jean	110
+05022015	000135	Takei	Takeshi	Issia	Vinnie	70
+27122016	143004	Torres	Erasmo	Brown	Doyle	140
+11032014	043829	Bonner	Phil	Forte	Ann DC	160
+03102015	012412	Marta	Larry	Rivera	Evelyn	150
+30032015	062642	Ranio	Tara	Mendez	Leonard J	160
+28022015	202553	Tapp	Greg	Forte	Ann DC	60
+19042014	231343	Sanders	Glen	Shunn	Becky	150
+19092013	233737	Ten	Eick William	Duong	Lewis	40
+24102014	185814	Sharkey	Steve	Conklin	Tom	120
+05042014	113431	Martinez	Martha	Green	E	70
+11082016	090046	Kuo	Tai	Kim	Woon	60
+21062016	035830	Ogden	Ted	Green	Richard	110
+17092016	061329	Poonpat	Lala	Van	Winkle Robert	110
+02112013	102114	Vuont	Hai	Lust	Desiree	160
+05102015	082929	Fuller	Terry R	Payrow	Farshid	200
+25012014	071907	Vayer	Sema	Fowler	Vincent	70
+29122016	050757	Zauszniewski	Dennis	Wiltz	Paul	80
+17082014	171331	Tallent	Kenneth	Kim	Woon	110
+27062013	200354	Cooper	Manuel	Green	Richard	150
+11092014	064506	Bowman	Tod	Ball	Sam	150
+08062014	200552	Hammer	Barbara	Schroeder	Tom	150
+23092014	224401	Vuont	Hai	Forte	Ann DC	110
+08052013	073040	Vuont	Hai	Veasey	Deborah	170
+17082015	222742	Tessmer	Donald	Gonzalez	Jose	170
+22052013	103255	Ng	Tommy	Tribble	Harrison O	90
+30082013	085325	Wheary	Thom	Shunn	Becky	90
+16082015	172131	Tawney	Dave	Tyrrell	Chris	150
+24062014	220331	Nygaard	Martin	Hanna	Scott	160
+12042014	094627	Inouye	Michael E	Abbott	Teresa	110
+05022018	200511	Taylor	Richard	Virgen	Victor	190
+25032018	044921	Masaki	Ellen	Stone	Ed	160
+25082013	161054	Petrowski	Tom	Carr	James	40
+18042016	165726	Anaya	Ernesto	Shunn	Becky	40
+20062016	030903	Mc	Nair Ted	Green	Richard	50
+19112015	211643	Taylor	Jeffrey	Kolbe	Ed	120
+16062015	212225	Herrick	John	Cox	Joe	200
+17032018	093926	Kim	Duk	Ball	Sam	150
+18062014	043740	Hsiushun	Sun	Fleischner	Molly	70
+05062014	233330	Rial	Manuel	Richards	Stuart	160
+24112017	011837	Patel	Vinod	Milinkovic	Milorad	40
+14102013	163711	Hopkins	Thomas	Valcich	Tom	50
+19062013	133523	Lindquist	Tom	Forte	Ann DC	140
+19122014	180724	Tank	Art	Sardisco	Joe	80
+26112014	061341	Macfeat	Christine	Martsen	Vaughn	100
+09052013	201345	Tanen	Harry	Ball	Sam	80
+23072016	145127	Tyler	Colleen	Zakos	Jim	130
+02032014	095034	Ward	Tammy	Noble	Jesse	150
+16092016	180305	Vences	Elizabeth	Hanna	Scott	150
+23072016	051319	Klingler	Bryce	Conklin	Tom	70
+04052016	150447	Kelly	Edward	Cox	Ty	100
+07102016	073145	Toy	Ronald W	Gonzalez	Jose	60
+30012018	173023	Thaggard	Jr Mike	Hee	Kyong	130
+24072017	063653	Batchelor	Terry	Stone	Ed	110
+25072017	134220	Currey	Thomas D	Ball	Sam	130
+18112014	045903	Rollinson	Linda	Mc	Kinstry Irving	160
+02022015	151827	Holt	Roxanne	Abbott	Teresa	140
+13092016	194620	Tejada	Candido	Salem	Chuck	100
+26112016	112544	Hecker	Allen	Ball	Sam	100
+23062017	055019	Johnson	Terry	Vasser	Ronnie	160
+02112013	114043	Lavit	Tammie	Corpening	Kenny	130
+16022017	130745	Moore	Greg	Conklin	Tom	180
+12122015	171958	Godaire	Greg	Martsen	Vaughn	40
+24102017	030041	Ashabraner	Wayne	Cox	Ty	190
+16122017	081611	Taylor	Milton	Abbott	Teresa	50
+03032015	194532	Granzow	Ted	Ridenour	Barbara	30
+13062014	225955	Forney	Brad	Corpening	Kenny	150
+28092015	102527	Talbot	Bob	Schroeder	Tom	100
+20032017	043028	Trushkowsky	Stwart	Payrow	Farshid	110
+19062015	065544	Brown	Debra	Nguyen	Kim	130
+13082014	221544	Lookenhouse	Randy	Zakos	Jim	40
+17072016	210533	Sampras	Ted	Fujikawa	Toshiko	170
+01032018	181508	Simons	Eizabeth	Nguyen	Kim	180
+10122014	080233	Lowery	Kathryn	Vega	Evaristo	90
+30112013	124125	Brown	Terry	Tovar	Leonardo	200
+10082017	143047	Terry	Edward L	Cutri	Elaine	130
+20102017	092753	Hale	Sydonna	Zimmit	Vince	160
+11022017	074049	Glover	Chris	Corpening	Kenny	120
+18052015	193948	Fried	Aby	Strohbeen	Mary	100
+08042017	130307	Kim	Grace	Church	Vera	70
+09032014	165034	Brandt	Terry	Cutri	Elaine	50
+02112016	202820	Murphy	Matt	Karam	Francis	40
+25092015	000753	Cali	Tony	Burney	Kelly	90
+23052016	200656	Bond	David	Lasson	Calvin	100
+22102014	043108	Wanker	Don	Rivera	Evelyn	120
+16112014	201606	Frankenberger	Tim	Auriemma	Maria	130
+01102015	231306	Golden	Ralph	Cox	Joe	160
+11052017	222229	Neal	Marvel	Kim	Woon	90
+02042016	221509	Mc	Camant J A	Benedict	Carol	140
+29092013	201522	Dahle	Tricia	Ridenour	Barbara	70
+19022016	143652	Roder	Don	Ugarph	Dave	120
+13062017	023825	Lacy	Linda	Lowe	Betty	200
+05062017	054832	Reynolds	Tom	Ball	Sam	170
+29082014	045235	Talone	John	Auriemma	Maria	170
+01072014	225710	Sullivan	Paul	Skidmore	Laura	100
+28032018	100113	Helete	Roman	Duong	Lewis	140
+07122013	150132	Tsai	David	Cox	Joe	40
+26122013	135546	Suess	Terry	Church	Vera	60
+29082015	140834	Mcgraw	Tom	Forte	Ann DC	140
+14022014	012549	Karboski	Fran	Green	Richard	130
+13032017	201513	Geoghegan	Terence	Forte	Ann DC	120
+15042016	071026	Walkoviak	Jerry	Maug	Mary	200
+21062016	150423	Reed	Ted	Wiltz	Paul	150
+22032015	024523	Merlo	Salvador	Sardisco	Joe	160
+18102014	055946	Brown	Doug	Chong	Ung Ki	150
+12032014	212539	Allen	Jay PE	Milinkovic	Milorad	40
+13072016	214643	Carson	Delano N	Van	Heule James	100
+02022016	132026	Kim	Youngman	Luc	Hao	50
+11062013	034101	James	T Bryce	Hee	Kyong	160
+14122016	151158	Geloff	Anita	Mumptaz	Muhammad	60
+19022017	200701	Woods	AL	Vickers	Jean	100
+20022018	103606	Attanasio	Thomas	Boyton	Affree	120
+25022015	002958	Hood	Gene	Di	Pirro Thomas	110
+15062017	073144	Terry	Roger	Mccurley	Richard	190
+25112017	073539	Flores	Francisco	Lust	Desiree	90
+15092015	013100	Thompson	Melinda M	Benedict	Carol	30
+11102014	102403	Anastasia	Tami	Garcia	Gulio	30
+04082016	212735	Stretmoyer	Ted	Fujikawa	Toshiko	90
+12042016	213126	Halfon	Nissiam	Lust	Desiree	80
+14022016	014309	Thompson	Lisa	Zimmit	Vince	150
+23012015	214657	Taylor	Larry	Salem	Chuck	100
+17092016	041730	Torczon	Dave	Boyton	Affree	110
+26122017	194341	Loh	Charles	Salem	Chuck	50
+04052017	030253	Jensen	Chris	Ball	Sam	100
+24092017	121541	Neiman	Paul	Starks	Cassandra	200
+09042018	042504	Kindley	Thelma	Abbott	Teresa	140
+21042016	155103	Techler	Mark	Borden	Gloria	40
+31082013	050508	Austin	Thomas	Risser	Charles	180
+11112013	231041	Nguyen	Cathy	Stone	Ed	50
+12122017	221705	Sheffield	Buford	Van	Heule James	120
+07112016	115821	Tellez	Argelia	Karam	Francis	150
+16012015	204646	Linkkila	Sr Anthony R	Lowe	Betty	100
+17022016	200412	Anderson	Terri	Fujikawa	Toshiko	190
+11102014	175808	Barajas	Joshua	Pham	Victoria	190
+18062013	203040	Cattan	Tony PE	Tyrrell	Chris	190
+30042017	161749	Hunt	Darryl	Di	Pirro Thomas	150
+27092017	142308	Sebastian	Rodney	Sardisco	Joe	100
+07072014	043406	Brooks	Becky	Vega	Evaristo	190
+27102017	190622	Ali	Danny	Barrientos	Linda	40
+12012015	035406	Stevens	Chuck	Mayl	Sheryl	100
+18112015	013003	Selland	Zach	Cox	Ty	150
+28102014	022229	Tan	Mill	Skidmore	Laura	30
+15052016	044644	Prechtel	Debra	Zakos	Jim	30
+05062015	110047	Chia	Steven	Shunn	Becky	150
+30072016	231714	Taylor	Addison	Hanna	Scott	180
+07022018	050146	Uy	Philip	Fowler	Vincent	130
+26042014	090257	Taft	Scott	Hanna	Scott	90
+26042018	031329	Amacker	Rebecca	Pham	Victoria	90
+29112014	071730	Adams	Donald	Kolbe	Ed	100
+19062016	185056	Bahsin	Tony	Fowler	Vincent	120
+12062016	190637	Tak	Sang	Starks	Cassandra	80
+02072017	120133	Muncey	Terry	Wong	Vicky	160
+25042018	104133	Evertz-Ando	Lynn	Benedict	Carol	180
+11042016	191427	Perry	Sheila	Mccurley	Richard	70
+11082015	104849	Kajani	Yasmeen	Tyrrell	Chris	70
+01032016	001000	Rodgers	Linda	Brown	Doyle	50
+11012016	072122	Pera	George	Borden	Gloria	190
+08032018	185824	Tharp	Bruce	Pham	Victoria	110
+01062017	072551	Davies	Debbie	Vickers	Jean	100
+08112013	211643	Behrhorst	Craig	Noble	Jesse	130
+07082017	025816	Loney	Terry	Wong	Vicky	50
+26112015	225623	Taylor	Sam	Mc	Kinstry Irving	120
+07022017	233236	Vallar	Charolotte	Issia	Vinnie	160
+15072016	065744	Brower	Joe	Mumptaz	Muhammad	160
+31032016	145635	Masters	Dave	Shper	Paul	170
+07032015	155050	Lollar	Fred	Wiltz	Paul	90
+19052014	100555	Tardiff	Marc	Forte	Ann DC	190
+04032015	193831	Porsel	Franseco	Shaskas	John R	130
+09112017	045320	Talbot	Bob	Vickers	Jean	180
+27062013	003221	Merriman	Tracy	Michel	Jessica	110
+23042018	090919	Hoffman	Craig	Smith	Steven	170
+17102015	035645	Mattis	Steven	Mccurley	Richard	80
+30112016	120650	Jackson	Kelley R OD	Payrow	Farshid	50
+04122017	042211	Pham	Tung	Luc	Hao	120
+26092016	154702	Kirch	Tammy	Auriemma	Maria	110
+12072014	230726	Battle	Jeffrey	Ugarph	Dave	70
+30062017	232111	Mc	Coy Terry	Noble	Jesse	170
+15062014	182516	Wang	Peter	Forte	Ann DC	50
+25042015	211142	Ruiz	Hector	Fleischner	Molly	140
+25072017	232151	Shegrud	Terry	Ugarph	Dave	40
+31082015	022013	Fise	Jerry	Nguyen	Kim	40
+13062013	143728	Casas	Tony	Fowler	Vincent	110
+19092016	203208	Nguyen	Lien	Mumptaz	Muhammad	180
+25072014	192659	Rios	Aida	Boyton	Affree	180
+09022014	113926	Lee	Anthony	Risser	Charles	140
+24012018	200756	Thacher	Phil	Lin	Eddy	60
+26092017	034231	Echlin	Earl	Fowler	Vincent	100
+29082013	043356	Vo	Tony	Di	Pirro Thomas	140
+09112015	172553	Patel	Yogi	Boyton	Affree	120
+14072014	175404	Talamante	Carmelo	Mcdaniels	Mike	50
+30082016	011329	Shearrer	Deborah	Benedict	Carol	60
+04082013	154152	Satterlee	Richard	Mendez	Leonard J	40
+03022015	180617	Tanton	Bob	Church	Vera	170
+21102014	092924	Luu	Christy	Braicich	Agnes	60
+22122013	211553	Tulberg	Patricia	Green	E	170
+28022015	161557	Powell	Rick	Bauch	Jane	110
+18062013	024245	Craft	Kathryn	Sutter	Danny	50
+10062015	021753	Lin	Youda	Pham	Victoria	80
+18012014	054719	Summers	Rob	Mccurley	Richard	90
+06022018	163914	Tanasomboon	Suiasak	Nguyen	Phuong	70
+03052017	191809	Patel	Vallabh	Di	Pirro Thomas	160
+24042018	150830	Morasch	Ann M	Karam	Francis	140
+20082015	042506	Hinderliter	Charles	Rivera	Evelyn	170
+04042017	123410	Han	Chung	Veasey	Deborah	80
+09022018	040655	Cornell	Anocha	Tyrrell	Chris	120
+08122017	204650	Ashe	Robert	Luc	Hao	110
+22122013	142425	Teel	Richard	Garcia	Gulio	50
+22042018	125630	Granzow	Ted	Shper	Paul	150
+29072017	173500	Mc	Allister Corey	Pham	Victoria	60
+02092013	234947	Moss	Terry	Kolbe	Ed	90
+09012014	235102	Cheung	Tin	Johnston	Denny	50
+10102017	170545	Martinez	Rey	Wiltz	Paul	140
+04102015	050618	Gregor	Yrwand F	Urquhart	Jean	60
+19052017	102039	Pruett	Terrell	Braicich	Agnes	120
+29112015	133752	Thornley	Jamie	Braicich	Agnes	150
+12092014	030849	Tamayo	Tony	Mendez	Leonard J	100
+20062016	154619	Gostowski	Ted	Maug	Mary	190
+10102016	184534	Fusang	Jesse	Davidson	Grant	90
+16062014	195027	Tait	Tim	Kim	Woon	30
+23112015	200551	Cain	Betsy	Michel	Jessica	90
+02122013	021000	Szparaga	Robert	Lust	Desiree	100
+27022017	003744	Suradja	Teno	Richards	Stuart	140
+12122017	023903	Carranca	Gilma	Stone	Ed	150
+17052013	062456	Molton	Larry	Conklin	Tom	190
+20092013	233057	Nash	J D	Mendez	Leonard J	170
+07032015	162517	Valencuela	Maria	Cox	Ty	170
+07042017	151740	Kim	Chung	Ball	Sam	50
+03052013	223634	Dabit	Suad	Boyton	Affree	40
+28072016	065430	St	Germain Donald	Starks	Cassandra	120
+27032016	101806	Acosta	Tony	Lasson	Calvin	40
+30062013	112020	Carr	T	Ugarph	Dave	110
+25022017	190522	Jesus-Reyes	Maria	Richards	Stuart	40
+08092015	185034	Huddleston	Allen	Fleischner	Molly	70
+25122017	141621	Woodhall	Tj	Chong	Ung Ki	60
+02112015	223627	Taylor	Kathryn P	Ball	Sam	180
+05112017	022456	Mc	Dermott Pete	Auriemma	Maria	110
+10052015	124053	Tarr	Howard	Kim	Woon	140
+15072017	221935	Vorhies	Terry	Shunn	Becky	60
+09052013	200435	Miller	Virginia	Starks	Cassandra	40
+20122016	231712	Climes	Linda	Lowe	Betty	90
+13032017	100430	Varga	Nora	Lasson	Calvin	70
+20092013	024433	Aschenbrenner	Tom	Gonzalez	Jose	90
+13102015	202214	Taylor	Mike	Cox	Ty	180
+25112013	171523	Chu	Richard	Wong	Vicky	120
+01072014	013933	Mcdaniel	Gina	Mc	Kinstry Irving	100
+24072016	013408	Chandler	Barbara	Cox	Joe	160
+19082017	045248	O'Malley	Terry	Vega	Evaristo	90
+26082015	105353	Durlach	David	Tribble	Harrison O	160
+30072017	160738	Causby	Elizabeth	Richards	Stuart	150
+28032017	163955	Leslie	Teressa	Mumptaz	Muhammad	130
+07092017	054032	Pham	Phuc	Issia	Vinnie	110
+03092013	215840	Jimenez	Terry	Payrow	Farshid	180
+21032014	171151	Vaccari	Ed	Corpening	Kenny	60
+23042014	042013	Tino	Arnold	Conklin	Tom	30
+21022016	054335	Roberson	Stuart	Lust	Desiree	150
+30122017	133036	Baboushkin	Peter	Noble	Jesse	110
+03012015	002937	Garza	Daniel	Michel	Jessica	120
+14052015	000141	Shu	George	Bauch	Jane	130
+12072016	040643	Brower	Joe	Michel	Jessica	160
+12012014	120815	Moore	Terry	Braicich	Agnes	190
+24022014	211353	Tabay	Tom	Nguyen	Phuong	160
+02102017	013412	Weissert	Joe	Maug	Mary	60
+01102014	184935	Ward	Tammy	Schroeder	Tom	90
+03032018	234414	Tharp	Windle	Shunn	Becky	100
+26042014	054957	Golshani	M	Fowler	Vincent	110
+24012014	193204	Sootsaman	Terri	Barrientos	Linda	50
+25102017	133816	Wahid	Abdul	Fowler	Vincent	120
+20092015	165656	Suen	Ming	Corpening	Kenny	150
+31012015	232518	Brotherton	Dale	Maug	Mary	80
+22112014	042218	Jarrett	Rebecca	Vega	Evaristo	200
+02072015	105305	Leverett	Kenert	Ball	Sam	150
+18042018	200253	Netter	Martha	Valcich	Tom	40
+31012016	082832	Talbert	Don	Zimmit	Vince	140
+28022015	203710	Ouseph	Jacob	Davidson	Grant	160
+18062015	153005	Bodis	Bob	Auriemma	Maria	120
+28082015	220504	Priest	Terry	Tyrrell	Chris	40
+11072013	032930	Spence	Thomas	Burney	Kelly	110
+07122017	181601	Fitzgerald	Jim	Zimmit	Vince	60
+23092015	025827	Wikar	Halina	Forte	Ann DC	90
+21072015	163153	Levy	Moses	Wong	Vicky	50
+08112014	143127	Mc	Cracken Terri	Kolbe	Ed	90
+24012016	040013	Magana	Gilbert	Turner	Edward	40
+26082013	094216	Patton	Tim	Shaskas	John R	30
+18102014	054048	Waite	Kay	Burney	Kelly	170
+22062017	211617	Jacobson	Terry	Vega	Evaristo	80
+07042016	044642	Schoppert	Tom	Conklin	Tom	150
+22072013	010517	Cardinal	Tamera	Duong	Lewis	40
+17052015	001435	Cortez	Isabel	Varblow	Carl	140
+17062016	065750	Yona	Lou	Ball	Sam	40
+01022015	190202	Tansill	George	Fox	Karen	130
+29042017	161858	Graham	Rick	Cortez	Fernando	90
+24092015	211121	Wells	A C	Stone	Ed	60
+10092015	045331	Smith	Craig	Varblow	Carl	140
+12042015	203843	Tarbox	James	Brown	Brent	180
+31082016	060952	Teer	Sean	Shper	Paul	90
+13122013	212930	Ayasit	Sriwong	Ball	Sam	30
+20042016	235920	Brower	Joe	Schroeder	Tom	140
+18042017	065840	Dexter	Will	Corpening	Kenny	130
+04122015	090558	Steinhoff	R Lynn	Valcich	Tom	50
+03032015	050304	Lovett	Ryan	Tovar	Leonardo	140
+12062013	213706	Taylor	Trude C	Vega	Evaristo	150
+09052013	064026	Morlok	Ted	Turner	Edward	130
+22102014	100331	Krolak	Curt	Sardisco	Joe	40
+17042017	031353	Cancio	Tammy	Vasser	Ronnie	40
+03112016	154103	Jones	Doreka	Lust	Desiree	140
+03032014	141919	Altschuler	Susan	Cortez	Fernando	90
+19072014	125817	Marley	Jerri	Noble	Jesse	180
+12072015	044426	Lertpanichpuns	Somsri	Conklin	Tom	180
+25022017	233544	Harrarah	Ziad	Lasson	Calvin	60
+24092015	182048	Perkins	Gayles	Lasson	Calvin	190
+08092017	041424	Castor	Tess	Ridenour	Barbara	130
+08122013	235154	Huynh	Chung	Cox	Ty	70
+18112016	152853	Terrill	Robert	Smith	Steven	70
+29092013	064133	Nguyen	Tam	Mumptaz	Muhammad	80
+21122015	104315	Taylor	V M	Chong	Ung Ki	30
+07082013	041303	Barry	Tim	Garcia	Gulio	140
+05042014	101134	Espinoza	Ruben	Fleischner	Molly	50
+22022014	193917	Baba	Pete	Kolbe	Ed	100
+15122014	053323	Collins	Harold	Brown	Doyle	190
+30072017	175100	Paquin	Terry	Kolbe	Ed	60
+29082014	110435	Tal	Ory	Hanna	Scott	130
+16112015	175819	Taylor	J Spencer	Maug	Mary	50
+07012015	211249	Tharp	Bruce	Luc	Hao	190
+24082015	110258	Elsharkawy	Ahmed	Broady	George	110
+01102017	231030	Prowell	Jim	Hee	Kyong	160
+19012014	060707	Hauze	Anthony	Varblow	Carl	40
+01042017	103335	Sawyers	W D	Mendez	Leonard J	80
+27032016	202659	Dennisson	Bill	Strohbeen	Mary	130
+08122013	100513	Sullivan	Tim	Nguyen	Kim	120
+04102014	022643	Kennedy	Brenda	Kim	Woon	100
+09092015	054210	Steiner	Robert E CPA	Garcia	Gulio	70
+31032018	173000	Smith	Rick	Valcich	Tom	60
+22062016	053217	Shear	Ted	Johnston	Denny	140
+19082014	160625	Phumai	Sai	Hee	Kyong	50
+06022018	205037	Piapaisilapa	Pat	Vickers	Jean	60
+13102016	014850	Christiaansen	Lisa	Urquhart	Jean	140
+18122014	031037	Brabo	Crozbo	Shaskas	John R	170
+09082014	075749	Greaves	Jean	Ugarph	Dave	150
+16052015	102742	Tarvin	W D	Hanna	Scott	90
+28032016	050503	Annable	Rick	Virgen	Victor	160
+03012014	060415	Harris	Debbie	Cox	Joe	50
+23012017	045334	Brown-Flowers	Sylvia	Nguyen	Phuong	80
+25082014	102029	Glynn	John	Mayl	Sheryl	60
+21082016	130345	Wilson	Stephen	Burney	Kelly	80
+13052017	161812	Tardiff	Marc	Fox	Karen	70
+20052017	165024	Teichmann	Larry	Auriemma	Maria	70
+19122017	082419	Chardary	J	Green	Richard	70
+21042016	014946	Dennisson	Bill	Auriemma	Maria	80
+26072016	150410	Sokolik	Teddy	Davidson	Grant	120
+08082014	171802	Wilson	Stephen	Cox	Joe	180
+22092015	075552	Treadway	Linda	Lasson	Calvin	180
+15092013	062927	Eisnaugle	Timothy	Strohbeen	Mary	120
+08122015	111713	Rekart	Julie	Fox	Karen	60
+11062015	011920	Jones	Deborah	Rosario	Robert	150
+07122013	214903	Thompson	Billy	Van	Heule James	110
+18092014	032929	Baccili	Tamie	Valcich	Tom	120
+13102016	041339	Schulze	Brian	Mayl	Sheryl	60
+06102015	015402	Taylor	Carolyn	Starks	Cassandra	50
+08032015	043042	Mojica	Gesus	Mc	Kinstry Irving	80
+01042018	025543	Randall	Joe	Hanna	Scott	200
+09092013	043909	Nigg	Tom A	Schroeder	Tom	180
+21072017	043426	Eggers	Terry	Richards	Stuart	50
+14072017	172517	Windquist	Terry	Ugarph	Dave	50
+23082015	164731	Molitierno	Thomas S	Sardisco	Joe	160
+04112017	044924	Alexander	Bob	Lowe	Betty	90
+18102016	001555	Hughes	Michael	Risser	Charles	110
+20122014	153716	Gabrielski	James	Cox	Ty	150
+27102017	143458	Hope	Terrel A	Cutri	Elaine	60
+27052015	165104	Tashcyan	George	Zimmit	Vince	130
+15012016	112736	Shin	Semin	Mccurley	Richard	110
+08092013	094109	Burchett	Jim	Gonzalez	Jose	40
+04062014	113235	Gibson	Jeannie	Stone	Ed	40
+08102013	023339	Harris	Tyrone	Michel	Jessica	90
+24052013	164236	Branum	Kenneth	Skidmore	Laura	100
+17082016	130323	Mc	Gill Tayna	Bauch	Jane	40
+26042014	144008	Wood	Nancy	Lin	Eddy	80
+29112015	091037	Taylor	John	Barrientos	Linda	50
+06052017	140404	Ly	Brandon	Broady	George	60
+17092015	200256	Menist	Janis	Fujikawa	Toshiko	30
+02092015	230248	DE	Joseph Andrew	Rivera	Evelyn	40
+19092016	052101	Riley	Donald	Michel	Jessica	150
+06032016	235346	Mc	Gowan Tim	Bauch	Jane	60
+05112016	141234	Taylor	Jerry	Martsen	Vaughn	120
+29082015	055445	Mourmouras	Peter	Boyton	Affree	180
+13112013	091951	Valentino	Sally	Brown	Doyle	70
+12112015	030915	Taylor	Richard S	Boyton	Affree	110
+26012016	142850	Lee	John	Van	Heule James	60
+06112015	001143	Taylor	William	Brown	Brent	150
+12032014	125154	Hoeffler	Jim	Mccurley	Richard	70
+24072013	195637	Williams	Gladys	Lust	Desiree	60
+21082014	104835	Kopec	Ted	Van	Winkle Robert	40
+22032016	043001	Targett	Bertha	Ridenour	Barbara	180
+25042017	154551	Greene	Dale	Forte	Ann DC	100
+30012014	150614	Outmezguine	George	Vasser	Ronnie	50
+20032014	061448	Bobbitt	Darrell	Ugarph	Dave	30
+17032017	211023	Khan	Teresa	Mcdaniels	Mike	150
+17022018	232631	Mitchell	Maneeporn	Hanna	Scott	50
+09012017	060212	Falk	Terri	Smith	Steven	100
+13092015	092207	Johnson	T D	Hanna	Scott	110
+26022016	030541	Bendinskas	Paul	Corpening	Kenny	110
+30042014	220153	Goerl	Robin	Fowler	Vincent	80
+14052015	094825	Tartamella	John	Vanderwaal	Randy	120
+03112013	100334	LA	Rose Nola	Brown	Brent	70
+12082013	230848	Alfred	Robert	Di	Pirro Thomas	160
+05022016	234115	Benecke	Horst	Tyrrell	Chris	140
+19102017	134218	Linder	Tonya	Forte	Ann DC	200
+17062017	005400	Conway	Terry	Noble	Jesse	200
+30042014	142850	Barnes	Ernest	Nguyen	Kim	40
+12112017	083301	Nordstrom	Donna	Forte	Ann DC	50
+14112017	134740	Hudson	Kathleen	Stone	Ed	120
+26012015	145547	Rhodes	Tanya	Mayl	Sheryl	160
+24092014	095234	Croftcheck	Tammy	Mcdaniels	Mike	40
+07012015	101930	Tanner	David	Burney	Kelly	40
+03052017	140903	Aicher	Linda	Johnston	Denny	70
+09072015	120504	Tatsch	Dennis S	Boyton	Affree	110
+27042018	215424	Zinowski	Mike	Sardisco	Joe	150
+10032014	223854	Belance	Domique	Hanna	Scott	150
+24102014	040045	Harbison	Barb	Nguyen	Phuong	120
+04072013	015428	Nguyen	Diem	Benedict	Carol	120
+29072017	010150	Barahona	Norman	Rosario	Robert	200
+04072014	094802	Bodis	Bob	Hanna	Scott	150
+09092014	225746	Jail	Max	Bauch	Jane	140
+08062014	063855	Pickholz	William	Green	E	40
+27032014	033331	Mauden	Elizabeth	Payrow	Farshid	100
+01052017	222115	Raguseo	Joseph DC	Mcdaniels	Mike	160
+28072014	013405	Laumer	Frank	Cortez	Fernando	180
+29082016	154004	Ziggerman	Norman	Tyrrell	Chris	120
+09102016	160613	Chitty	Floyd	Zimmit	Vince	30
+20012016	171611	Hughes	Michael	Brown	Doyle	60
+27122013	041724	White	Tim	Burney	Kelly	60
+26032015	123105	Kumar	Roshan	Smith	Steven	190
+25012017	111603	Needle	David	Fox	Karen	90
+11122017	090955	Diaz	Marie	Turner	Edward	180
+03072015	174305	Tate	Gerry	Karam	Francis	70
+12032017	175854	Tercan	John	Nguyen	Kim	190
+06072015	022913	Tate	Steve	Salem	Chuck	40
+19112015	102823	Scoles	John F	Veasey	Deborah	50
+19062017	181331	Terry	Clay	Mayl	Sheryl	90
+17042017	142758	Mc	Bride Rhonda	Nguyen	Phuong	120
+30092013	083836	Butzke	Jonathan	Mumptaz	Muhammad	100
+02062014	072944	Kim	Kwicha	Sutter	Danny	90
+04082015	175409	Patchett	Gary	Di	Pirro Thomas	180
+09082016	161422	Boettger	T G	Zimmit	Vince	90
+10122015	021234	Fise	Jerry	Shunn	Becky	190
+05012015	052804	Casner	David	Tovar	Leonardo	120
+02082015	002340	Yona	Lou	Maug	Mary	50
+01072014	203809	Motamed	Anna	Virgen	Victor	100
+02042018	112815	Barajas	Joshua	Issia	Vinnie	50
+22092017	234713	Klingler	Bryce	Ugarph	Dave	110
+30092017	031327	Pray	David	Green	Richard	180
+24082014	202517	Chung	Susan	Luc	Hao	120
+16122013	183515	Veganes	Theodore P	Forte	Ann DC	130
+26062015	094131	Jorgenson	Terry	Shaskas	John R	170
+16082013	125849	Choi	Ki	Veasey	Deborah	120
+10062015	142837	Land	Kathryn	Fleischner	Molly	140
+17092015	133910	Giesing	Ed	Fox	Karen	170
+31032017	140537	Tappel	Kurt	Green	E	60
+27122015	121035	Thomas	Greg	Zimmit	Vince	180
+30052017	163622	Johnson	Terri A	Chong	Ung Ki	120
+23092016	061122	Lewis	Joe	Cox	Joe	190
+21032015	180429	Torres	Luis	Green	Richard	140
+05082014	083501	Hersh	Jason	Pham	Victoria	160
+21022015	174601	Arnesen	Lloyd	Broady	George	70
+22112016	161318	Defalco	Gene	Green	E	100
+21042017	201622	Mc	Gowan Terri	Mumptaz	Muhammad	40
+26012014	191751	Fattoross	Sam	Carr	James	150
+08032015	171518	Pray	Jean	Sardisco	Joe	40
+14022018	173933	Hardin	Thomas R	Stone	Ed	40
+21042014	041341	Mai	Hong	Nguyen	Kim	150
+16062014	145708	OH	Keith	Ridenour	Barbara	90
+22022016	122556	Hirko	Mick	Vanderwaal	Randy	70
+21102013	082110	Lin	Kim	Chong	Ung Ki	120
+29052013	205807	Hart	T K	Kolbe	Ed	80
+05072015	013019	Buchanan	Dewight	Shunn	Becky	40
+25022018	084125	Dang	Phung	Sardisco	Joe	190
+06012015	122324	Tanner	Chris	Green	E	170
+29052014	111815	Sun	Anguang	Vega	Evaristo	100
+19122015	110349	Casbeer	John	Wong	Vicky	170
+14082013	015642	Martin	Tom	Fujikawa	Toshiko	150
+16022018	065917	Poonpat	Lala	Forte	Ann DC	120
+02092014	014226	Alley	Talmadge G	Maug	Mary	150
+09072013	054106	Kalkhof	Thomas	Benedict	Carol	110
+02092017	183513	Terry	Winford	Payrow	Farshid	80
+13022014	211905	Arnesen	Lloyd	Church	Vera	160
+24032015	014322	Wright	Danny	Bauch	Jane	30
+15012014	111628	Barfield	Dorthie	Lasson	Calvin	170
+16122013	163708	Simpson	Vicki	Salem	Chuck	80
+17092016	043246	Tejeda	Carlos	Karam	Francis	170
+19022016	125127	Minton	Terry	Vega	Evaristo	160
+08122016	182009	Pushman	William	Mumptaz	Muhammad	110
+26032016	164125	Trowbridge	Stephen	Schroeder	Tom	90
+17052016	144012	Lamb	James	Schroeder	Tom	170
+08092015	184136	Browning	Roy	Hanna	Scott	60
+18102017	150804	Flores	Alfredo	Lust	Desiree	50
+16092016	172017	Bartlett	Tristan	Nguyen	Kim	130
+03042018	230250	Vasconcelos	Lucy	Boyton	Affree	100
+17062014	185414	Tarzia	Anthony B	Duong	Lewis	130
+09092016	123627	Ascherin	Arlene	Green	E	60
+24032018	022047	Thayer	Fred	Valcich	Tom	170
+29082015	181024	Mott	Paula	Hanna	Scott	140
+14122013	194412	Petsch	William	Noble	Jesse	180
+06032017	182624	Gonzalez	Louis	Cox	Ty	140
+01122014	054758	Plaskett	Cheryl	Lust	Desiree	40
+23072015	003820	Guerra	Enrique	Boyton	Affree	50
+12092014	150216	Forman	Steve	Zimmit	Vince	70
+31012015	201544	Bowser	Bill	Sutter	Danny	50
+17112017	222637	Ayres	Lonna	Fleischner	Molly	110
+09032016	214319	Hunt	Darryl	Benedict	Carol	80
+25122014	045847	Tenison	Patricia	Cox	Ty	120
+21082014	150113	Masters	Mary	Auriemma	Maria	60
+22092013	214059	Watson	Travis	Burney	Kelly	120
+14042018	041948	Craft	Kathryn	Hee	Kyong	130
+03122015	165343	Taylor	Milton	Benedict	Carol	180
+19052017	104945	Terrell	Mark	Davidson	Grant	90
+26032014	072120	Nunez	Alfonso	Auriemma	Maria	150
+21022015	161907	Mundy	Philip	Maug	Mary	110
+16052015	213030	LA	Shomb Patti	Cutri	Elaine	170
+16092016	021722	Oliphant	Robert	Vasser	Ronnie	110
+30062017	080846	Tanashian	Jack	Maug	Mary	70
+19102016	150501	Burns	Charles DVM	Duong	Lewis	100
+13012017	014941	Dorsey	Victoria	Turner	Edward	50
+17102014	101137	Oliphant	Robert	Maug	Mary	90
+23102016	034447	Chung	T C	Auriemma	Maria	120
+14052017	104155	Seaberg	Karen	Lin	Eddy	150
+24052016	082807	Jones	Tim	Mc	Kinstry Irving	140
+27042017	025204	Mc	Loughlin Christopher	Strohbeen	Mary	100
+12042015	014341	Quinn	Mike	Shaskas	John R	90
+24062015	111354	Lucey	Tammy	Cox	Ty	80
+13012018	191237	Yuan	Dershuh	Abbott	Teresa	110
+20052014	171302	Blair	George	Johnston	Denny	40
+21062017	205512	Henderson	Terry	Sutter	Danny	120
+28122014	142054	Tannenbaum	Philip	Sardisco	Joe	150
+11012016	050544	Carey	Todd	Lin	Eddy	50
+19012016	174301	Carter	Paul	Stone	Ed	120
+20052015	062134	Tarzia	Anthony B	Risser	Charles	100
+20122017	190309	Poarch	Charlie	Cutri	Elaine	190
+07052015	162858	Tarlton	Dolores	Schroeder	Tom	60
+10092014	081002	Mazanec	Tracy	Ridenour	Barbara	90
+31012016	152104	Gutierrez	Alonzo	Johnston	Denny	120
+18052013	160457	Taylor	Ernest	Johnston	Denny	180
+10102015	031955	Brown	Taylor	Kolbe	Ed	170
+24032014	020806	Espindola	Rene	Ball	Sam	140
+15112017	062137	Handy	Tammye	Braicich	Agnes	160
+14082014	002627	Rabbat	Abdullah	Braicich	Agnes	170
+01072013	082229	Builleaud	David	Nguyen	Phuong	150
+15062014	063134	Geiger	Kerry	Shunn	Becky	100
+22072016	032759	Tedder	Carlton	Pham	Victoria	70
+12022017	221214	Patton	Kenneth	Milinkovic	Milorad	90
+28042015	095605	Copperlottie	Mike	Milinkovic	Milorad	60
+27062016	092237	Teninty	Jay	Broady	George	80
+21092013	023418	Sheehan	Tom	Sutter	Danny	110
+20052017	191118	Mc	Cauley Terrence M	Fox	Karen	160
+26062015	104351	Tate	Kim	Cortez	Fernando	180
+21082017	041754	Conger	Terry	Schroeder	Tom	120
+19092015	162407	Simpson	Van	Martsen	Vaughn	130
+19112017	140834	Sterman	Bill	Cox	Joe	190
+28102016	194652	Permpol	Pismai	Carr	James	80
+08122015	141926	Taylor	Scott	Issia	Vinnie	70
+17012016	095740	Mc	Clanahan John	Forte	Ann DC	60
+26112017	121252	Beach	Douglas	Urquhart	Jean	140
+19122017	034335	Mockabee	Bruce	Mayl	Sheryl	70
+09052015	073851	Woodring	Ralph	Fowler	Vincent	110
+18072015	070557	Carpenter	Scott	Gonzalez	Jose	190
+20122013	235611	White	Trashanda	Di	Pirro Thomas	60
+20072016	091637	Blackwood	Ted	Wong	Vicky	150
+01042018	000343	Motsko	Dorothy	Benedict	Carol	130
+13072015	031611	Slocum	Ed	Smith	Steven	140
+11052016	055809	Rupert	David	Auriemma	Maria	140
+19072016	081714	Kleinfelter	H T	Lin	Eddy	60
+04052016	044919	Trautman	Steve	Duong	Lewis	50
+11102015	051638	Takahashi	Mirna	Borden	Gloria	90
+02122013	023929	Tongbua	Chooanong	Mccurley	Richard	50
+17052013	052839	Koch	Terri	Virgen	Victor	140
+26092014	141906	Holland	Tammy	Forte	Ann DC	140
+27092013	200916	Techler	Mark	Ridenour	Barbara	150
+03082014	053402	Fortenderry	Wanda	Hee	Kyong	80
+11082016	164245	Lollar	Fred	Vickers	Jean	50
+03022017	113203	Sawyers	W D	Maug	Mary	160
+11092014	125659	Barns	Burdette	Mc	Kinstry Irving	170
+30072016	172023	Perry	Sheila	Bauch	Jane	80
+19012014	012205	Arnesen	Lloyd	Ridenour	Barbara	170
+21042016	061410	Williams	Maria	Cutri	Elaine	70
+15082016	114625	Ward	Roberta J	Vickers	Jean	120
+11112017	150120	Haworth	Ed	Davidson	Grant	70
+21082014	223620	Baumgardner	Terry	Schroeder	Tom	50
+21082013	175058	Laws	Peter	Cox	Joe	100
+06062016	210751	Caballero	Jorge	Shaskas	John R	150
+02082017	134426	White	Anthony	Salem	Chuck	120
+03112013	011351	Steinhart	Terran T	Cox	Joe	50
+13032016	010520	Kim	Danny	Forte	Ann DC	100
+16052016	213712	Hunt	Darryl	Wiltz	Paul	110
+16102013	223739	Fries	Ted	Gonzalez	Jose	180
+15082016	171906	Opper	Karen	Vega	Evaristo	140
+19022016	141306	Nguyen	Thanh	Nguyen	Kim	50
+04072015	023613	Tatem	Lee	Rivera	Evelyn	90
+24112014	005916	Finch	Steve	Urquhart	Jean	70
+16012015	041006	Patel	Kiran	Burney	Kelly	60
+22012017	225745	Ames	Steven	Lowe	Betty	50
+28062014	035901	Davidson	Terry	Risser	Charles	120
+26112016	152339	Schuster	Earl	Forte	Ann DC	180
+22062016	043236	Merrill	Ted S	Gonzalez	Jose	140
+16012016	142218	Fan	Charles	Vasser	Ronnie	50
+01012015	203645	Thompson	Jack	Tyrrell	Chris	70
+15062015	235731	Torke	Evelyn	Green	E	70
+19062015	070941	Nimz	James	Hanna	Scott	140
+17042018	184549	Cantrell	Theodore	Salem	Chuck	110
+07012015	141520	Ford	Joe	Valcich	Tom	50
+14042014	085630	Daubman	John	Ugarph	Dave	100
+15022017	063233	Taylor	Barry	Green	Richard	80
+26112013	082706	Smith	T R	Corpening	Kenny	190
+29022016	084835	Coulson	Corey	Lust	Desiree	80
+11042015	150335	Tejeda	Carlos	Payrow	Farshid	120
+05112015	012512	King	R	Kim	Woon	140
+03102016	140528	Curreri	Maureen	Sutter	Danny	110
+27072017	111549	Juwvipart	Alex	Noble	Jesse	80
+23052017	084507	Sanders	Glen	Vasser	Ronnie	100
+02032016	203849	Wan	David	Strohbeen	Mary	60
+25062013	115726	Collier	Terry	Rivera	Evelyn	140
+18102017	141507	Stockhorst	Lucy	Kim	Woon	110
+26032016	042305	Bernstein	Alan	Wiltz	Paul	60
+24102014	164046	Gaede	Michelle	Garcia	Gulio	200
+02092014	055920	Moeller	Hans	Shper	Paul	110
+28012016	222308	Higson	Timothy	Conklin	Tom	90
+19032015	082517	Plybon	Tara	Urquhart	Jean	160
+22032016	225429	Taylor	Hugh	Starks	Cassandra	130
+11032017	201602	Pfeifer	Sara	Cox	Joe	190
+08042018	044145	Rickner	Terry	Michel	Jessica	130
+19012015	103520	Tsouprake	Ted E	Michel	Jessica	80
+02022018	072904	Luu	Christy	Sutter	Danny	180
+24122015	051352	Kelly	Edward	Nguyen	Phuong	80
+03052017	001139	DE	Vries Keith	Forte	Ann DC	110
+11022018	230247	Symoukda	Kot	Green	E	150
+04072015	081020	Williams	Helen	Tribble	Harrison O	140
+14092014	175933	Camp	Tami	Tyrrell	Chris	40
+08092015	025717	Marchand	Mike	Lin	Eddy	140
+22102013	223601	Moerdyk	Thomas	Mc	Kinstry Irving	50
+13032018	062023	Greaves	Jean	Michel	Jessica	200
+25082015	105603	Hughes	Laura	Fox	Karen	50
+30062014	083408	Elliott	Jane	Lowe	Betty	80
+16052016	184622	Piper	Betsy	Rivera	Evelyn	110
+19052016	164839	Poarch	Charlie	Fox	Karen	180
+06072017	074932	Palmer	Terry	Ridenour	Barbara	120
+09052015	202629	Locke	Steve	Pham	Victoria	190
+13022015	201903	Maestas	Cindy	Shper	Paul	50
+21032018	141706	Thatcher	Rick	Ugarph	Dave	110
+11012016	160057	Helton	Tim	Davidson	Grant	60
+28122015	030734	Scherer	Lisa	Lin	Eddy	190
+12062014	091616	Johnson	Olga	Salem	Chuck	70
+20122014	225247	Mertz	William T	Johnston	Denny	170
+06012015	023237	Tanner	Howard	Tribble	Harrison O	70
+13072017	035144	Moreno	Jose	Noble	Jesse	140
+04022018	233536	Taylor	Robert	Mc	Kinstry Irving	150
+01112014	045036	Wikar	Halina	Hee	Kyong	50
+11032015	151531	Vazquez	Refugio	Mcdaniels	Mike	170
+13122014	172357	Tanguay	Michael	Tovar	Leonardo	50
+09012017	071115	Tevis	Randy	Virgen	Victor	110
+29092014	090145	Guest	Tammy	Shper	Paul	60
+22092014	202523	Lavit	Tammie	Shunn	Becky	60
+17122013	080749	Lu	Becky Regina A	Garcia	Gulio	200
+25092015	194755	Wale	Jay	Nguyen	Phuong	130
+07042018	013241	Mori	Bruno	Green	Richard	190
+30082015	103106	Taylor	O F Tex	Fowler	Vincent	60
+15032016	165014	Tashcyan	George	Boyton	Affree	130
+08082017	092402	Terry	Joel	Payrow	Farshid	90
+12112016	163738	Lamb	David	Mumptaz	Muhammad	190
+22052015	121756	Tasnadyo	John	Davidson	Grant	30
+31082014	160046	Mance	Trevor	Duong	Lewis	120
+12042015	205345	Pigram	Debra	Di	Pirro Thomas	70
+21082013	020331	Mullen	T J	Sardisco	Joe	110
+10082015	113755	Taveras	Alci	Abbott	Teresa	180
+19102014	225305	Buckspan	Alan	Lasson	Calvin	180
+10122015	032122	Davies	Tami	Lasson	Calvin	150
+26092015	122017	Van	Duser Carol	Ugarph	Dave	180
+11012014	211115	Tavarez	Angel	Chong	Ung Ki	70
+06022015	030517	Erwin	Yuriko	Vickers	Jean	150
+20122014	041829	Tank	Jr Ron	Zakos	Jim	120
+18072015	083020	Meadows	Jenny	Borden	Gloria	140
+20072014	171505	Talebloo	Lou	Mayl	Sheryl	50
+14092013	075544	Winzer	Tim	Brown	Brent	130
+23092014	170250	Watts	Tammie	Wiltz	Paul	200
+11012018	161026	Texter	Beth	Lust	Desiree	60
+21012018	090913	Knapp	Roger	Brown	Brent	90
+07042017	054058	Erwin	Yuriko	Fujikawa	Toshiko	140
+27072013	065740	Willey	T Greg	Cortez	Fernando	150
+21082015	072103	German	Sherry J	Bauch	Jane	160
+27082016	095859	Eckhard	Rod	Lust	Desiree	120
+20112017	202628	Hughes	Laura	Urquhart	Jean	70
+08032014	212341	Huntley	Charles	Stone	Ed	120
+29122017	231018	Abu-Khashabeh	Manal	Payrow	Farshid	170
+05112014	092148	Robinson	Cathie	Fujikawa	Toshiko	180
+22102014	044736	Gibson	Joanne	Vega	Evaristo	40
+27012016	023331	Albert	Wayne	Shunn	Becky	80
+21122014	081426	Havron	Dana	Tyrrell	Chris	120
+11092014	115528	Palmer	Bob	Cortez	Fernando	60
+11012016	221715	Driscoll	Mike	Garcia	Gulio	90
+21072014	202421	Hanson	Cameron	Zimmit	Vince	150
+20082016	013658	Tinker	Tim	Sardisco	Joe	150
+08012017	175252	Fham	Tom	Maug	Mary	160
+22012016	062044	Noah	Terry	Rosario	Robert	100
+30112017	094338	Raddatz	Judy	Mayl	Sheryl	110
+02022014	082814	Barnum	Patti	Fleischner	Molly	40
+30032015	043940	Ely	Bill	Tovar	Leonardo	110
+04062013	040521	Brown	Tom	Auriemma	Maria	40
+15122013	065003	Padilla	Fabiola	Vickers	Jean	90
+13102013	161416	Redmon	Trexlor L	Zimmit	Vince	90
+14122016	025706	Teel	Chuck	Garcia	Gulio	70
+03022015	094007	Tant	Wesley	Brown	Brent	80
+13112016	143101	Vanek	Bill	Lin	Eddy	60
+27052016	060246	Voreck	Burk	Nguyen	Kim	110
+12032014	103450	Tabuchi	Kevin	Sutter	Danny	170
+08082016	195417	Moss	Terry	Di	Pirro Thomas	150
+13042018	102708	Hogue	Wes	Van	Winkle Robert	70
+25042014	234754	Tafoya	Lawrence	Karam	Francis	110
+30052014	115351	Walsh	Michael G	Rivera	Evelyn	170
+19062013	072125	Chung	T C	Van	Winkle Robert	140
+29012016	040819	Shinabarger	Peggy	Richards	Stuart	110
+15092017	011358	Yost	James	Johnston	Denny	180
+21032017	225857	Tone	Tracey	Green	E	160
+06112016	020550	Houston	John	Nguyen	Phuong	170
+26072015	175252	Tatum	Paul	Wiltz	Paul	40
+03062013	161934	Marks	T Andrew	Mayl	Sheryl	140
+21082015	175054	Braun	Sandi	Ugarph	Dave	60
+08052016	021802	Flower	Lydia	Fleischner	Molly	60
+05052015	134327	Pugh	Willie Mae	Chong	Ung Ki	180
+21072015	100350	Simmons	Devlin	Valcich	Tom	200
+19092015	124857	Toffolo	Robert	Skidmore	Laura	30
+24042015	214344	Jackson	Lela	Sutter	Danny	90
+11012018	054008	Dawson	Monica	Johnston	Denny	80
+18092016	034645	Costa	Joey	Skidmore	Laura	130
+31082014	194803	Song	Lu	Maug	Mary	30
+20052014	012131	Crawford	Teresa	Sutter	Danny	80
+11082017	135457	Blaha	Terry	Stone	Ed	160
+03032016	171247	Lovorn	Robbie	Zakos	Jim	160
+28062017	223436	Lorne	Terry	Zimmit	Vince	30
+22122015	235032	Taylor	Greg	Starks	Cassandra	120
+19122013	102951	Ten	Eyck Brenda	Issia	Vinnie	80
+23022015	150136	Georgiade	Karen Axel	Forte	Ann DC	190
+17032017	120726	Diaz	Marie	Vickers	Jean	100
+17072016	200709	Parice	Ted	Maug	Mary	200
+05012015	171036	Tanner	James L	Burney	Kelly	100
+23082015	212919	Alexander	Loretta	Shaskas	John R	160
+05062014	103733	Dang	Phung	Church	Vera	70
+05012017	105858	Wooden	Peggy	Skidmore	Laura	150
+16112014	001024	Taneyhill	Daniel	Skidmore	Laura	140
+04072016	112855	Copeland	Odis	Cutri	Elaine	110
+20032016	003939	Lincoln	Bambi	Cox	Ty	60
+22022016	142351	Dukes	Tammy	Mcdaniels	Mike	70
+13082014	111732	Grimm	Fred	Schroeder	Tom	140
+29072016	171011	Clayton	Ted M	Cortez	Fernando	70
+20102015	152501	Taylor	Richard	Van	Heule James	130
+03062015	155029	Tassin	Betty	Martsen	Vaughn	110
+26052017	130901	Morgan	Terri	Veasey	Deborah	40
+08072016	233723	Panning	Theron	Davidson	Grant	50
+05072016	231532	Cyr	Stanley	Abbott	Teresa	190
+31012017	075418	Seybert	Jan	Garcia	Gulio	110
+09082015	100811	Thavone	Chanhthalan	Vanderwaal	Randy	40
+10022018	003600	Juwvipart	Alex	Lust	Desiree	50
+24032016	065820	Tebbets	Alfred	Risser	Charles	120
+27052016	111046	Talley	Ed	Shunn	Becky	80
+03062017	152746	Porreco	Teri	Burney	Kelly	50
+07052014	215655	Overton	Beth	Issia	Vinnie	180
+08112016	194227	Tanihara	Kodo	Payrow	Farshid	120
+24102016	065759	Granducci	Joe	Johnston	Denny	100
+23112013	010644	Whyman	Tom	Green	Richard	180
+23062013	214453	Brunner	Tim	Zakos	Jim	140
+23092013	011907	Reed	Tim	Vasser	Ronnie	50
+27092017	201119	Landry	Don	Borden	Gloria	30
+23012018	224500	Wilson	Kathy	Sardisco	Joe	80
+27092015	085420	Dossett	Barbara	Forte	Ann DC	130
+14062016	170556	Cillis	Ted	Cutri	Elaine	80
+18112015	013449	Taylor	Ray	Mccurley	Richard	200
+05062016	061108	Tecker	Marilyn	Shunn	Becky	170
+25072015	085534	Guilherme	Albert	Valcich	Tom	110
+10042015	173627	Tarantino	Daniel	Cortez	Fernando	160
+17062014	150238	Kim	Soonok	Mumptaz	Muhammad	160
+11032018	212432	Green	Richard	Smith	Steven	110
+29122016	175843	Smith	Bob	Shper	Paul	40
+11092015	121347	Ramirez	David M	Benedict	Carol	60
+27122015	214234	Ronk	James	Zakos	Jim	180
+15042018	194927	Matras	John	Mccurley	Richard	70
+24102016	142437	Kleckner	Marc	Shunn	Becky	120
+01072014	004519	Lebuffe	Vince	Strohbeen	Mary	90
+15102015	090648	Taylor	Robert	Tyrrell	Chris	190
+06032014	223537	Land	Kathryn	Van	Heule James	150
+01062013	145001	Black	T Albert	Vanderwaal	Randy	50
+30042018	225515	Lanning	Susan	Vasser	Ronnie	80
+25022018	172005	Thames	Jose	Vanderwaal	Randy	170
+20112014	102559	Guerra	Elsa	Pham	Victoria	180
+22012015	192449	Chambers	Lavonna	Conklin	Tom	90
+09092014	233401	Ricci	Antoinette	Nguyen	Kim	130
+29122017	101201	Diwan	Robert	Johnston	Denny	40
+13102013	193118	Thompson	Thomas	Fox	Karen	50
+12092017	030349	Dickerson	Rusty	Chong	Ung Ki	170
+04032015	203139	Pelayo	Tony	Chong	Ung Ki	60
+16112016	164252	Regynski	Jerry	Forte	Ann DC	180
+26012017	134001	Brown	Lisa	Lowe	Betty	80
+12072017	114542	Terry	Edward	Starks	Cassandra	90
+25082015	223435	Ackerman	Bill	Virgen	Victor	130
+29112017	190517	Kik	Bonnie	Zimmit	Vince	200
+08082016	015322	Earl	Thomas M	Conklin	Tom	80
+08012017	121720	Berg	Carol	Shper	Paul	160
+07032015	103242	Jargui	Juan	Cox	Joe	140
+16052015	105043	Chhay	Van	Conklin	Tom	40
+26042017	174428	Khoilian	Ruben	Starks	Cassandra	80
+23032014	105246	Pignotti	John	Hanna	Scott	190
+23082017	211930	Andrews	Terry	Braicich	Agnes	140
+24052017	122625	Falk	Terri	Borden	Gloria	80
+04122014	023044	Sahatjian	John	Barrientos	Linda	110
+13022014	085418	Nuguyen	Van	Shaskas	John R	200
+12042014	033520	Brown	Denise	Davidson	Grant	110
+29122013	213709	Wright	Todd	Lin	Eddy	60
+05052013	164726	Nguyen	Tony	Ugarph	Dave	150
+30042017	042619	Volpinari	Peter	Conklin	Tom	80
+24052017	123326	Wikar	Halina	Karam	Francis	40
+26022014	065758	Chang	Young	Cox	Joe	160
+06032016	001642	Coleman	Bill	Van	Winkle Robert	40
+18122013	202359	Reynolds	Tom	Mayl	Sheryl	40
+07042014	081728	Lamb	David	Karam	Francis	110
+24102014	021753	Kusumoto	Sumiko	Vickers	Jean	110
+12052015	155537	Taylor	Betty	Shunn	Becky	200
+14102013	021708	Joo	Kwang	Bauch	Jane	60
+17122014	135301	Tanihara	Kodo	Valcich	Tom	110
+03122014	131405	Schaefgem	Sheryl	Pham	Victoria	110
+24062015	183557	Shroyer	Joe	Ugarph	Dave	120
+30092015	072543	Booth	Danny	Wiltz	Paul	160
+19022015	200955	Larche	Dave	Davidson	Grant	30
+21112017	195844	Kroboth	Elizabeth A DPM	Barrientos	Linda	120
+21102014	163241	Bibas	Rebeca	Turner	Edward	150
+03082015	090923	Morales	Lucy	Brown	Doyle	130
+21012018	201140	Davies	Debbie	Vanderwaal	Randy	60
+11082013	054511	Decker	Timothy J	Corpening	Kenny	130
+20102017	024231	Jackson	Jerome	Valcich	Tom	160
+16042014	073746	Klein	Michael	Virgen	Victor	130
+14072016	083226	Serafin	Ted	Shunn	Becky	190
+07052015	004006	Sugar	Tarkan	Turner	Edward	90
+28092016	060503	Phillips	Dick	Sardisco	Joe	50
+20062015	174424	Winters	Paul	Salem	Chuck	70
+23062013	141756	Ciesielka	Thomas	Milinkovic	Milorad	170
+05052015	050536	King	Brian	Mumptaz	Muhammad	40
+12122015	124100	Taylor	G	Ridenour	Barbara	160
+31082015	130431	White	Glen	Duong	Lewis	180
+12082015	135244	Sheehan	T Kevin	Veasey	Deborah	110
+10122016	073445	Willhoite	Stan	Shunn	Becky	90
+03082013	142008	Taylor	Ernest	Brown	Brent	160
+05012016	224615	Burnes	Elizabeth	Ball	Sam	190
+17082015	083144	Torczon	Dave	Noble	Jesse	140
+20022016	112220	Buchheit	Martin	Cox	Joe	50
+12052016	014105	Doughty	Dick	Borden	Gloria	150
+17062017	121123	Crosby	Terry	Payrow	Farshid	200
+12022016	193436	Techler	Mark	Brown	Doyle	140
+19082013	121410	Mc	Hale Thomas J	Lust	Desiree	190
+06122013	214724	Almacan	Vibal	Fowler	Vincent	190
+24032014	164352	Chamchuen	Ongarch	Johnston	Denny	180
+24092016	142413	St	Laurent Louis	Duong	Lewis	170
+10072017	083904	Talbot	Terry	Garcia	Gulio	90
+21102013	010320	Simmons	Devlin	Rivera	Evelyn	90
+24082016	153415	Hauth	Tiffany	Church	Vera	190
+06122017	211308	Chiang	Anna	Brown	Brent	170
+18092014	231200	Lee	Linda	Burney	Kelly	90
+04072013	130438	Bailey	Dan	Sutter	Danny	90
+08022014	205418	Hwang	Seong	Johnston	Denny	100
+30092016	002714	Chitty	Floyd	Maug	Mary	80
+13072015	030648	Tashchian	Sarkis	Davidson	Grant	60
+12012018	172042	St	Germain Marc	Starks	Cassandra	140
+01102013	132540	Welchen	Tekita	Conklin	Tom	170
+30082015	050928	Peed	Jeanette	Maug	Mary	70
+07022015	194522	Starnes	Tanya	Kim	Woon	70
+14062017	214909	Buck	Terry	Brown	Doyle	120
+27092015	133049	Redmon	Trexlor L	Tovar	Leonardo	90
+21062017	163624	Halsey	Terry	Lasson	Calvin	140
+14092016	190054	Neal	Marvel	Conklin	Tom	200
+08062017	202823	Xiao	Terry	Di	Pirro Thomas	70
+28062013	145756	Caves	Tim	Skidmore	Laura	120
+05032015	024102	Sandoval	Arfin	Valcich	Tom	90
+21072014	115728	Brickner	William	Issia	Vinnie	140
+13072015	051204	Randolph	Bill	Ridenour	Barbara	170
+03012014	030716	Tank	Ron	Tovar	Leonardo	50
+25052017	005300	Kwarta	Dale	Cox	Joe	150
+08102015	044436	Taylor	Frankie	Cox	Ty	70
+14022015	043024	Kaelin	Abigail	Cortez	Fernando	30
+24022018	184743	Thall	Donald S	Karam	Francis	80
+02032017	155731	Goodspeed	Debby	Auriemma	Maria	120
+12072015	213922	Tatton	Cutis	Burney	Kelly	50
+09062017	202922	Esterbrook	Wes	Mc	Kinstry Irving	110
+12062015	191404	Minor	Kathie	Virgen	Victor	110
+13072015	205231	Leader	Kelly	Michel	Jessica	160
+07072014	164243	Dunn	Colleen	Cortez	Fernando	110
+27112015	002109	Taylor	Michelle	Vickers	Jean	100
+31032015	144532	Puzycki	Ted	Richards	Stuart	100
+24082015	131422	Tacker	Thomas	Barrientos	Linda	140
+11012017	160248	Tena	Manuel	Kolbe	Ed	110
+22042014	040205	Cardenas	Sergio	Schroeder	Tom	100
+06022014	012939	Brightbill	Keith	Tyrrell	Chris	160
+22092016	055306	Parker	Derrick	Shaskas	John R	70
+22122013	023309	Jones	Tom	Luc	Hao	100
+29042014	034735	Gibbs	Tom	Abbott	Teresa	100
+16012016	153725	Berryer	Tina	Shaskas	John R	50
+28052014	232505	Flewelen	James	Van	Heule James	120
+04072013	234212	Weaver	Tom	Salem	Chuck	70
+17092015	214852	Suzuki	Taiko	Cutri	Elaine	50
+02022015	213356	Scaff	Jim	Cox	Ty	80
+05112014	173417	Todey	Joe	Bauch	Jane	180
+18122017	140032	Tartt	Richard	Pham	Victoria	140
+03022016	004254	Pospisil	Elizabeth	Milinkovic	Milorad	190
+24022014	201916	Tabari	Fred	Nguyen	Phuong	120
+11102013	021902	Kimbrough	Tonya	Tyrrell	Chris	140
+27092015	035948	O'Brien	Rose	Valcich	Tom	120
+08012017	090303	Braston	Sukcha	Chong	Ung Ki	130
+20032016	234129	Martin	Todd	Fujikawa	Toshiko	30
+25102014	015042	Hicks	Joe	Auriemma	Maria	70
+05092015	093848	Shoemaker	Robert	Auriemma	Maria	100
+17112014	112210	Puska	Connie	Nguyen	Kim	70
+06112014	195920	Franks	Wendi	Van	Winkle Robert	90
+18092013	073928	Lavit	Tammie	Borden	Gloria	50
+29062014	153157	Gazzano	Don	Zakos	Jim	100
+09112017	145206	Hatch	Patricia	Starks	Cassandra	120
+09072016	202528	John	Jim	Lowe	Betty	130
+16072014	190911	Talarico	Paula	Fujikawa	Toshiko	150
+10052013	152834	Pray	David	Shaskas	John R	90
+22082014	073458	Lerch	John	Benedict	Carol	200
+23062014	205442	Knapp	Roger	Ball	Sam	60
+24122017	113316	Webb	Richard	Duong	Lewis	180
+16092013	085757	Penn	T J	Shper	Paul	140
+14032018	203833	Folds	Debbie	Brown	Brent	40
+19112017	173415	Kwon	I H	Martsen	Vaughn	50
+28112016	004025	Huval	Paul	Vasser	Ronnie	180
+26062014	001033	Inoue	S	Wiltz	Paul	80
+08072014	145926	Mc	Bride Rhonda	Brown	Doyle	130
+12082017	070147	Baumgardner	Terry	Risser	Charles	160
+10032016	062447	Noce	Thomas	Rivera	Evelyn	60
+30072014	012419	Herndon	Louise	Luc	Hao	110
+09122015	205000	Mazanec	Tracy	Auriemma	Maria	200
+06022014	134444	Lacaze	Glenda	Corpening	Kenny	150
+16022014	232031	Martorel	Hector	Ugarph	Dave	70
+25102017	065744	Nimz	James	Vanderwaal	Randy	120
+03082017	173605	Urbany	Theresa	Smith	Steven	140
+25112015	163950	Adams	James T	Brown	Doyle	190
+14112017	130056	Mc	Gowan Tim	Vanderwaal	Randy	70
+09082016	001337	Flax	David	Shunn	Becky	170
+08072013	140126	Shroyer	Joe	Cox	Joe	80
+21062014	154546	Juwvipart	Alex	Vega	Evaristo	150
+06052014	092842	Eads	Eric	Shper	Paul	110
+10112014	082736	Shortt	Michael	Wong	Vicky	150
+21082015	135331	Lee	Jerry	Davidson	Grant	50
+24012014	235347	Nygaard	Martin	Braicich	Agnes	130
+31082016	210032	Song	Hyun Ho	Rosario	Robert	90
+18072016	025959	Madlin	Ted	Karam	Francis	30
+17042017	050932	Hines	Daniel	Auriemma	Maria	120
+30122016	122503	Tancredi	Janet	Lasson	Calvin	100
+30112013	110414	Diaz	Reynaldo	Duong	Lewis	120
+17022015	120050	St	Germain Donald	Cox	Ty	180
+03052013	130635	Nunez	Alfonso	Shper	Paul	120
+26112015	013139	Taylor	Betty	Mcdaniels	Mike	160
+01072015	214749	Tassiello	Robert	Benedict	Carol	90
+21082013	073532	Tran	Hoa	Ugarph	Dave	60
+19112013	230611	Allen	Thomas R CPA	Van	Heule James	70
+03012014	050800	Terry	Edward	Smith	Steven	80
+02032018	182717	Kalkhof	Thomas	Boyton	Affree	60
+23102015	223213	Taylor	Marvin	Forte	Ann DC	170
+22052014	203941	Rogers	David	Luc	Hao	60
+21062013	070238	Griffin	Letty	Valcich	Tom	120
+23062015	004254	Hamilton	George	Milinkovic	Milorad	60
+07012014	144004	Secor	Terry	Kolbe	Ed	190
+02032016	053907	Stokes	Steven	Rosario	Robert	170
+19052017	183528	Huynh	Chung	Cutri	Elaine	140
+01082016	162338	Woodring	Ralph	Conklin	Tom	70
+20122015	022222	Taylor	Parrish	Nguyen	Kim	160
+22062013	115558	Johnson	Gilbert	Vanderwaal	Randy	50
+05042017	020018	Choi	Kwang Pack	Sardisco	Joe	110
+16112014	164714	Hall	Allan	Brown	Doyle	190
+30052016	111913	Scott	Phyllis	Johnston	Denny	150
+15052015	112151	Tarver	Rick	Braicich	Agnes	80
+23042014	174926	Tidwell	Gerald	Johnston	Denny	160
+25062017	023903	Flynn	Terry L	Fujikawa	Toshiko	180
+25072016	195832	Smith	Luz	Forte	Ann DC	40
+17082017	201613	Biederman	Terry	Starks	Cassandra	90
+02032018	031641	Thankey	Mike	Schroeder	Tom	110
+18022017	051633	Talmage	Tom	Turner	Edward	190
+29052014	161540	Ye	Greg	Smith	Steven	110
+13072014	005440	Brotherton	Dale	Barrientos	Linda	170
+13062015	034338	Patel	Kiran	Virgen	Victor	100
+21092015	160647	Salgado	Efrin	Ball	Sam	90
+13062017	165359	Bedingfield	Terry	Nguyen	Phuong	40
+22122014	072636	DE	Bonta Bob	Shunn	Becky	80
+14112014	195445	Akatar	Jazz	Karam	Francis	170
+15052016	014343	Cox	Tamara	Mendez	Leonard J	50
+02112013	150912	Arriaga	Juan	Michel	Jessica	110
+16112014	190554	Gottlieb	Isreal	Mendez	Leonard J	100
+11102015	010624	Young	Tom	Nguyen	Phuong	100
+26112015	055603	Lertpanichpuns	Somsri	Mumptaz	Muhammad	150
+02062016	173817	Zalenski	Jerry	Tovar	Leonardo	130
+14012015	003603	Taylor	Jr James M DC	Vanderwaal	Randy	120
+01022016	161726	Hernandez	Xavier	Cortez	Fernando	190
+30112016	011644	Larson	Ole	Vasser	Ronnie	180
+10082015	075824	Tavarez	Angel	Sardisco	Joe	110
+16032018	131523	King	Nancy	Lowe	Betty	190
+28112017	210314	Bordiga	Carl	Davidson	Grant	110
+19062014	155440	Pendurdhi	Chalapadhi	Shaskas	John R	200
+19022015	230217	Lewis	Mark	Burney	Kelly	130
+22082016	173528	Brown	Anthony	Wiltz	Paul	170
+24042015	085933	Wood	Nancy	Fowler	Vincent	130
+06022017	200917	Texter	Beth	Zimmit	Vince	50
+06012018	115657	Bunton	Teddy	Sutter	Danny	110
+14112017	053105	Womack	Norris	Virgen	Victor	160
+25042016	234505	Horner	Maureen	Duong	Lewis	90
+12112015	225000	Taylor	John	Maug	Mary	110
+21072017	224101	Roberts	Ernie	Davidson	Grant	50
+24022018	174809	Hay	Lloyd	Mcdaniels	Mike	100
+16022016	233248	Humphrey	Joe	Vanderwaal	Randy	170
+19062016	204352	Clayton	Ted M	Ball	Sam	90
+01012018	103850	Kelly	Charlie	Benedict	Carol	60
+14032015	122741	Jimenez	Sergio	Mumptaz	Muhammad	80
+25072013	122025	Branch	Kenneth	Green	E	170
+18022018	203532	Fina	Jose	Lowe	Betty	60
+27082014	225420	Wright	Clinton	Lowe	Betty	100
+07112013	083357	Gregory	T N	Mendez	Leonard J	180
+18072017	033054	Larey	Terry	Kolbe	Ed	30
+29012017	114134	Honda	Minoru	Fujikawa	Toshiko	50
+05082016	230008	Kleckner	Marc	Wong	Vicky	90
+06012015	212942	Tanner	Jackie	Borden	Gloria	130
+16022016	213601	Kirkling	Cliftena	Michel	Jessica	150
+27042014	033237	Salgado	Efrin	Brown	Doyle	40
+02082017	041222	Terry	Phil	Van	Heule James	200
+15102014	002453	Mc	Cracken Terri	Pham	Victoria	60
+17012018	082823	Murtland	Audrey	Conklin	Tom	60
+26102014	185040	East	Tracie	Noble	Jesse	50
+10102016	104338	Rogers	Mike	Mccurley	Richard	180
+13112013	014428	Nguyan	Dong	Hanna	Scott	100
+09082014	110340	Scarbrough	Max	Rivera	Evelyn	110
+28022016	000841	Edwards	Arlene	Virgen	Victor	30
+19022014	161219	Traverso	Peter	Mumptaz	Muhammad	110
+03062013	191045	Mitchell	Eugene	Ugarph	Dave	130
+27042016	224855	Christian	Susan	Lin	Eddy	160
+18042018	224559	Fries	Ted	Abbott	Teresa	90
+01062015	233305	Seasipos	David	Braicich	Agnes	110
+04082017	165747	Anderson	Terri	Vickers	Jean	80
+08012018	042352	Juarez	Jose	Van	Heule James	60
+16112017	193344	Neal	Marvel	Vega	Evaristo	140
+15062013	000013	Climes	Linda	Auriemma	Maria	70
+16032016	164535	Bateman	Meda	Skidmore	Laura	40
+24092014	183129	Teague	Eric	Green	Richard	110
+19032017	064604	Baldwin	Randall	Church	Vera	190
+09022017	121554	Priest	Terry	Wiltz	Paul	140
+19032016	144334	Poarch	Charlie	Rosario	Robert	80
+19042016	150025	Smith	Luci	Noble	Jesse	40
+04112017	190829	Collins	Harold	Vanderwaal	Randy	70
+04032014	221542	Jackson	Kelley R OD	Rosario	Robert	180
+18062017	121117	Hines	Terry	Mendez	Leonard J	110
+02112014	230606	Smith	Jody	Ball	Sam	160
+14052016	180947	Clamett	William	Fujikawa	Toshiko	160
+29012017	233805	Ryan	Bayle	Richards	Stuart	140
+30042016	085624	Pushman	William	Mcdaniels	Mike	190
+10022016	164433	Smith	Jacqueline	Payrow	Farshid	70
+23112014	074027	Valentino	Sally	Corpening	Kenny	80
+08112014	173118	Stach	Launa	Schroeder	Tom	170
+07052015	195409	Bikle	Edith M	Green	Richard	90
+02042014	173932	Dunn	Colleen	Green	E	120
+23042015	142318	Reynolds	Greg	Garcia	Gulio	120
+01012017	030437	Mitchell	Mimi	Valcich	Tom	100
+18102017	093945	Edenfield	Vernon	Urquhart	Jean	50
+06022016	151004	Lu	Ying	Karam	Francis	140
+13032018	171234	Marsh	Kala	Luc	Hao	140
+05012014	094430	Collier	Terry	Duong	Lewis	190
+28112013	023326	Williams	Jerry	Chong	Ung Ki	80
+25032014	053025	Lin	Jian	Braicich	Agnes	80
+15012016	033413	Hodge	Charles	Di	Pirro Thomas	70
+03062015	002904	Christopherson	Sean	Lowe	Betty	120
+21062014	004049	Gill	Gurmit	Garcia	Gulio	30
+23042018	111710	Tarzia	Anthony B	Mumptaz	Muhammad	70
+24092015	184304	Passi	William	Starks	Cassandra	160
+17082016	145851	Yilmav	Tugrul	Vanderwaal	Randy	80
+23082014	023430	Mc	Donald Patrick	Vickers	Jean	150
+27072017	053734	Spradley	Terry	Duong	Lewis	100
+10102014	150759	Cooper	Manuel	Stone	Ed	160
+16052015	124753	Schexnider	Lisa	Wong	Vicky	50
+07042014	212348	Coronas	Ramiro	Bauch	Jane	90
+22072015	134842	Terry	Ronnie	Boyton	Affree	190
+07012016	045134	Schaefgem	Sheryl	Shper	Paul	180
+10022015	083617	Keane	Chesa	Starks	Cassandra	130
+14072015	230728	Burchett	Jim	Strohbeen	Mary	170
+24092013	184838	Padilla	Fabiola	Mumptaz	Muhammad	130
+26052017	191807	Rabb	Terri	Shper	Paul	180
+04102016	073247	Khan	Bobby	Borden	Gloria	110
+22052016	203439	Nguyen	John	Shaskas	John R	180
+16012014	000136	Jobs	Tracy	Vasser	Ronnie	110
+23032014	071127	Chisuhhuh	Rogelio	Brown	Brent	120
+13072014	061414	Tal	Johnathan	Cox	Joe	170
+07122017	022315	Huddleston	Allen	Mendez	Leonard J	50
+02082013	033011	Ho	Thuc	Gonzalez	Jose	130
+24062013	002607	Teeple	B	Cutri	Elaine	140
+30122015	002609	Wangen	Jeff	Skidmore	Laura	30
+28042016	110012	Reynolds	Don	Chong	Ung Ki	50
+16012018	135921	Tezak	Josef	Ridenour	Barbara	70
+27062014	225343	Takano	Toshio	Shaskas	John R	60
+15062015	031205	Esponiza	Ralphel	Carr	James	70
+20122015	131201	Taylor	Don	Veasey	Deborah	50
+19022016	174426	Stillman	Mark	Kolbe	Ed	130
+25052016	012157	O'Shea	John	Shper	Paul	70
+31032015	194740	Sanford	Tara	Rosario	Robert	130
+04122013	063046	Rodriguez	Arthur	Brown	Doyle	100
+02082014	133921	Kik	Bonnie	Strohbeen	Mary	190
+01032017	010848	Roder	Don	Borden	Gloria	60
+06072017	231216	Terry	Bit	Garcia	Gulio	170
+08082014	132637	Taylor	Bob	Fujikawa	Toshiko	140
+14092017	183320	Tester	Randy	Virgen	Victor	170
+23092014	052821	Ganser	Troy	Auriemma	Maria	160
+12032016	172030	Teamer	Gordon	Strohbeen	Mary	50
+25092013	131254	Kruse	Terry	Borden	Gloria	70
+16072015	075431	Bhagwat	Pradeep	Michel	Jessica	180
+19122013	163801	Thompson	Barbara W	Boyton	Affree	170
+23022015	235911	Wyener	Jean	Van	Heule James	80
+13102017	114652	Dickerson	Larry	Hee	Kyong	40
+05072016	025130	Kwon	I H	Zakos	Jim	50
+21122016	082121	Simpson	Vicki	Auriemma	Maria	40
+11042014	193903	Tedder	Murl	Urquhart	Jean	200
+24052015	063532	Smith	Ted	Fox	Karen	90
+02112013	072448	Burns	Gail	Salem	Chuck	140
+06032016	145235	Voruz	Laura	Fox	Karen	60
+19072017	000803	Wood	Terry	Vanderwaal	Randy	170
+14112015	005408	Taylor	Lonnie	Auriemma	Maria	120
+06012018	145137	Hart	Earnest B	Michel	Jessica	150
+02022016	004406	Palermo	Sue	Lasson	Calvin	40
+24032018	004925	Thaxton	Lamont	Issia	Vinnie	150
+04032017	004554	Tenzer	Mark	Kolbe	Ed	180
+02102015	103104	Sayger	Tamara	Nguyen	Kim	180
+21052013	055655	Nazari	Sorooj	Mcdaniels	Mike	40
+24082014	040342	Tallmon	Kerrin	Duong	Lewis	90
+22122013	053034	Moreno	I C	Mccurley	Richard	80
+17032016	143244	Geloff	Anita	Gonzalez	Jose	60
+01012014	191548	Mahmood	Tahir	Cortez	Fernando	60
+21022015	075404	Frank	Tod	Mcdaniels	Mike	130
+13092017	162004	Mc	Cauley Terrence M	Abbott	Teresa	70
+28052014	183605	Cheung	Tin	Vega	Evaristo	140
+25092016	180205	Meyer	E E	Varblow	Carl	30
+09122015	153956	Reynods	Elizabeth	Stone	Ed	100
+18122015	113139	Taylor	Wayne	Hee	Kyong	110
+31012018	052057	Chuladul	Sirima	Lin	Eddy	70
+22062016	235702	Tsouprake	Ted E	Mcdaniels	Mike	170
+04072014	075201	Mozingo	Terry	Lasson	Calvin	60
+04112017	025547	Marker	Perry	Mc	Kinstry Irving	90
+10122017	045627	Netter	Martha	Stone	Ed	150
+01102014	024220	Gallagher	Kevin	Brown	Doyle	150
+09112015	160144	Taylor	Robin	Carr	James	160
+14072013	213401	Flanagan	Chris	Valcich	Tom	90
+11052013	140623	Traverso	Peter	Skidmore	Laura	130
+05082016	001150	Battle	Jeffrey	Garcia	Gulio	80
+24092014	001304	Flanagan	Chris	Johnston	Denny	140
+03032018	145548	Lin	Angie	Corpening	Kenny	60
+27052013	002843	Hope	Terrel A	Broady	George	180
+17042014	224701	Lesinski	Dawn M	Nguyen	Kim	180
+03122013	154223	Wright	Douglas	Carr	James	180
+25012017	092115	Denton	Pam	Strohbeen	Mary	70
+23072013	025853	Simpson	Timothy	Risser	Charles	100
+15082015	170146	Hughes	Michael	Chong	Ung Ki	110
+17032016	133037	Fratianni	Cindy	Corpening	Kenny	70
+21032017	213102	Walczak	Teresa	Vickers	Jean	160
+11042018	035012	Besada	Thelma	Mcdaniels	Mike	180
+05122017	145815	Black	T Albert	Rivera	Evelyn	160
+20032016	043523	Teaster	Bobby	Bauch	Jane	40
+31082013	024100	Spence	Beth	Barrientos	Linda	150
+03022018	145552	Nuangkhamma	Malai	Salem	Chuck	170
+12112017	100005	Nutter	Belmont	Shaskas	John R	180
+05012014	182527	Leggero	Mike	Vega	Evaristo	40
+03102017	125042	Mahan	Joe	Issia	Vinnie	130
+24042018	220323	Travis	Tony	Nguyen	Phuong	190
+07012017	094106	Vannoy	Steven	Boyton	Affree	30
+21042014	043636	Homann	Lonnie	Karam	Francis	150
+10082015	151210	Ward	Roberta J	Hee	Kyong	80
+24092017	053241	Padilla	Fabiola	Conklin	Tom	130
+03122015	054333	Taylor	Arvell	Brown	Doyle	180
+19032015	224732	Thomas	W	Braicich	Agnes	30
+03042014	120427	Harvey	Michelle	Mumptaz	Muhammad	110
+20102016	050027	Dashiell	Peter	Turner	Edward	140
+26022015	032152	Preston	Nancy	Ugarph	Dave	110
+04072016	204134	Farlow	Ted	Karam	Francis	60
+28072015	174933	Shato	Fred	Davidson	Grant	190
+22052017	132210	Tennyson	Eugene	Fowler	Vincent	150
+11062015	161740	Longwell	Tom	Forte	Ann DC	50
+21052014	183453	Taylor	Finis	Ridenour	Barbara	120
+25122015	070949	Sessions	David DC	Issia	Vinnie	130
+15022014	133402	Liao	Susan	Kolbe	Ed	140
+03112016	184022	Marchand	Mike	Pham	Victoria	170
+06072014	131837	Winslow	Mary	Skidmore	Laura	70
+03032015	162455	Todd	Duncan	Martsen	Vaughn	110
+11072017	091820	Elledge	Terry	Mc	Kinstry Irving	190
+28102014	044047	Patel	Sam	Ridenour	Barbara	130
+06012014	003450	Wilson	Teresa	Kim	Woon	50
+19092017	012819	Perkins	Donald	Urquhart	Jean	70
+30112014	101701	Steen	Jyi	Mccurley	Richard	180
+05072014	221136	Flower	Lydia	Karam	Francis	170
+02082013	144308	Nguyen	Sang	Conklin	Tom	100
+27032017	165257	Mc	Caskill Teresa	Mayl	Sheryl	80
+14052017	132007	Hoke	Mark	Vega	Evaristo	60
+03032014	183006	Dipiazza	Greg	Fujikawa	Toshiko	180
+15062014	180713	Graydon	Robert	Barrientos	Linda	70
+30032015	094615	Askew	Jamie	Lasson	Calvin	160
+17112017	122746	Forney	Brad	Kim	Woon	180
+08112015	093744	Ganimian	Shahe	Mendez	Leonard J	110
+18102016	185729	Tipton	John	Vasser	Ronnie	80
+01072014	053105	Hiemstra	Jim	Conklin	Tom	100
+19042018	095203	Hwang	Seong	Gonzalez	Jose	140
+09022015	133532	Thomas	Bruce	Fowler	Vincent	140
+26022018	130536	Thames	Robert	Borden	Gloria	130
+08092015	002417	Burke	Robert	Chong	Ung Ki	160
+02022015	151120	Williams	Andrea	Broady	George	100
+05032016	191354	Allford	Larry	Ridenour	Barbara	100
+26082014	071705	Evans	Yamasia	Braicich	Agnes	60
+16082014	215056	Tallas	Eddie	Garcia	Gulio	150
+11092017	121223	Saffell	Shane	Benedict	Carol	170
+04032018	061028	Chapman	James	Wong	Vicky	30
+22092013	224323	Jones	Trenton	Gonzalez	Jose	190
+11112016	154654	Fitzgerald	Jim	Brown	Brent	140
+04042017	021317	Silvif	Eric	Green	E	60
+05082015	223223	Tak	Sang	Milinkovic	Milorad	160
+05092017	204500	Tesinsky	John	Rosario	Robert	150
+05032015	004855	Arrendo	Cesar	Conklin	Tom	60
+26112017	222035	Hunter	Terrayce	Broady	George	90
+31082014	104721	Michaels	Tami	Maug	Mary	170
+06012016	013858	Askew	Jamie	Noble	Jesse	70
+07102014	190232	Nimz	James	Abbott	Teresa	80
+23122015	053953	Teter	James	Cutri	Elaine	50
+09082013	080007	Deuster	Thomas	Fox	Karen	50
+21032016	033647	Finley	Terry	Sutter	Danny	80
+11022017	111955	Moore	Carl A	Stone	Ed	200
+02052014	054552	Taggart	John	Sutter	Danny	40
+30012017	115144	Mitchell	Eugene	Zimmit	Vince	160
+11012016	054250	Giza	Richard	Kolbe	Ed	70
+29072016	143550	Santik	Robert	Forte	Ann DC	130
+21052014	110433	Smith	Rafeal	Cox	Joe	90
+29092014	210011	Hazzard	Ted	Mc	Kinstry Irving	130
+21042017	172600	Terpening	Bill	Michel	Jessica	140
+03072016	164032	Layne	Ted	Salem	Chuck	50
+18092017	040805	Mazurkewicz	Elizabeth	Fox	Karen	130
+14042014	082744	Montoya	Tad	Risser	Charles	50
+14122016	005008	Archer	Peter	Milinkovic	Milorad	130
+23072013	081959	Wescom	Terry L	Noble	Jesse	100
+06122016	062825	Wong	Glen	Maug	Mary	110
+07012014	191349	Barton	Tim	Mendez	Leonard J	130
+21122016	124025	Templeton	Ronald	Mc	Kinstry Irving	110
+18122013	210245	White	Kathryn	Tovar	Leonardo	140
+04112017	054521	Houston	John	Barrientos	Linda	110
+23062013	054438	Bui	Phuong	Ridenour	Barbara	170
+09072017	173538	Shine	Terry	Gonzalez	Jose	130
+02092014	020840	Tam	A	Corpening	Kenny	170
+08102014	102400	Jones	Tim	Shunn	Becky	80
+28022015	183819	Sandoval	Arfin	Smith	Steven	140
+03062016	053528	Joung	J J	Zimmit	Vince	50
+03032015	120204	Trushkowsky	Stwart	Milinkovic	Milorad	160
+14032014	071133	Terrell	Frank	Fujikawa	Toshiko	150
+03052016	030655	Hatten	Thalice	Ridenour	Barbara	50
+21012017	122141	Dick	Betty	Milinkovic	Milorad	90
+25042017	024111	Glover	Chris	Van	Winkle Robert	140
+04112016	145050	Tellalian	Barbara	Green	E	190
+29112013	163941	Terry	Jr T Rankin	Michel	Jessica	80
+25022014	091243	Tabba	Sohail	Mumptaz	Muhammad	40
+08042015	231440	Ames	Steven	Chong	Ung Ki	170
+22012016	064626	Walsh	Stephen	Rivera	Evelyn	170
+22012017	224530	Johnson	Eugene	Payrow	Farshid	120
+15082017	210436	Campbell	Terence	Rivera	Evelyn	120
+20072016	102551	Boldt	Theodore C	Vasser	Ronnie	90
+22062016	184454	Speer	Jr Ted	Benedict	Carol	60
+26072014	121627	Michaels	Tami	Tovar	Leonardo	180
+18102017	215341	Palmer	O T	Schroeder	Tom	90
+01062013	011615	Nguyen	Quan	Rosario	Robert	40
+07102014	091222	Fleming	Adrienne	Kim	Woon	50
+06052014	152913	Barber	Larry	Chong	Ung Ki	90
+05112016	095029	Biddle	Craig DC	Mumptaz	Muhammad	40
+20072014	122800	Talboy	Dick	Pham	Victoria	50
+02042017	021816	Maldonado	Tervria	Sardisco	Joe	30
+22052015	221738	Dean	Tom	Van	Winkle Robert	110
+02062017	041631	Babb	Terri	Ridenour	Barbara	60
+05072013	071855	Patterson	Troy	Mc	Kinstry Irving	200
+12072016	121526	Fenison	Michael	Virgen	Victor	190
+02012016	055252	Green	George	Forte	Ann DC	190
+15092014	133944	Johnson	Terrance	Sutter	Danny	50
+16032018	120029	Yoon	Daniel	Stone	Ed	190
+04092015	112250	Daubman	John	Tribble	Harrison O	160
+29112017	013425	Saffell	Shane	Mayl	Sheryl	200
+06012017	001903	Weber	Cindy	Luc	Hao	150
+30042014	024156	Cooper	Robert PhD	Fleischner	Molly	150
+23032015	103415	Nunez	Tirso	Valcich	Tom	180
+28062013	183611	Sheeran	Paul	Michel	Jessica	190
+29082015	104746	Graydon	Robert	Hanna	Scott	110
+19062015	001951	Willingham	Ted	Abbott	Teresa	130
+01022016	070303	Markewicz	Tom	Rosario	Robert	150
+25052013	184436	Felts	T A	Cox	Joe	60
+03102014	110242	Gerard	Tammy	Salem	Chuck	130
+15032016	160026	Yoo	Oksoon	Kim	Woon	190
+27072015	153405	Jargui	Juan	Pham	Victoria	170
+19082015	032809	Rekart	Julie	Varblow	Carl	190
+22122017	071527	Mc	Millin Marshall	Brown	Doyle	190
+23012018	205205	Thuha	Bach	Sardisco	Joe	130
+02012014	233732	Dunn	Colleen	Pham	Victoria	190
+03122015	090440	Taylor	Harry	Van	Winkle Robert	180
+05042015	100233	Taravella	Ed	Noble	Jesse	70
+07072015	005429	Vayer	Sema	Wong	Vicky	50
+20032017	054732	Tomasic	George	Davidson	Grant	50
+18122015	025142	Taylor	Fred	Mcdaniels	Mike	190
+10012015	092941	Griigs	Dennis	Wong	Vicky	120
+11022015	065458	Irwin	Chris	Skidmore	Laura	40
+15112013	150548	Piazza	Tim	Church	Vera	190
+02012015	182806	Tanner	David	Nguyen	Phuong	180
+09122014	065016	Fenstermanker	Rebecca	Sutter	Danny	120
+13102015	130752	Taylor	James DC	Lin	Eddy	70
+04122014	233001	Marsh	Kala	Vega	Evaristo	200
+09072015	102634	Tatro	Gary	Wiltz	Paul	160
+21022015	233412	Tape	Brian	Shper	Paul	190
+03052014	172528	Weyrick	Romon	Shunn	Becky	180
+05032018	145532	Tharp	James	Vega	Evaristo	160
+16072013	080705	Marchionda	Tony	Brown	Brent	90
+25102015	043435	Weedman	William	Fleischner	Molly	90
+09082013	025700	Constantin	Tom	Van	Heule James	150
+18092017	142650	Teter	James	Nguyen	Phuong	70
+02072015	145106	Tate	Elizabeth	Lowe	Betty	60
+17102015	002317	Selland	Zach	Vasser	Ronnie	40
+05092015	235455	Dotson	Janet	Zimmit	Vince	70
+07022015	211506	Rice	Tanya	Risser	Charles	180
+25032014	170617	Rodriguez	Arthur	Mcdaniels	Mike	140
+29032015	115650	Ferraro	Maureen	Issia	Vinnie	190
+24022018	035755	Thal	Alan	Valcich	Tom	90
+29012018	100954	Hall	Donny	Kolbe	Ed	140
+12092016	062644	Teimouri	Vaheed PE	Di	Pirro Thomas	200
+10072014	155936	Frantz	Dennis	Vega	Evaristo	100
+05092016	113937	Teeters	Judy	Johnston	Denny	180
+11122015	100140	Teel	Richard	Braicich	Agnes	40
+09122014	223617	Emberton	Ted	Chong	Ung Ki	180
+04042016	014039	Mellios	John	Maug	Mary	160
+05062017	070746	Rapp	Barney	Carr	James	190
+22042016	024138	Runyan	Pat	Church	Vera	170
+01062013	051426	Kelly	Mike	Maug	Mary	200
+02072013	224430	Nguyen	Larry	Schroeder	Tom	100
+19112013	184808	Mc	Donnell Thomas	Van	Heule James	190
+04042018	063713	Sharp	Dale	Sutter	Danny	150
+09052013	024255	Tanaka	Dennis	Vickers	Jean	90
+24052016	183704	Chears	Susan	Vickers	Jean	180
+17012017	132823	Horst	Jackie	Virgen	Victor	140
+22092015	150150	Chidraoui	Romanos	Rivera	Evelyn	130
+02032016	141535	Mclaughoin	Tammy	Boyton	Affree	130
+22012014	211125	Keating	Bill	Vega	Evaristo	120
+12052016	065721	Shadpour	Ahmad	Michel	Jessica	170
+25052013	124012	Bell	T A	Braicich	Agnes	30
+09072016	034415	Pawlikowski	Anna	Cox	Joe	50
+19122014	031154	Tanis	David B DC	Payrow	Farshid	60
+15102015	203812	Thai	Lin	Strohbeen	Mary	70
+01082014	215248	Taylor	Carol	Kim	Woon	40
+24112016	081937	Gerard	Tammy	Di	Pirro Thomas	120
+30112015	184054	Taylor	Sue	Gonzalez	Jose	140
+28102017	123805	Pak	Kil	Valcich	Tom	120
+29082016	201835	Robinson	Noel	Zimmit	Vince	150
+22062014	133611	Tram	Loc	Salem	Chuck	180
+13122014	021758	Kruse	Terry	Auriemma	Maria	150
+21092016	184146	Ransom	Doug	Noble	Jesse	40
+18112013	181613	Polito	Terry	Veasey	Deborah	120
+27032017	155612	Squire	Theresa	Vasser	Ronnie	160
+16032016	075300	Monderer	Thea	Hanna	Scott	80
+07072013	231949	Morre	Ted	Shaskas	John R	180
+24052017	221934	Koch	Terri	Johnston	Denny	140
+03102016	074616	Longstreet	Peggy	Hee	Kyong	160
+15082017	041849	Broad	Terry	Payrow	Farshid	80
+09112016	080724	Herndez	Luz	Gonzalez	Jose	180
+21032017	162743	Tims	Teresa	Sutter	Danny	170
+17102013	154850	Vaccari	Ed	Green	Richard	90
+28042014	225845	Ganser	Troy	Ridenour	Barbara	180
+19032014	222956	Tackett	Pat	Tribble	Harrison O	120
+18022016	224115	Coscarella	David	Carr	James	100
+25102013	212012	Montoya	Tad	Hee	Kyong	130
+11042017	141002	Womack	Norris	Abbott	Teresa	160
+10092017	221149	Tessmer	Melvin	Turner	Edward	150
+23042015	042923	Minor	Kathie	Milinkovic	Milorad	90
+16042014	073554	Tadros	Sam	Green	E	130
+18112016	064012	Mc	Cracken Terri	Turner	Edward	150
+19072014	061042	Wanker	Don	Tyrrell	Chris	120
+22042015	102231	O'Brien	Terry	Smith	Steven	200
+03102017	214802	Jensen	Chris	Urquhart	Jean	190
+01112013	200713	Rosen	Marc	Veasey	Deborah	130
+31082017	152056	Fisher	Terry	Green	Richard	110
+09112015	193531	Daghfal	Dan	Milinkovic	Milorad	190
+10032018	075218	Takahashi	Mirna	Chong	Ung Ki	180
+10032016	112837	Hance	Eric	Mc	Kinstry Irving	200
+08122013	113453	Bauman	Thelma	Milinkovic	Milorad	150
+30062016	183218	Hazzard	Ted	Fleischner	Molly	110
+28052015	051349	Swartz	Pamela	Burney	Kelly	90
+30042018	194630	Webster	Beverly	Ball	Sam	170
+11012018	194229	Martin	Mary Ellen	Davidson	Grant	80
+15012014	233055	Hoaglund	Dick	Varblow	Carl	160
+28102014	072504	Davis	Mary	Kim	Woon	60
+21102017	173722	Gonzales	Manuel	Fowler	Vincent	70
+10052015	062052	Mac	Vettie Sylvia	Nguyen	Kim	60
+17082013	032336	Hamel	Terry	Vanderwaal	Randy	170
+05072013	222244	Taggart	Brian	Maug	Mary	170
+11102017	063841	Pyne	Neil	Tovar	Leonardo	170
+05052016	200256	Robinson	Ed	Urquhart	Jean	110
+10122016	050235	Bass	Randy	Lasson	Calvin	120
+03092015	230807	Brown	Lisa	Nguyen	Kim	50
+02102015	121135	Needle	David	Zakos	Jim	110
+21112013	205339	Rohr	Todd	Schroeder	Tom	140
+17042017	202810	Christenson	Janet	Barrientos	Linda	150
+21112016	095425	Britsch	Calvin	Bauch	Jane	90
+28032017	153625	Terese	Lois	Fujikawa	Toshiko	50
+10082014	010910	Efurd	Maurine	Skidmore	Laura	50
+14062017	231605	Campbell	Terry	Mcdaniels	Mike	120
+12062016	072249	Ali	Danny	Boyton	Affree	150
+04032017	012524	Pineda	Sylvia	Mumptaz	Muhammad	140
+13062014	101449	Pruett	Phil	Ridenour	Barbara	90
+27022015	201504	Mullens	Ed	Stone	Ed	50
+08052016	195521	Branch	Kenneth	Cortez	Fernando	140
+10022018	020414	Devereux	Adam	Pham	Victoria	190
+07032017	063123	Ter	Best David	Vasser	Ronnie	150
+21032018	114049	Buckspan	Alan	Forte	Ann DC	80
+23072017	033554	Kwarta	Dale	Pham	Victoria	130
+27032015	180710	Klingler	Bryce	Maug	Mary	200
+16012018	014328	Petro	Vicki	Johnston	Denny	180
+18062013	043702	Cargile	Teresa	Sardisco	Joe	190
+25012018	011534	Thacker	Jack	Mc	Kinstry Irving	170
+23032018	020500	Thatcher	George	Cutri	Elaine	90
+05052016	133725	Mc	Vay Ted	Nguyen	Phuong	30
+12102014	005520	Fan	Charles	Strohbeen	Mary	150
+20012015	081230	Mc	Allister Corey	Rivera	Evelyn	130
+08012015	202752	Pfennings	James	Conklin	Tom	50
+11032015	055828	Gomez	Rodolso	Starks	Cassandra	160
+11032018	012902	King	R	Van	Winkle Robert	150
+07122014	200618	Franks	Wendi	Tovar	Leonardo	130
+07102017	212842	Ali	Karim	Shaskas	John R	50
+14042015	004507	Ali	Abdo	Cutri	Elaine	120
+07102014	030324	Pray	David	Karam	Francis	180
+25092014	163007	Barette	Tammy S	Borden	Gloria	40
+22082014	143547	Taravella	Ed	Skidmore	Laura	60
+12122014	040144	Brown	Heather	Lasson	Calvin	190
+04062015	105542	Tim	Michael	Shper	Paul	180
+21022018	013952	Panossian	Odette	Wiltz	Paul	90
+16052013	064949	Schoppert	Tom	Michel	Jessica	180
+30042018	064828	Brown-Flowers	Sylvia	Conklin	Tom	130
+09012017	143756	Blunck	Tom	Garcia	Gulio	130
+31012018	180842	Nguyen	Trang	Mendez	Leonard J	190
+26112015	085639	Taylor	Roger	Kim	Woon	200
+22032014	070534	Briceno	Alonzo	Milinkovic	Milorad	100
+13102016	205939	Buyo	Gloria	Wiltz	Paul	180
+16032014	081907	Krubow	Caroline	Mccurley	Richard	40
+02092017	192635	Croce	Harry	Valcich	Tom	160
+05092017	032040	Shirley	Thomas E	Hee	Kyong	40
+14062016	193921	Cronk	Ted	Mumptaz	Muhammad	170
+16062014	061906	Kam	Siu	Payrow	Farshid	190
+01022014	025453	Pellegrini	William	Cortez	Fernando	180
+23092013	083839	Tak	Sang	Martsen	Vaughn	80
+28032015	101245	Stubbs	Rita	Gonzalez	Jose	160
+15082017	143830	Van	Wagoner Terry	Gonzalez	Jose	190
+04082013	144026	Ishiki	Tokusuke	Shaskas	John R	110
+19032014	032533	Tacker	Thomas	Luc	Hao	80
+11112013	211904	Le	Jimmy	Kim	Woon	60
+11092014	064058	Ewert	Jerry	Green	E	130
+26092016	080629	Ratzlaff	Curtis	Veasey	Deborah	180
+24122016	010318	Templeton	Tom	Pham	Victoria	150
+18102017	004917	Ilog	Teresita	Zakos	Jim	130
+26082014	132137	Sonners	Sara	Maug	Mary	120
+03122016	153818	Temple	H L	Kim	Woon	100
+19072014	032955	Talbot	Kim N	Auriemma	Maria	50
+13112016	000343	Erdmann	Scott	Carr	James	140
+25062014	095753	Krajcovic	Tim	Zimmit	Vince	40
+01032018	084806	Ngyuen	Jimmy	Burney	Kelly	110
+02052014	234000	Taggart	Brian	Green	E	120
+25052015	095121	Knox	Mike	Cortez	Fernando	50
+19102014	225316	Terry	Jr T Rankin	Conklin	Tom	140
+14122013	051621	Tomassetti	Terrence E	Shaskas	John R	170
+13122015	010219	Taylor	Danny	Benedict	Carol	160
+25122015	064508	Cao	Dung	Green	E	100
+13102014	055001	Vardinian	Aramis	Mendez	Leonard J	160
+28092016	200640	Sherman	Harry	Nguyen	Kim	40
+08032018	180405	Clamett	William	Rosario	Robert	160
+17042018	212722	Wright	Shatina	Borden	Gloria	110
+12022018	044410	Kaewkaen	N	Rosario	Robert	180
+09072017	073718	Schwartz	Terry	Brown	Brent	130
+09102014	072750	Collinsworth	Darin	Fox	Karen	80
+17022014	132309	Lucas	Glenn	Tovar	Leonardo	60
+24032015	174341	Fritz	Randy	Burney	Kelly	70
+17062015	233135	Revel	Beatrice	Turner	Edward	190
+23072017	072016	Coning	Terry	Lust	Desiree	50
+29052014	085700	Hu	Yong	Richards	Stuart	100
+12032018	201513	Strategier	Nancy	Stone	Ed	90
+17042015	050237	Taylor	Barry	Kim	Woon	110
+24052017	220620	Dennett	Bob	Brown	Doyle	150
+07112016	225603	Bensky	Robert	Sutter	Danny	70
+19072016	202633	Dick	Betty	Varblow	Carl	140
+14122015	091104	Watkins	John	Cox	Joe	140
+03012018	150916	Shinabarger	Peggy	Rivera	Evelyn	30
+09122017	071303	Davidson	Terry	Lowe	Betty	130
+17062015	080939	Chu	Richard	Davidson	Grant	60
+16122016	171854	Morlok	Ted	Green	Richard	60
+07092015	205055	Evans	Rodney	Maug	Mary	200
+27122014	110303	Elliott	Pat	Barrientos	Linda	130
+19052013	155139	Merriman	Tracy	Skidmore	Laura	160
+16112013	114732	Seis	Joe	Michel	Jessica	60
+12012018	030819	Frodge	Ted	Strohbeen	Mary	150
+07052014	050111	Taha	Daher	Smith	Steven	40
+12042014	231334	Tade	Scott	Burney	Kelly	120
+15112015	180135	Theis	Chad	Valcich	Tom	170
+05062017	100143	Hottenstein	David	Barrientos	Linda	200
+09062017	065638	Galisky	Larry	Hee	Kyong	30
+17022018	125441	Thain	Eang	Cox	Ty	120
+19012014	204345	Linkkila	Sr Anthony R	Barrientos	Linda	50
+05022017	003927	Thorington	Martin	Rosario	Robert	40
+14092016	074121	Bagga	Lakshmir	Chong	Ung Ki	100
+05072015	093909	Forney	Brad	Borden	Gloria	130
+09022014	233422	Todd	Duncan	Luc	Hao	30
+22082017	135831	Steele	Terry	Tribble	Harrison O	40
+28052016	021305	Rodriguez	Jorge	Stone	Ed	190
+28102015	105232	Taylor	Bob	Brown	Brent	160
+31012016	094205	Hawk	Tom	Payrow	Farshid	120
+24052014	034128	Palumbo	Dan	Tovar	Leonardo	90
+19012017	181919	Kester	Mary	Brown	Doyle	40
+24032015	014126	Tomasic	George	Mendez	Leonard J	110
+22042014	015929	Barnum	Patti	Luc	Hao	110
+07092016	123508	Aschenbrenner	Tom	Risser	Charles	130
+27012018	100908	Fortune	Anthony	Schroeder	Tom	90
+20082014	050752	Talley	Greg	Issia	Vinnie	50
+23112016	183614	Dennett	Bob	Wiltz	Paul	190
+25112013	114353	Patterson	Theodore	Turner	Edward	60
+24052013	100350	Tenbusch	Larry	Zakos	Jim	180
+23012015	150701	Ascherin	Arlene	Conklin	Tom	40
+15042018	085357	Boldt	Keith	Sardisco	Joe	50
+27102014	041857	Goodgine	Heidi	Lin	Eddy	190
+27102017	185724	Christopher	Robert	Issia	Vinnie	40
+12042018	085806	Disapil	Roger	Abbott	Teresa	60
+19102017	202541	Coleman	Bill	Karam	Francis	100
+28112014	003143	Fenstermanker	Rebecca	Mc	Kinstry Irving	70
+18082015	154121	Nguyen	Trisha	Cox	Joe	70
+17072015	103342	Chandler	Gavin	Issia	Vinnie	90
+29082015	051010	Edwards	Arlene	Payrow	Farshid	70
+03112017	013953	Lopez	Victor	Tribble	Harrison O	70
+07092017	042231	Tevis	Randy	Bauch	Jane	140
+24022016	161029	Norton	Charles	Zimmit	Vince	140
+25092016	031007	May	Paul	Varblow	Carl	70
+05042014	014243	Gutierrez	Joe	Ball	Sam	50
+21052016	134545	Rapp	Barney	Cortez	Fernando	50
+01012017	161638	Cooper	Julius	Tovar	Leonardo	120
+27052016	050241	Bailey	Tim	Mcdaniels	Mike	70
+08062017	114304	Terrill	Robert	Di	Pirro Thomas	150
+19082013	044539	Teal	Bob	Schroeder	Tom	120
+05082013	113818	Reed	Joyce	Conklin	Tom	110
+12122017	202832	Tatum	Tim	Abbott	Teresa	40
+07112015	141211	Chaffin	Kenneth	Shaskas	John R	110
+17052017	094948	Hillmen	H	Broady	George	150
+23032014	050004	Nailen	Jr C	Milinkovic	Milorad	160
+20042017	192347	Jackson	Jerome	Wiltz	Paul	80
+11042017	231218	Yoo	Oksoon	Vasser	Ronnie	160
+20032015	102213	Pickering	Dave	Schroeder	Tom	160
+21032014	161325	Woods	AL	Benedict	Carol	70
+16082013	030921	Phillips	James E	Fleischner	Molly	190
+28122016	152234	Dicicco	Geraldine	Burney	Kelly	50
+18052014	151617	Taneyhill	Daniel	Veasey	Deborah	50
+30092013	120551	Polito	Terry	Valcich	Tom	170
+24112016	003845	Monderer	Thea	Pham	Victoria	30
+10102016	090544	Harting	Dennis	Hanna	Scott	50
+26032018	143216	Harris	Thayla	Conklin	Tom	90
+30042014	021957	Gandley	Aneita	Maug	Mary	90
+09102016	023443	Heffner	Terry	Payrow	Farshid	30
+05012018	132158	Thorington	Martin	Virgen	Victor	130
+07012015	153154	Kimbrough	Tonya	Maug	Mary	130
+14042018	111138	Sanchez	Monarae	Ridenour	Barbara	60
+23122015	153536	Xiao	Terry	Vanderwaal	Randy	80
+07032017	034150	Porec	John	Benedict	Carol	160
+03032017	115341	O'Dell	Tom	Ball	Sam	180
+02022018	021817	Tsouprake	Ted E	Vasser	Ronnie	120
+02082014	042711	Richardson	Debbie	Davidson	Grant	50
+11102014	223223	Melillo	Philip	Nguyen	Kim	110
+21122016	111228	Hinckley	Buzz	Varblow	Carl	80
+30092016	201153	Koehler	Herb	Risser	Charles	190
+15102013	180839	Woolfolk	Lance	Garcia	Gulio	70
+11022015	202600	Taormina	Vince	Lust	Desiree	130
+09052015	005639	Schmeichel	Kurt	Kolbe	Ed	40
+14102014	173558	Wang	Andy	Boyton	Affree	140
+24022018	032325	Tanasomboon	Suiasak	Strohbeen	Mary	110
+15112017	034831	Bowden	Carolyn	Brown	Doyle	160
+26012015	130111	Sullivan	David	Vanderwaal	Randy	100
+30112015	181241	Calhoun	Joyce	Braicich	Agnes	150
+07102017	174556	Ward	Randell	Cox	Ty	30
+27012018	093930	Thackerland	Gary	Corpening	Kenny	140
+22092015	231512	Rios	Aida	Varblow	Carl	160
+01102013	185321	Taylor	Barry	Starks	Cassandra	170
+20052017	184425	Galani	Amir	Lowe	Betty	160
+07022014	225813	Montgomery	Rick	Zimmit	Vince	130
+24032014	105957	Mays	Donna	Mumptaz	Muhammad	130
+29032014	225615	Hillmen	H	Lust	Desiree	120
+05012014	152354	Tennant	Robert DC	Johnston	Denny	80
+01122016	032249	Tempest	Lance	Burney	Kelly	80
+20112013	192919	Revel	Beatrice	Chong	Ung Ki	200
+13052014	042749	Wright	Terry	Shunn	Becky	80
+25112013	194550	Reed	Terry	Shunn	Becky	150
+16072014	195151	Terranova	Ralph	Tribble	Harrison O	110
+07092014	025759	Trinh	Lisa	Wong	Vicky	60
+23012014	181959	Randolph	Bill	Ugarph	Dave	40
+19102016	175505	Tait	Tim	Vickers	Jean	90
+21102016	232032	Stemwedel	George	Turner	Edward	120
+27072015	155554	Pelham	Patricia	Mumptaz	Muhammad	60
+04032017	135220	Beatriz	David	Di	Pirro Thomas	110
+14092014	235432	Buttram	Tami	Vanderwaal	Randy	160
+20092016	013359	Kistner	Ken	Fleischner	Molly	80
+16082017	234400	Van	Beek Terry	Vasser	Ronnie	150
+16082014	083328	Rickner	Terry	Karam	Francis	60
+30052017	221927	Tartt	Richard	Tribble	Harrison O	80
+05022014	150113	Roberts	Ernie	Tyrrell	Chris	170
+06062014	065420	Young	Linda	Luc	Hao	160
+15112015	165914	Taylor	Thomas J	Sardisco	Joe	40
+03072017	072420	Chen	Phil	Zimmit	Vince	40
+02022016	030710	Fontaine	David	Valcich	Tom	120
+01062017	134926	Pita	Teresa	Braicich	Agnes	110
+30042018	073952	Simons	Eizabeth	Fox	Karen	110
+19012017	181747	Polito	Terry	Burney	Kelly	30
+05052013	141803	Tyndall	William	Rosario	Robert	120
+30092015	080147	Kennedy	Brenda	Mendez	Leonard J	180
+13082017	031603	Stovall	Terry	Green	E	80
+21042016	125209	Hoffman	Craig	Skidmore	Laura	120
+15082014	051813	Raznewski	Bruce	Milinkovic	Milorad	190
+22112017	134136	Bielecki	Darrell	Mendez	Leonard J	190
+10012016	101213	Olson	Sam	Wiltz	Paul	130
+09092017	180810	Chinn	Lynne	Shaskas	John R	90
+01102013	191842	Johnson	Tami	Richards	Stuart	100
+30032016	042001	Jobs	Tracy	Salem	Chuck	160
+06102013	142545	Delcambre	Thomas	Lin	Eddy	80
+20052014	182922	Farer	Bo	Hanna	Scott	60
+16092013	114228	Bennett	John	Brown	Brent	100
+19092013	054820	Unvert	Tom	Barrientos	Linda	60
+08072013	175811	Epperson	Tim	Duong	Lewis	110
+29122017	121459	Terry	Ronnie	Wiltz	Paul	160
+23092017	065015	Bopp	Fred	Mcdaniels	Mike	190
+15112017	002057	Baker	Derek	Virgen	Victor	190
+12072017	133442	Van	Horn Terry D	Rivera	Evelyn	30
+28022017	221156	Taylor	Paul	Mayl	Sheryl	140
+20062015	192127	Tashchian	Sarkis	Payrow	Farshid	70
+10062017	211230	Salzibar	Santiago	Brown	Doyle	120
+22082016	200322	Teel	Chuck	Skidmore	Laura	50
+18062016	042408	Mazanec	Tracy	Carr	James	120
+04122013	044126	Wolke	Madelyn	Mcdaniels	Mike	200
+05052017	143719	Meyer	Thomas G	Braicich	Agnes	50
+20022016	084759	Grossman	Bob	Broady	George	80
+15022016	223209	Gottlieb	Isreal	Hanna	Scott	130
+19122014	174924	Barnes	Ernest	Tyrrell	Chris	150
+21062014	123934	Sing	Amrik	Forte	Ann DC	130
+15032016	104850	Arrowood	D D	Smith	Steven	150
+13122015	062531	Brabo	Crozbo	Fleischner	Molly	170
+07072017	065058	KY	Thanh	Schroeder	Tom	120
+26102017	030706	Wright	Shatina	Tovar	Leonardo	190
+25072013	213410	Taul	John	Nguyen	Phuong	120
+29112013	004057	Pienert	Tony	Davidson	Grant	100
+18112017	100253	Tillman	Hubert	Tyrrell	Chris	170
+23102016	103943	Perry	Sheila	Issia	Vinnie	150
+28102014	020817	Wilson	Jeff	Shper	Paul	190
+16112013	034121	White	Glen	Vega	Evaristo	180
+01122017	175708	Ruiz	Levi	Sardisco	Joe	150
+26082013	214808	Dodaro	Joseph	Green	Richard	40
+04122013	125930	Sechrist	Tim	Vasser	Ronnie	140
+23052014	221259	Bofe	Dbh	Vasser	Ronnie	80
+17012018	021622	Seymour	Nancy B	Smith	Steven	80
+12102013	143359	Lewis	Trish	Mumptaz	Muhammad	80
+14042018	005749	Thelusmond	Elius	Conklin	Tom	60
+12032014	163529	Kajani	Yasmeen	Lin	Eddy	50
+29032018	110340	Petruy	Liliana	Sardisco	Joe	150
+31082013	004820	Longwell	Tom	Rosario	Robert	150
+29032016	200804	Sullivan	Dan	Borden	Gloria	80
+13092014	192557	Tamer	John	Shper	Paul	140
+30062016	194333	Condon	Calvin T	Ugarph	Dave	190
+29092014	155715	Kirby	Tamara	Hee	Kyong	130
+30092014	043229	Smith	Tammy	Skidmore	Laura	100
+02112016	105714	Askew	Jamie	Risser	Charles	140
+24112016	134530	Lecea	Oscar	Luc	Hao	110
+29112014	024907	Parker	Amy	Starks	Cassandra	80
+03102017	105138	Calderon	Guadalpe	Ridenour	Barbara	90
+04102014	010100	Sudsbury	Tammy	Ball	Sam	190
+14042015	045013	Bell	Brent	Kim	Woon	160
+11092015	110632	Nuangkhamma	Malai	Hanna	Scott	150
+06102017	165442	Ammar	Loay	Church	Vera	80
+14052017	140202	Hardin	Mark	Cox	Joe	170
+22082016	152835	Keegan	Eileen	Tyrrell	Chris	110
+22022015	140841	Anglum	Tim	Tovar	Leonardo	200
+11062017	164619	Alaimo	Terry	Auriemma	Maria	40
+18102016	221800	Lyman	William	Gonzalez	Jose	140
+10022018	025043	Gosar	Peter	Hee	Kyong	110
+13112015	175726	Taylor	Brian	Ugarph	Dave	170
+20062014	185050	Bofe	Dbh	Zakos	Jim	200
+03012016	105345	Reed	Frank	Davidson	Grant	130
+08032015	154921	Camirena	Martin	Brown	Doyle	100
+19062013	215719	Jacobson	Sue	Cortez	Fernando	110
+07112015	193340	Simpson	Pete	Burney	Kelly	60
+26022015	092145	Harvey	John	Pham	Victoria	110
+08032018	061257	Vushnonney	Amin	Payrow	Farshid	50
+22072017	024218	Klingler	Bryce	Duong	Lewis	160
+24022017	160637	Podolin	Roy	Church	Vera	90
+08052014	062047	Kamal	Sarah	Luc	Hao	40
+03122017	104644	Teague	Eric	Corpening	Kenny	200
+05112017	163727	Talboy	Dick	Sutter	Danny	170
+22022016	103712	Portenga	Windi	Johnston	Denny	150
+05012015	092650	Bailey	Dan	Bauch	Jane	70
+17062014	092325	Johnson	Ted	Turner	Edward	70
+28092016	193553	Loveland	Larry	Brown	Doyle	170
+12102017	121132	Taylor	Dennis	Martsen	Vaughn	50
+28102015	155712	Taylor	John	Boyton	Affree	150
+16122017	151121	Davis	Nathaniel	Payrow	Farshid	70
+17052013	024557	Henderson	Jeanice	Vanderwaal	Randy	30
+18052013	045449	Jett	Tina	Martsen	Vaughn	90
+11012017	104213	Mihiols	Mike	Urquhart	Jean	180
+20032015	214758	Patel	Sam	Green	E	130
+03052015	014923	Stepankowski	Tamara	Strohbeen	Mary	200
+17102014	081155	Goodeaux	Oliver	Risser	Charles	30
+21122013	134757	Green	Bill	Bauch	Jane	170
+30122013	161951	Causby	Elizabeth	Chong	Ung Ki	180
+12112013	093534	Psan	Tai	Lust	Desiree	80
+26072014	180944	Huggins	Maylynda	Turner	Edward	70
+26092016	002831	Vega	Elia	Cutri	Elaine	40
+28112016	233020	Buckstaff	Clyde	Valcich	Tom	130
+10012018	150104	Mc	Camant J A	Green	Richard	70
+24092016	132519	Siracuse	Chris	Noble	Jesse	60
+30042017	113327	Chandler	Gavin	Forte	Ann DC	150
+26062017	182221	Linane	Terry	Braicich	Agnes	70
+29122015	172345	Lewis	Mark	Conklin	Tom	120
+05092013	011044	Chiang	Jeffrey	Van	Winkle Robert	180
+07112013	101114	Baker	Darren	Burney	Kelly	70
+10072013	064654	Martinez	Ernesto	Michel	Jessica	50
+26012015	033356	Nofziger	Kittie	Nguyen	Kim	120
+20022018	203446	Sullivan	Dan	Kolbe	Ed	40
+29032018	041829	Toppelhauer	Terry	Luc	Hao	130
+10012014	045457	Tran	Khue	Brown	Doyle	100
+20032018	001043	Qualley	Randy	Kim	Woon	200
+04022018	040357	Stach	Launa	Nguyen	Phuong	140
+21062017	100111	Juckem	Anthony	Duong	Lewis	140
+14032015	115805	Taneyhill	Daniel	Vickers	Jean	110
+12042015	203858	Oglum	Scott	Turner	Edward	120
+07122013	022045	Davis	Ishea	Di	Pirro Thomas	100
+10112017	032344	Kennedy	Brian	Mcdaniels	Mike	200
+21042014	132326	Kollars	Craig	Davidson	Grant	60
+07062016	085744	Coleman	Bill	Mccurley	Richard	50
+06042014	102145	Landry	Don	Vasser	Ronnie	40
+19092013	044520	Phan	Quoc	Ugarph	Dave	90
+26032014	174029	Sepulveda	Guveyudch	Rosario	Robert	190
+06012018	002432	Tashcyan	George	Ridenour	Barbara	190
+03122015	015251	Taylor	Robert	Cortez	Fernando	70
+07052017	013233	Terral	James	Starks	Cassandra	80
+22042018	225640	Zentner	Theodore F	Tyrrell	Chris	90
+25112017	074341	Tannehill	Bernice	Brown	Doyle	160
+11042014	074841	Tacusalme	Rabbonni DC	Karam	Francis	70
+20012014	163358	Copeland	Terry	Richards	Stuart	170
+27032014	141154	Desiderio	Alfredo	Pham	Victoria	40
+12092015	014350	Booker	Patricia	Carr	James	180
+20012016	180611	Casseday	Robert	Urquhart	Jean	40
+01082016	122434	Tedesco	Charles	Van	Winkle Robert	90
+01052017	160724	Hendren	Taylor	Vanderwaal	Randy	120
+17102014	094331	Pulliam	Larry	Kim	Woon	70
+07102017	110705	Patterson	Deanna	Fujikawa	Toshiko	60
+08092013	031435	Brady	Thomas	Green	E	40
+02072013	010807	Mittner	Tom	Green	Richard	160
+04062015	153055	Manbeck	T S	Barrientos	Linda	130
+08032014	081443	Brady	Thomas	Vega	Evaristo	170
+03072017	161417	Shirley	Thomas E	Luc	Hao	130
+21052016	115125	Thacker	Jack	Pham	Victoria	140
+28072014	141943	Ten	Eyck Brenda	Sutter	Danny	70
+16022014	071107	Powell	Judith	Tovar	Leonardo	160
+25042017	231135	Haddad	David	Bauch	Jane	190
+28022017	145353	Seymour	Nancy B	Boyton	Affree	160
+18022018	165615	Supatwanich	Pat	Lin	Eddy	140
+18012018	214453	Orak	Igor	Starks	Cassandra	170
+11022014	201610	Imel	Troy	Chong	Ung Ki	130
+17032014	212106	Pruett	Phil	Barrientos	Linda	70
+29092015	040236	Smith	Collier	Vickers	Jean	100
+06012017	181741	Akers	Eddy	Shunn	Becky	140
+30092017	052605	Lee	Sunny	Stone	Ed	50
+16032014	201507	Newton	Jenifer	Skidmore	Laura	40
+30052014	024043	Franzen	Karin	Cox	Ty	120
+23052016	051334	Cho	Sung	Tovar	Leonardo	50
+28082017	132839	Chung	Susan	Tyrrell	Chris	30
+16062015	000938	Wahl	Tamara	Van	Winkle Robert	60
+18042015	053640	Doane	Tuthill	Hee	Kyong	130
+30092013	212528	Elkins	Kevin	Maug	Mary	100
+07122016	021732	Adams	Donald	Fowler	Vincent	130
+16022016	144604	Smith	Jan	Van	Heule James	100
+30112015	141107	Taylor	Allen	Tovar	Leonardo	160
+03112014	233902	Seaman	T P	Milinkovic	Milorad	130
+22042017	132541	Tedder	Carlton	Green	E	140
+07092016	225600	Erwin	Yuriko	Abbott	Teresa	110
+10042018	121915	Eastman	Dana	Milinkovic	Milorad	90
+11082015	190441	Brown-Soltero	Elisa M	Boyton	Affree	50
+08032018	203254	Jones	Bradley	Kolbe	Ed	120
+19062013	002641	Fisher	T C	Mendez	Leonard J	90
+26032017	104515	Reid	Teresa	Veasey	Deborah	100
+01042015	235529	Simpson	Van	Tovar	Leonardo	110
+28122013	232124	Collins	Wade	Green	E	160
+22072014	125643	Blakley	Bill	Veasey	Deborah	140
+07122017	053524	Crawford	Greg	Issia	Vinnie	80
+04042018	204900	Theis	Charles	Carr	James	110
+30072017	081912	Ludack	Teresa	Benedict	Carol	30
+22042018	052042	Schwartz	Terry	Lin	Eddy	80
+15082014	081447	Woodring	Ralph	Brown	Brent	170
+22122014	222142	Blair	Wendell	Nguyen	Kim	200
+17112015	190943	Scherer	Lisa	Green	E	160
+30122016	033914	Carroll	Dorothy	Cutri	Elaine	110
+08042016	085741	Tannenbaum	Philip	Hanna	Scott	180
+02062014	105145	Clure	Judy	Kim	Woon	80
+10022017	193738	Mc	Gowan Tim	Brown	Doyle	70
+04102014	001011	Wald	Tammy	Barrientos	Linda	150
+04102014	041930	Sayger	Tamara	Starks	Cassandra	80
+14032014	095757	Damman	Ben	Van	Heule James	190
+02062017	171524	Westover	Terri	Lowe	Betty	90
+18082013	234920	Magee	T J	Broady	George	180
+23112013	103533	Hines	Terry	Gonzalez	Jose	180
+19062015	152319	Taing	Michael	Broady	George	100
+04022018	151447	Beyer	Leroy P	Wong	Vicky	170
+02122017	152640	Elliott	Pat	Ugarph	Dave	150
+14052014	143548	Alexander	Bob	Cox	Joe	80
+03052014	224643	Ho	Yiu	Skidmore	Laura	150
+02082015	001013	Bohnet	Suzanne	Rosario	Robert	30
+25052013	170243	Todd	Thomas	Nguyen	Phuong	70
+21022016	234652	Teal	Bob	Brown	Brent	30
+29052013	062811	Thompson	Billy	Gonzalez	Jose	40
+27032014	114233	Hodge	Charles	Shaskas	John R	70
+30112017	172531	Hatch	Patricia	Brown	Doyle	130
+05122015	031333	Taylor	Dennis	Fujikawa	Toshiko	190
+11122014	120032	Rice	Beth	Kolbe	Ed	170
+25052015	160008	Matthews	Kendra	Nguyen	Phuong	180
+11032017	113851	Lynch	Dan	Church	Vera	50
+15102013	165306	Hartmann	Terry	Kolbe	Ed	90
+05102015	203836	Taylor	Susan	Brown	Brent	90
+04022018	121750	Lertpanichpuns	Somsri	Hanna	Scott	100
+06042016	163315	Woolsey	Ronald	Auriemma	Maria	110
+28022018	061817	Vu	Thang	Virgen	Victor	50
+29012017	225804	Merrill	Kent	Milinkovic	Milorad	80
+12032014	141224	Taquino	Don	Virgen	Victor	170
+17102017	065028	Taft	Dean	Gonzalez	Jose	110
+29122017	222504	Pizzolato	Adrienne	Risser	Charles	100
+28072013	164046	Davis	III Thomas H	Boyton	Affree	70
+06102015	022547	Taylor	Pat	Fox	Karen	60
+17052016	130756	Honan	Steve	Davidson	Grant	30
+07032015	094131	Mendoza	Hosea	Church	Vera	90
+10112015	155523	Hall	Donny	Martsen	Vaughn	90
+05052017	185310	Wilkerson	Martin	Lust	Desiree	120
+12102015	022805	Tebeau	Marvin	Strohbeen	Mary	60
+19122014	232445	Smith	Holloway W	Payrow	Farshid	140
+03032016	135411	Team	Charlie B	Varblow	Carl	90
+14042016	190254	Davis	Tracy	Noble	Jesse	120
+14062014	211412	Jendrzejewski	John	Mccurley	Richard	200
+11122016	125814	Booker	Patricia	Lust	Desiree	50
+06082017	042739	Cooper	Julius	Mayl	Sheryl	80
+19062017	074121	Eaglin	Terry	Schroeder	Tom	180
+29072013	021411	Heffner	Terry	Vega	Evaristo	200
+05082016	225347	Schoenmakers	Steve	Borden	Gloria	150
+24072016	005409	Scott	Deborah	Stone	Ed	40
+28122016	211900	Lesmez	Gene	Vasser	Ronnie	180
+17022015	031742	Kim	Duk	Di	Pirro Thomas	160
+09072014	134325	Harum	John	Varblow	Carl	150
+29082013	102741	Mc	Cullough Joe	Fowler	Vincent	150
+05102015	200047	Taylor	Jerry	Shunn	Becky	70
+26052016	132833	Wahlrab	Michael	Hanna	Scott	100
+28042017	052104	Ziggerman	Norman	Broady	George	160
+04082015	103029	Boyd	Chris	Karam	Francis	180
+07022018	065819	Lim	Penny	Fox	Karen	70
+13072015	064018	Puska	Connie	Fowler	Vincent	170
+03062015	160934	Landreth	Howard	Urquhart	Jean	30
+27092015	033119	Wright	Tom	Cox	Joe	100
+25092016	161042	Parker	Derrick	Johnston	Denny	100
+27012017	024814	Bailey	Diane	Ugarph	Dave	40
+21092015	030029	Brown	Glendora	Rosario	Robert	120
+30042017	224634	Stevanovich	Dusan	Smith	Steven	170
+23072016	021435	Boatright	Tom	Turner	Edward	50
+30092013	190638	Davies	Debbie	Wong	Vicky	70
+12092015	145147	Hoang	Giam	Gonzalez	Jose	130
+10082017	100020	Taylor	Fred	Burney	Kelly	130
+12112017	172152	Neighbous	Ronnie	Urquhart	Jean	120
+19022016	111945	Siefert	Raleigh G	Vanderwaal	Randy	110
+22072013	202427	Martin	T G	Mcdaniels	Mike	90
+19092016	221958	Elswick	Terri	Zakos	Jim	130
+21122017	051226	Procaccini	Jim	Risser	Charles	80
+13102014	090736	Le	Dung	Payrow	Farshid	100
+04072016	091355	Willingham	Ted	Fleischner	Molly	140
+14122016	174133	Temples	Robert	Richards	Stuart	120
+06052015	020244	Pray	David	Shunn	Becky	100
+23102016	173132	Olsten	Oly	Gonzalez	Jose	110
+28082017	101939	Terry	Jr Winford	Ugarph	Dave	110
+11092013	024350	Thomas	Wanda	Lasson	Calvin	60
+05122013	162228	Terrill	Robert	Forte	Ann DC	190
+01082013	051739	Hargrove	Tom	Mendez	Leonard J	110
+12052015	051552	Bishop	Eugene	Fleischner	Molly	90
+18062017	001711	Regan	Terry D	Strohbeen	Mary	40
+19022016	125355	Stradford-Stov	Teague	Shper	Paul	60
+09102013	171419	Lee	Jerry	Braicich	Agnes	80
+21052014	091323	Downing	Joshua	Tribble	Harrison O	60
+15122017	061935	Smith	Wayne	Strohbeen	Mary	190
+12072014	161749	Cain	Betsy	Maug	Mary	60
+27012018	184103	Toy	Ronald W	Burney	Kelly	170
+14012014	124210	Segura	Carlos	Hanna	Scott	180
+19032015	025255	Rodriguez	Lydia	Conklin	Tom	190
+09062016	173807	Fortune	Anthony	Tyrrell	Chris	190
+03102014	022215	Thai	Lin	Noble	Jesse	30
+09112015	100940	Harpster	Thelma	Sutter	Danny	60
+02032018	012115	Nguyen	Binh	Nguyen	Phuong	70
+20012018	210805	Burney	Thomas	Vickers	Jean	60
+14102015	192319	Taylor	Jim	Issia	Vinnie	60
+24062013	124356	Conigliaro	Anthony	Milinkovic	Milorad	190
+10022016	124502	Stramel	Rita	Vickers	Jean	100
+27082014	103009	Russey	John	Martsen	Vaughn	160
+06122015	234918	Taylor	III Joseph	Lowe	Betty	160
+09112014	061908	Tucker	Linda	Strohbeen	Mary	30
+08022018	083728	Permpol	Pismai	Shper	Paul	30
+23052015	225215	Tasci	George	Strohbeen	Mary	190
+04032015	163207	Gonezaleez	Jose	Michel	Jessica	110
+13112014	025822	Tone	Tracey	Mcdaniels	Mike	150
+20062015	035138	White	Paul	Green	E	140
+30112013	214538	Coughlin	Tom	Chong	Ung Ki	60
+29092015	053752	Mattis	Steven	Stone	Ed	190
+13052015	200652	Tart	Herb	Shunn	Becky	140
+20032014	173239	Koskelin	Steve	Virgen	Victor	70
+20082017	082613	Brown	Denise	Abbott	Teresa	170
+28022018	122708	Nguyen	Thanh	Richards	Stuart	120
+28012018	170048	Smith	Rebecca	Fujikawa	Toshiko	140
+12022015	151756	Lewis	David	Church	Vera	50
+02092013	221442	Cimetiere	Jean	Burney	Kelly	200
+10012016	184331	Bielecki	Darrell	Broady	George	110
+28022017	131937	Spargo	Lorraine	Smith	Steven	130
+02012015	224500	Tanner	David	Green	E	180
+12092014	210125	Powers	Jimmy	Sutter	Danny	70
+31082013	050317	Johnson	Terry	Brown	Brent	80
+15092016	141009	Cruz	Eugenio	Forte	Ann DC	70
+01082017	162533	Babb	Terri	Wong	Vicky	80
+11032016	084028	Kollars	Craig	Chong	Ung Ki	110
+22102014	141021	Santoliquido	Diane	Martsen	Vaughn	110
+24022014	003242	Tabachnik	Leo	Lust	Desiree	180
+19042017	110534	Harum	John	Forte	Ann DC	120
+14082015	224400	Peavy	Rusty	Borden	Gloria	30
+10012017	211030	Seburn	Virginia	Tyrrell	Chris	170
+22012018	194447	Nielson	Dave	Nguyen	Phuong	150
+30012014	060716	Teehan	Edward	Green	E	170
+07092013	031218	Taylor	Wayne	Sutter	Danny	100
+05112014	203550	DO	Kim	Auriemma	Maria	130
+18042014	032234	Ramirez	Ray	Shper	Paul	140
+23052017	231438	Pelio	Teri	Rivera	Evelyn	150
+28102014	190837	Hauth	Tiffany	Zimmit	Vince	100
+18032018	093222	Hood	Gene	Veasey	Deborah	140
+26102017	190929	Bromm	Dianne	Cox	Joe	110
+26092017	170221	Tewes	Dan	Lasson	Calvin	160
+04022016	044234	Alipour	Lydia	Sutter	Danny	130
+19122014	213718	Reller	Joe	Valcich	Tom	90
+29012015	110437	Scannell	Carol	Vasser	Ronnie	130
+27082014	044855	Alley	Talmadge G	Tyrrell	Chris	200
+16092013	202315	Brown	Travis	Shunn	Becky	200
+03042018	060308	Allen	Gary	Cox	Ty	80
+06022014	061602	Rigby	Diana	Mayl	Sheryl	160
+10122014	163203	Craig	W R	Karam	Francis	120
+10102015	162159	Shu	George	Van	Winkle Robert	50
+16102016	064051	Johnson	Kristi	Kim	Woon	80
+17032018	024119	Alexander	Harriet	Noble	Jesse	170
+18072013	221130	Frances	Charles	Lasson	Calvin	170
+28022014	053751	Taber	Kevin	Green	E	180
+03012016	193624	Cweig	Marc	Broady	George	90
+10052017	102515	Terranova	Ralph	Auriemma	Maria	40
+11022017	194256	Woods	AL	Fowler	Vincent	70
+25082013	161625	Woodhall	Tj	Karam	Francis	190
+16022015	124808	Vanek	Bill	Shunn	Becky	130
+11082016	104519	Guido	Michael	Payrow	Farshid	110
+29062015	232315	Tate	Nolan	Strohbeen	Mary	50
+21082017	220403	Taytem	Zeyad	Cox	Joe	130
+15022015	071355	Winter	Marcia	Zakos	Jim	80
+25062017	013457	Copeland	Terry	Boyton	Affree	50
+06102014	024601	Vires	William	Barrientos	Linda	160
+19022015	012913	Bonner	Phil	Cox	Joe	150
+11052013	040214	Sihapanya	Thong	Tovar	Leonardo	60
+05062016	030331	Chu	Jim	Fleischner	Molly	160
+30052017	144011	Anderson	Terri	Bauch	Jane	160
+30012017	112929	Tennant	Robert DC	Cutri	Elaine	40
+15082015	223849	Payne	Tawanna	Ugarph	Dave	70
+01122017	065152	Rice	Beth	Vega	Evaristo	150
+12012018	080136	Hancock	Robert A	Forte	Ann DC	180
+01042015	214301	Hoffman	Keith	Cortez	Fernando	70
+30092017	034537	Wahid	Abdul	Nguyen	Phuong	160
+23062016	222355	Pera	George	Vasser	Ronnie	130
+23072013	142917	Thackerland	Gary	Mayl	Sheryl	190
+18042014	050822	Conway	Marv	Hanna	Scott	130
+29072016	184026	Lamblopoulas	Teddy	Gonzalez	Jose	150
+30062015	074452	Tate	Tom G	Di	Pirro Thomas	40
+24112013	053312	Johnson	Ted	Varblow	Carl	150
+11072015	023905	Adams	Robert	Bauch	Jane	40
+01102017	163708	Zeevi	Ron	Gonzalez	Jose	130
+12042017	170057	Terkurest	Alen	Mayl	Sheryl	80
+01032015	065857	Tappel	Kurt	Nguyen	Kim	100
+18082014	094905	Mc	Farland Donna	Vasser	Ronnie	150
+28032014	001640	Gonzalenz	Franciso	Valcich	Tom	70
+06102013	170859	Albright	Tom	Abbott	Teresa	80
+25032017	053443	Carmichael	Teresa	Turner	Edward	60
+11042016	173834	Piper	Betsy	Lasson	Calvin	150
+09102017	122916	Mohammed	Sutan	Ball	Sam	80
+31012015	080104	Crockett	Tom	Kolbe	Ed	170
+20082017	012900	Talley	Mac	Wiltz	Paul	140
+21022018	234248	Boonkerd	Nora	Green	E	70
+08022017	032022	Taylor	Bob	Urquhart	Jean	90
+29042016	014203	Williams	W Duane	Mendez	Leonard J	40
+12062016	162338	Bernstein	Janice	Ugarph	Dave	90
+16082014	010017	Davis	Mary	Tyrrell	Chris	60
+11072015	001953	Browne	Ronald T	Urquhart	Jean	90
+12102017	111410	Cruz	Jose	Chong	Ung Ki	80
+01102017	043042	LA	Shomb Patti	Risser	Charles	170
+09092017	094327	Anderson	Theresa	Green	Richard	160
+24092017	164726	Tetterton	Melvin	Maug	Mary	50
+03082014	051258	Waterman	Shirley	Duong	Lewis	60
+23102017	172840	DE	Melo Elba	Lust	Desiree	30
+02032017	214331	Woosley	Brian	Boyton	Affree	50
+24042017	231202	Dougherty	Tim	Rivera	Evelyn	190
+09012017	133807	Taylor	Thom	Cutri	Elaine	110
+25052017	084642	Gomez	Rodolso	Mcdaniels	Mike	200
+28122013	030240	Merriman	Tracy	Lowe	Betty	190
+14032018	051731	Taylor	James	Cox	Joe	60
+18102016	214804	Gomez	Rodolso	Forte	Ann DC	120
+06012018	063632	Butler	Ed	Mccurley	Richard	30
+24092015	070639	Marroquin	Miguel	Risser	Charles	30
+05022016	111756	Thompson	Thomas	Martsen	Vaughn	140
+10122016	052506	Benejam	Carla	Salem	Chuck	50
+11012014	230749	Hill	Tim	Braicich	Agnes	180
+28022017	020026	Toppelhauer	Terry	Lowe	Betty	120
+23122017	062553	Farer	Bo	Maug	Mary	190
+05082013	000551	Wheeler	Gary	Maug	Mary	110
+04102015	134646	Taylor	Mark	Michel	Jessica	60
+28072016	225029	Bunton	Teddy	Maug	Mary	70
+30042017	205932	Mc	Kee Terry	Karam	Francis	160
+14032014	081222	Tacey	Richard A	Lasson	Calvin	40
+16112015	202726	Taylor	Richard	Shunn	Becky	50
+17022017	153716	Lightsey	Ken	Ball	Sam	160
+29032017	202658	Terhufen	Todd J	Nguyen	Kim	190
+21082017	014945	Han	Chung	Gonzalez	Jose	110
+07122014	110950	Holcomb	Karen J	Abbott	Teresa	50
+12032016	015838	Golstone	Scott	Vanderwaal	Randy	70
+10072016	125749	Petrock	Theodore	Bauch	Jane	140
+10122017	045148	Taylor	Hye	Cox	Joe	150
+05052015	025647	Saavedra	Carlos	Ball	Sam	140
+04032014	001003	Jackson	Patricia	Lasson	Calvin	70
+01072016	200612	Griffin	Ted	Stone	Ed	50
+05052017	041828	Voschin	Mark	Maug	Mary	190
+11072016	071001	Walczak	Ted	Boyton	Affree	50
+15102017	125415	Texas	Jo Ann	Mc	Kinstry Irving	60
+01062014	231516	St	Germain Donald	Brown	Doyle	150
+21042016	031351	Davis	Tommy	Risser	Charles	140
+26112014	213909	Wahlrab	Michael	Chong	Ung Ki	60
+02092015	121121	Barker	Allan	Michel	Jessica	120
+26062017	235047	Rogers	Terry	Kim	Woon	120
+25102013	181115	Stillman	Mark	Starks	Cassandra	140
+11052017	013724	Smith	Ted	Cox	Joe	180
+15042015	121907	Barfield	Tim	Braicich	Agnes	90
+18092016	085227	Dollombosky	Lynn	Pham	Victoria	90
+04012015	214805	Rodriguez	Fernie	Skidmore	Laura	40
+24042016	154501	Cimetiere	Jean	Auriemma	Maria	80
+21052013	085940	Santik	Robert	Hee	Kyong	140
+30072016	095446	Cross	Gina	Rosario	Robert	50
+28072014	113737	Zeman	Twyla	Risser	Charles	40
+14032016	181527	Stemwedel	George	Church	Vera	80
+31082014	120544	Ellis	Joe	Lin	Eddy	90
+08092013	165544	Lowe	Faye	Shunn	Becky	200
+07052015	172132	Scarpa	John	Lowe	Betty	170
+23052017	023724	Chhay	Van	Turner	Edward	170
+06092016	100243	Teets	Frederick	Davidson	Grant	150
+16012015	153658	Davidson	Birdie	Virgen	Victor	110
+16062015	005834	Gordon	Lynden	Lowe	Betty	100
+14092014	193054	Templeton	Tom	Payrow	Farshid	40
+13062015	195648	Singh	Harmail	Green	Richard	190
+24112014	215212	Cox	Jennifer	Fox	Karen	100
+13012017	122244	Reed	Carolyn	Davidson	Grant	160
+09022018	141303	Ksaolaeaz	Marin	Valcich	Tom	70
+04112015	214645	Strouse	Eric	Lowe	Betty	70
+14122015	121445	Taylor	Thomas	Duong	Lewis	190
+27062015	005838	Thuha	Bach	Ball	Sam	110
+22012014	122325	Pienert	Tony	Starks	Cassandra	120
+25092016	085525	Perley	James	Lust	Desiree	190
+11092016	030522	Teichmann	Larry	Nguyen	Kim	180
+30042018	140618	Nimmo	Dee	Cox	Ty	130
+17052016	032508	Booth	Danny	Tribble	Harrison O	110
+11112014	172011	Reed	Tim	Rivera	Evelyn	140
+28052015	150601	Tashjian	Wesley	Urquhart	Jean	200
+27082014	153625	Rusershafer	Lloyd	Mccurley	Richard	170
+07112016	215920	Tellier	Doug	Issia	Vinnie	50
+18082013	123829	Larsen	Sr Thomas J	Johnston	Denny	60
+07082017	162637	Mozingo	Terry	Ball	Sam	160
+02112013	065252	Cadenhead	Chris	Zimmit	Vince	110
+21082014	125851	Cox	Michelle	Carr	James	190
+28102016	031118	Silverbach	Alan	Cortez	Fernando	160
+03112014	011128	Chears	Susan	Lin	Eddy	110
+31032018	225619	Rogers	Jesse	Sardisco	Joe	110
+26012017	133229	Lott	Ernestine	Rosario	Robert	200
+11042014	190315	Worthy	Terry	Abbott	Teresa	30
+09092017	210132	Ilog	Teresita	Cox	Joe	50
+12112016	201901	Vannoy	Steven	Burney	Kelly	130
+13032017	163227	Flores	Luis	Carr	James	120
+15042018	053833	Sheehan	T Kevin	Tyrrell	Chris	130
+06012014	001153	Taha	Daher	Borden	Gloria	60
+30072017	134002	Matthews	Terry	Lowe	Betty	50
+11052013	121519	Molitierno	Thomas S	Stone	Ed	110
+21072017	020400	Mc	Daniel Barbara	Turner	Edward	110
+10012015	225306	Nguyen	Khuong	Hanna	Scott	180
+19042015	143057	Herrington	Russ	Braicich	Agnes	90
+25102015	230639	Hendren	Taylor	Forte	Ann DC	150
+09072015	172917	Tattan	William C	Maug	Mary	70
+06062016	091349	Ahn	Scott	Cox	Joe	140
+03012016	062550	Runyan	Pat	Fowler	Vincent	60
+16062015	134751	Dill	Norma	Strohbeen	Mary	170
+16042015	132056	Thornberry	Brett	Abbott	Teresa	50
+24052014	043752	Redmond	Todd	Fujikawa	Toshiko	40
+28012016	030917	Lee	Doan	Sardisco	Joe	180
+28122015	214422	Andrews	Terry	Corpening	Kenny	40
+04052017	062215	Whitener	Sally	Mcdaniels	Mike	100
+04122015	173750	Taylor	William	Tribble	Harrison O	70
+18062016	001015	Holt	Ted	Garcia	Gulio	60
+19062013	113814	Peranpta	Emaleo	Valcich	Tom	190
+04012017	232114	Albert	Wayne	Mayl	Sheryl	40
+20052014	212408	Elsharkawy	Ahmed	Shunn	Becky	200
+13122015	100556	Taylor	Bettie M	Conklin	Tom	130
+01092013	083559	Strouse	Eric	Zimmit	Vince	70
+28092017	035707	Jimenez	Maria	Stone	Ed	180
+19112013	162043	Terese	Lois	Hanna	Scott	180
+20062014	201033	Kumar	Yash	Cox	Ty	50
+17032018	165840	Nofziger	Kittie	Martsen	Vaughn	190
+28112015	082757	Cotton	Debra	Strohbeen	Mary	50
+27102016	230158	Fishering	Glenn	Rivera	Evelyn	180
+07122014	093853	Mills	David	Burney	Kelly	190
+20112014	023717	Dercole	Laurence	Karam	Francis	80
+29052015	030843	Tobin	Tim	Green	E	120
+30092016	113511	Dennett	Bob	Richards	Stuart	70
+02072016	104533	Tanner	James L	Vanderwaal	Randy	80
+13052013	110303	Morrow	Troy	Ridenour	Barbara	170
+14042017	002438	Termath	Cyndi	Van	Heule James	90
+22022015	113640	Bendinskas	Paul	Sardisco	Joe	60
+27032017	132014	Kirby	Teresa	Barrientos	Linda	80
+15062015	172906	Mitchell	Tabitha	Broady	George	100
+27072014	011513	Doswell	Donald	Abbott	Teresa	110
+10032015	121333	Flores	Rosario	Mendez	Leonard J	40
+21012014	123411	Faulkner	Anthony	Nguyen	Phuong	140
+04082016	220552	Mosher	Kent	Lasson	Calvin	60
+18062013	174702	Chinh	Stanley	Ball	Sam	80
+03032015	050304	Wood	Terry	Tovar	Leonardo	70
+03072015	131930	Jargui	Juan	Nguyen	Kim	90
+21062014	170909	Mills	Tanya	Forte	Ann DC	70
+08072013	131016	Strategier	Nancy	Corpening	Kenny	170
+28082013	163005	Cheeks	Malcom	Zakos	Jim	70
+08102017	231753	Gulsun	Ale	Duong	Lewis	130
+03102013	024311	Cho	Sung	Kolbe	Ed	70
+15062015	104437	Knapp	Roger	Sutter	Danny	100
+29022016	165837	Lollar	Fred	Kim	Woon	190
+06082014	001021	Erickson	Paul	Shunn	Becky	110
+01122014	075953	Davis	Wendy	Smith	Steven	100
+18062017	072636	Day	Terry	Davidson	Grant	60
+09122014	003053	Vardinian	Aramis	Wong	Vicky	30
+24102017	023618	Farrer	Judy	Davidson	Grant	150
+21042016	084242	Martin	Ricardo	Fowler	Vincent	80
+25022014	230202	Giles	Julie	Cox	Ty	110
+21012014	135206	May	Robert	Barrientos	Linda	70
+18112017	103604	Chang	Young	Mc	Kinstry Irving	60
+25012017	041708	Pruett	Lisa	Fujikawa	Toshiko	180
+02082014	002112	Barnes	Ernest	Turner	Edward	140
+25032016	160449	Lim	Penny	Kim	Woon	140
+14072013	054749	Bikle	Edith M	Mendez	Leonard J	120
+11052017	191603	Otto	Eric	Lowe	Betty	50
+30042015	212132	Griffin	Letty	Fleischner	Molly	160
+06072017	153024	Terry	Onuwa	Ridenour	Barbara	170
+14052016	104632	Rogers	Mike	Hanna	Scott	80
+13102013	171701	Spradlin	T L	Varblow	Carl	60
+04072013	103046	Barnum	Patti	Hanna	Scott	130
+21092013	102442	Deweya	Terry	Martsen	Vaughn	100
+03092017	030927	Terstriep	Bob	Richards	Stuart	80
+16112013	055945	Seaman	T P	Van	Heule James	90
+11062014	092724	Demakas	George	Barrientos	Linda	70
+04012018	212534	Carey	James	Noble	Jesse	180
+10102014	081954	Mangone	Charles	Skidmore	Laura	80
+17022014	095736	Gray	Jim	Sutter	Danny	140
+23062013	060317	Smith	Jenise	Forte	Ann DC	150
+20012016	024653	Couch	Tommy	Hanna	Scott	150
+02072015	202230	Tate	Henry	Karam	Francis	40
+08052016	065115	Wolf	Bill	Shunn	Becky	120
+18012017	074006	Dashiell	Peter	Milinkovic	Milorad	140
+09122013	035133	Herron	Ray	Risser	Charles	90
+01092017	145236	Mcdonald	Terry	Shper	Paul	170
+24092013	205648	Sharkey	Steve	Salem	Chuck	170
+18022018	153110	Sauer	Anny	Garcia	Gulio	100
+22052015	202511	Santora	Joe	Payrow	Farshid	180
+19032015	232443	Maria	Jose	Zakos	Jim	200
+05032018	071256	Corrow	Teresa	Skidmore	Laura	180
+02122015	203744	Taylor	Cliff	Kim	Woon	30
+10122014	000632	Baker	Ted	Nguyen	Phuong	130
+03112014	000416	Mc	Hale Thomas J	Ball	Sam	90
+12082015	005638	Merlino	Karen	Duong	Lewis	50
+20022015	040730	Davis	Everald	Strohbeen	Mary	70
+30122017	102924	Elswick	Terri	Tovar	Leonardo	180
+03042014	151427	Hardy	Ed	Mcdaniels	Mike	140
+04122013	042008	Senay	Tom	Rivera	Evelyn	180
+17112015	144649	Taylor	James H	Tovar	Leonardo	30
+21112013	190746	Calderon	Jesse	Maug	Mary	100
+10092013	015324	DE	Bonta Bob	Mcdaniels	Mike	40
+15072013	190915	Thoene	Mark	Benedict	Carol	60
+04032017	192123	Tepedino	Carlos	Martsen	Vaughn	50
+04072015	090241	Bernstein	Janice	Braicich	Agnes	120
+01042018	022427	Sherman	Harry	Karam	Francis	120
+07122013	122807	Simon	Tricia	Johnston	Denny	40
+06072016	022059	Cain	Betsy	Vasser	Ronnie	120
+16112017	011648	Grady	Wayne	Garcia	Gulio	190
+26082013	021503	Nguyen	Thomas	Shper	Paul	70
+10122013	011800	Trinh	Lisa	Boyton	Affree	160
+19112014	233959	Tang	Wilson	Lowe	Betty	30
+12072016	063720	Handeland	Ted	Kolbe	Ed	100
+17012017	160655	Allford	Larry	Burney	Kelly	160
+12022015	035445	Wadsworth	George	Cortez	Fernando	140
+20062013	151513	Cacavollia	Anthony	Zakos	Jim	140
+30042018	101833	Mitchell	Mimi	Risser	Charles	80
+19062014	190328	Khetarpal	Sunil	Tribble	Harrison O	170
+03022017	011221	Forrester	Lamesa	Wiltz	Paul	120
+15092013	071130	Blackwood	Ted	Payrow	Farshid	170
+08092016	222625	Newton	Jenifer	Turner	Edward	190
+08052017	042924	Racina	Sam	Mayl	Sheryl	190
+21022014	082621	Suradja	Teno	Nguyen	Kim	60
+27022017	042435	Teehan	Edward	Boyton	Affree	140
+17022017	125201	Mahoney	Tim	Risser	Charles	170
+04012017	180936	Miller	Virginia	Shper	Paul	150
+19052016	034631	Brown	Angela	Vega	Evaristo	110
+28022015	050017	Ayala	Jose	Kim	Woon	150
+11022018	084249	Dexter	Paul	Salem	Chuck	70
+18062016	080714	Marroquin	Miguel	Vanderwaal	Randy	130
+21112013	004531	Bergeron	T R	Schroeder	Tom	140
+08082013	072733	Song	Hyun Ho	Auriemma	Maria	90
+01072017	112231	Moore	Terry	Rosario	Robert	150
+06052014	214758	Tague	Darrell	Kolbe	Ed	180
+17072014	010238	Nguyen	Cathy	Carr	James	110
+18102014	013903	Collins	Jamieson	Forte	Ann DC	90
+08042018	141837	Worley	David	Mccurley	Richard	30
+12012014	015219	Baumhoer	Teresa	Mcdaniels	Mike	190
+25012018	170409	Thompson	Teresa A	Shunn	Becky	90
+20032015	151132	Delcambre	Thomas	Salem	Chuck	200
+08052013	195216	Ranio	Tara	Stone	Ed	170
+22082014	084218	Atkins	Roger	Fox	Karen	120
+26062015	065649	Minta	Maria	Virgen	Victor	200
+22122013	160559	Kothari	Atul	Richards	Stuart	160
+12052017	113301	Ecker	Theodore J	Vega	Evaristo	90
+30062015	015737	Guy	Bintu	Nguyen	Phuong	80
+06082014	202258	Tate	Gerry	Michel	Jessica	120
+26072013	134528	Fattoross	Sam	Cox	Ty	120
+23102017	162321	Holt	Roxanne	Tyrrell	Chris	90
+03102013	130846	Brown	Tom	Duong	Lewis	120
+26092017	100402	Tew	John W	Karam	Francis	120
+08042017	025709	Kwon	Hee	Mc	Kinstry Irving	190
+25082014	225140	Meyer	Thomas G	Davidson	Grant	70
+05092014	150855	Heifiz	Alex	Corpening	Kenny	40
+10102016	190220	Singletary	Gary	Rivera	Evelyn	180
+05112015	134605	Taylor	Caroline	Fox	Karen	170
+08062016	044839	Kopatios	John	Gonzalez	Jose	170
+20042015	022037	Mc	Evoy Lynne	Green	Richard	90
+30012014	024719	Terry	Joel	Noble	Jesse	120
+08042018	174056	Ward	Roberta J	Mccurley	Richard	130
+24072013	031140	Choi	David	Shaskas	John R	180
+27092013	154836	Karlsen	Tim	Zimmit	Vince	30
+27052016	145144	Procaccini	Jim	Gonzalez	Jose	80
+24042018	145703	Peters	Ginny	Gonzalez	Jose	140
+14012016	062649	Smith	Jan	Kim	Woon	160
+04102014	081334	Tamor	Keith DVM	Benedict	Carol	90
+23042018	005049	Theofanopoulos	Dino	Davidson	Grant	180
+31012015	062428	Scholl	Rachel	Payrow	Farshid	90
+21072017	002339	Lee	Terry	Ridenour	Barbara	180
+12082017	104810	LA	Verne Terry	Rivera	Evelyn	100
+05012014	050651	Hayes	Gloria	Hee	Kyong	130
+27112017	015235	Tervo	James	Boyton	Affree	100
+07032018	203617	Schaefer	John	Davidson	Grant	60
+03032015	052946	Cadenhead	Chris	Hee	Kyong	60
+27102015	020024	Griffith	Tammy	Schroeder	Tom	110
+06092015	223219	Binder	Catherine	Lin	Eddy	190
+02012014	235948	Morasch	Ann M	Barrientos	Linda	100
+01012017	080041	Sanchez	Maria	Hee	Kyong	100
+12052016	083219	Evans	Yamasia	Salem	Chuck	180
+16072016	174712	Chappell	Pat	Lin	Eddy	100
+20102015	024234	Taylor	George	Vasser	Ronnie	140
+22012014	232324	Theis	Chad	Green	Richard	90
+12052017	014812	Keitel	Ken	Boyton	Affree	140
+23112017	033500	Casseday	Robert	Issia	Vinnie	90
+24102014	002120	Lodwig	Thelma	Vickers	Jean	80
+11122013	114225	Hosseinian	Shabanali	Barrientos	Linda	70
+16072017	184000	Ungaro	Terry	Zakos	Jim	80
+20012016	141211	Taylor	David	Hanna	Scott	60
+01012016	002555	Blackman	Thomas	Fleischner	Molly	60
+03092017	121929	Tervo	James	Sardisco	Joe	30
+14072017	091754	Christian	Susan	Shunn	Becky	110
+27052013	062746	Rial	Manuel	Schroeder	Tom	160
+26042016	060729	Harpster	Thelma	Mc	Kinstry Irving	150
+14072014	070453	Vang	Neng	Tribble	Harrison O	80
+08092013	004441	Jones	Tim	Borden	Gloria	80
+04082016	004346	Tedrick	Jim	Conklin	Tom	100
+05062015	102945	Coblentz	Ed	Fox	Karen	150
+21022016	133208	Baum	Erick	Richards	Stuart	60
+22072016	071310	Suzuki	Taiko	Mccurley	Richard	70
+25022017	213604	Beckwith	Andrew	Shper	Paul	140
+21032018	113620	Macchi	Dean	Rosario	Robert	140
+23032018	092706	Heart	Max	Payrow	Farshid	100
+06112016	072310	Trushkowsky	Stwart	Garcia	Gulio	80
+01032014	173555	Bishop	Eugene	Lin	Eddy	80
+18112013	020355	Hsiushun	Sun	Brown	Doyle	40
+14032015	061707	Thompson	Jack	Brown	Brent	30
+24062016	121503	Vick	Ted	Garcia	Gulio	70
+17012016	204913	Harvey	Byron	Skidmore	Laura	80
+05012015	173606	Johnson	Gilbert	Skidmore	Laura	50
+04112013	035105	Carlton	Ray	Shaskas	John R	90
+20102016	000537	Bass	Randy	Mumptaz	Muhammad	50
+22042016	161302	Patch	Don	Boyton	Affree	190
+06052017	050544	Parker	Terrence	Milinkovic	Milorad	110
+12072017	133021	Temple	Dana	Wong	Vicky	80
+29032015	105950	Clancey	Patricia	Church	Vera	110
+24092014	204841	Sager	Tammy	Vickers	Jean	160
+13062014	112906	Khyuk	Leo	Vanderwaal	Randy	100
+04102013	131029	Lucey	Tammy	Chong	Ung Ki	120
+22092016	155626	Cox	Michelle	Sutter	Danny	40
+14022018	205732	Thompson	Sucharda T	Issia	Vinnie	170
+09052014	043102	Dunham	Jackie	Risser	Charles	30
+16052017	053845	Street	Jim	Green	Richard	120
+14112014	223037	Bhatia	S	Lowe	Betty	100
+01122017	034856	Hoang	Helen	Mcdaniels	Mike	60
+06112017	053142	Andreone	David DPM	Fleischner	Molly	120
+14022018	103308	Tongbua	Chooanong	Noble	Jesse	90
+04072016	001256	Downum	Ted	Tovar	Leonardo	50
+30042016	062734	Ganimian	Shahe	Hanna	Scott	170
+04012014	040223	Chu	Richard	Carr	James	140
+16012018	162617	Stropoli	Tony	Hee	Kyong	130
+13072016	175440	Behrhorst	Craig	Veasey	Deborah	200
+23042016	062434	Causby	Elizabeth	Auriemma	Maria	130
+09032014	175415	Hill	Tabor	Kolbe	Ed	30
+17052017	231243	Smith	Holloway W	Bauch	Jane	140
+23102013	081249	Moore	Thomas	Vasser	Ronnie	60
+12072015	052135	Martin	Cheryl	Nguyen	Kim	160
+19082015	015347	Caves	Tom	Luc	Hao	160
+11102015	174541	Taylor	Jr James M DC	Pham	Victoria	150
+02042014	210521	Patricia	Ferando	Strohbeen	Mary	180
+02082013	192838	Sheeper	Tim	Forte	Ann DC	120
+24102016	201332	Rosen	Marc	Wong	Vicky	90
+03012018	074907	Masaki	Ellen	Boyton	Affree	80
+13072016	214009	Tinker	Tim	Barrientos	Linda	140
+25092013	110437	Mc	Bride Rhonda	Lust	Desiree	200
+30042018	120639	Parker	Amy	Zimmit	Vince	190
+01092014	193905	Guerra	Enrique	Fox	Karen	60
+27072017	065557	Hemingsen	Terry	Green	Richard	60
+08062013	154103	Gibbs	Tom	Burney	Kelly	170
+05092015	194325	Tassiello	Robert	Vanderwaal	Randy	60
+09092016	080418	Angelone	D	Vickers	Jean	40
+03012014	075007	Tillman	Hubert	Milinkovic	Milorad	60
+10042018	101420	Williams	Thelma R	Auriemma	Maria	180
+13092013	002246	Taylor	John	Auriemma	Maria	190
+28022015	024338	Jendrzejewski	John	Ridenour	Barbara	30
+05082014	213308	Hardy	Rodney	Sutter	Danny	150
+18042016	191816	Pickering	Dave	Van	Heule James	30
+23122017	152521	Moore	Martin S	Stone	Ed	100
+03032016	131254	Lynch	Dan	Conklin	Tom	80
+01092014	065121	Nguyen	Chuck	Valcich	Tom	190
+20122017	152821	Lebuffe	Vince	Karam	Francis	70
+12062014	001550	Hwang	Tong	Church	Vera	30
+12042014	122628	Vessels	Tara	Mayl	Sheryl	140
+18072016	153449	Koons	Kathy	Maug	Mary	160
+07112016	120254	Black	Jeff	Forte	Ann DC	70
+06032014	060739	Cheeks	Malcom	Hanna	Scott	170
+05112017	030544	Patterson	Theodore	Shper	Paul	190
+02032016	034128	Matthews	Kendra	Gonzalez	Jose	140
+17092014	184621	Collinsworth	Darin	Conklin	Tom	80
+21042016	083326	Dowser	Norman	Broady	George	170
+04022018	060648	Harris	LA Vond	Church	Vera	190
+22122017	001003	Acosta	Lou	Kim	Woon	70
+06032016	172900	Enhorn	Don	Forte	Ann DC	80
+29082014	195546	Abbott	Steve	Nguyen	Kim	130
+26102016	221610	Martin	David	Cortez	Fernando	170
+10032018	003842	Pinn	Kathy	Luc	Hao	170
+01112016	110224	Corveddu	Robert	Tovar	Leonardo	170
+11052017	171508	Sheeper	Tim	Issia	Vinnie	100
+28072017	125242	Kelly	Terry	Hanna	Scott	60
+30062014	143943	Martin	Cheryl	Shaskas	John R	110
+22062014	100136	Uddin	Mohim	Tyrrell	Chris	170
+02122014	023815	Davison	Monica	Benedict	Carol	100
+12062016	225520	Bramlett	Ted	Gonzalez	Jose	130
+17102016	134644	Glynn	John	Tyrrell	Chris	140
+27052017	115531	Elswick	Terri	Stone	Ed	130
+16082014	125711	Lou	Wah	Corpening	Kenny	170
+15102017	130736	Harris	Linda	Barrientos	Linda	140
+06042014	210351	Sanchez	Atilo	Tovar	Leonardo	60
+10082014	124444	Green	Richard	Hee	Kyong	150
+19012017	035822	Flanagan	Chris	Starks	Cassandra	130
+12032016	034838	Stacer	Jefferson L	Valcich	Tom	110
+02082016	202611	Kalivas	Ted	Green	Richard	130
+27032017	073738	Farmer	Teresa	Green	E	170
+07052014	113104	Wakeman	Mark	Abbott	Teresa	50
+13062015	033926	Robinson	Ed	Sutter	Danny	140
+22042015	165706	Gezahager	Teklu	Stone	Ed	100
+30092015	084848	Armstrong	James	Cortez	Fernando	170
+02042014	064242	Garcia	Isaias	Rivera	Evelyn	80
+09082017	073511	Kriel	Terry	Karam	Francis	170
+22032015	050141	Palacios	Taqueria	Forte	Ann DC	140
+08092016	123627	Godwin	Tegan	Pham	Victoria	60
+27112014	103027	Higdon	Connie	Vickers	Jean	120
+10032015	034300	Maldonado	Juan	Garcia	Gulio	170
+03112013	125857	Moss	Thomas W	Salem	Chuck	180
+30062015	142941	Tate	Dennis	Auriemma	Maria	150
+16042018	120214	Coenen	III Theo J	Risser	Charles	170
+18122013	065327	Taylor	Sue	Wong	Vicky	90
+03082017	070425	Jurief	Terry	Kolbe	Ed	50
+23092015	062002	Harris	LA Vond	Michel	Jessica	190
+02052017	010126	Ahearn	Steve	Lasson	Calvin	50
+17082015	083955	Justice	Glenn	Van	Winkle Robert	140
+09092014	214323	Wahl	Tamara	Bauch	Jane	150
+12112017	075205	Taylor	Tim	Virgen	Victor	130
+28122015	174427	Zahm	Rob	Vickers	Jean	130
+17082013	095641	Hunt	Jeff	Richards	Stuart	190
+27122017	064346	Bunting	Greg DC	Hee	Kyong	190
+25022017	173355	Binder	Terry	Shaskas	John R	60
+24062017	151130	Kirkland	Terry	Urquhart	Jean	40
+24032016	053125	Christiaansen	Lisa	Forte	Ann DC	60
+27062017	145111	Wescom	Terry L	Auriemma	Maria	40
+03042014	190735	Galindo	Refugio	Rosario	Robert	140
+01092017	222430	Terry	Kathy	Tovar	Leonardo	60
+06082016	055723	Gaabo	Wayne	Lust	Desiree	130
+03092013	053356	George	Terry J	Luc	Hao	80
+03082014	055621	White	Anthony	Braicich	Agnes	60
+07082014	014340	Becker	Victor A	Veasey	Deborah	50
+28052014	095801	Flynn	Terry L	Noble	Jesse	130
+07122015	035727	Twining	Erlyne	Tyrrell	Chris	40
+05062013	040524	Brixey	Tom	Zimmit	Vince	110
+09062016	225923	Supatwanich	Pat	Rivera	Evelyn	170
+14072014	055126	Tancredi	Janet	Church	Vera	120
+05032016	154335	Johnson	Jeff	Ridenour	Barbara	60
+05102015	114934	Taylor	Denny	Di	Pirro Thomas	200
+17062016	115115	Grote	Ted	Schroeder	Tom	190
+21122015	100538	Vanderhoof	Ted	Conklin	Tom	150
+17102013	205644	Edwards	Thomas M	Payrow	Farshid	80
+19042018	155725	Ecker	Theodore J	Fowler	Vincent	190
+11062015	203042	Zhukovsky	Oleg	Green	Richard	170
+19102014	024425	Disapil	Roger	Risser	Charles	30
+24022014	100237	Lightsey	Ken	Tovar	Leonardo	120
+15082014	091056	Linkel	Derek	Gonzalez	Jose	130
+07122016	045700	Taylor	Trude C	Brown	Doyle	100
+15112014	114417	Urban	Jim	Vasser	Ronnie	120
+10032015	130433	Salzibar	Santiago	Bauch	Jane	120
+11042015	005026	Cuevas	Antonio	Benedict	Carol	170
+19112015	230837	Taylor	R	Wong	Vicky	100
+02022018	112222	Gonzalez	Louis	Vickers	Jean	150
+27072016	165628	Hooten	Teddy	Kim	Woon	140
+04092017	210336	Terzo	Guido	Karam	Francis	150
+17042014	012152	Cho	Nam Soo	Barrientos	Linda	140
+23032014	150420	Mendoza	Carlos	Hanna	Scott	80
+15122013	094519	Demakas	George	Borden	Gloria	160
+07122016	101140	Hatten	Thalice	Tovar	Leonardo	170
+11042018	205715	Lodwig	Thelma	Pham	Victoria	40
+25052016	205342	Gill	Frank	Chong	Ung Ki	120
+08102017	050013	Aguilar	Arnold	Fujikawa	Toshiko	110
+21072016	005343	Hiesser	Ted	Tyrrell	Chris	40
+30092014	164304	Broad	Terry	Tribble	Harrison O	50
+17012015	210134	Stokes	Evette	Fujikawa	Toshiko	90
+29052016	164119	Ten	Eick William	Brown	Doyle	190
+25092017	143837	Cline	John	Martsen	Vaughn	140
+10042017	083219	Lim	David	Barrientos	Linda	60
+13032015	153743	Lopez	Jose	Veasey	Deborah	70
+25082016	002101	Delmont	Jerry	Corpening	Kenny	170
+04032017	181645	Villa	Jesus	Duong	Lewis	60
+01022015	224246	Nygaard	Martin	Chong	Ung Ki	40
+30062015	111537	Mcgraw	Tom	Zimmit	Vince	200
+28092016	023811	Lemon	Thom	Gonzalez	Jose	140
+09102017	010705	Welli	Ali	Green	E	180
+05032014	130551	Haralson	Larry	Carr	James	40
+18072013	150932	Chung	Woon S	Payrow	Farshid	180
+16092013	001241	Johnson	Thomas	Braicich	Agnes	180
+18052013	085118	Pham	Paulo	Van	Winkle Robert	140
+08082014	140454	Sikka	Victor	Issia	Vinnie	30
+15112015	154510	Clamett	William	Lust	Desiree	140
+28022018	031501	Reller	Joe	Pham	Victoria	190
+09032018	062210	Manuel	Gary	Chong	Ung Ki	60
+01062014	122620	Bearden	Dale	Hee	Kyong	170
+14052017	081731	Simpson	Janis	Zimmit	Vince	70
+11102014	013322	Balint	Chris	Vega	Evaristo	50
+27032018	120545	Carter	Todd H	Duong	Lewis	190
+01122013	063855	Deuster	Thomas	Chong	Ung Ki	40
+02072015	133845	Mc	Millin Marshall	Gonzalez	Jose	70
+21082017	072357	Symoukda	Kot	Shaskas	John R	140
+07092016	143537	Tefft	Stewart	Benedict	Carol	200
+21022016	225839	Teal	Ken	Burney	Kelly	160
+12022018	061250	Sihapanya	Thong	Zimmit	Vince	50
+07092014	165605	Croftcheck	Tammy	Turner	Edward	40
+28022014	165849	Tabish	David	Hanna	Scott	200
+28102015	123152	Cole	Charles	Vickers	Jean	100
+03102014	013015	Mahoney	Tim	Conklin	Tom	50
+12012017	185024	Yona	Lou	Shper	Paul	70
+24102015	203626	Merriman	Tracy	Fox	Karen	70
+16072014	195259	Guido	Michael	Burney	Kelly	100
+18112013	074718	Mc	Coy Elisa	Starks	Cassandra	50
+14062014	084853	Tollinger	Phyliss	Zakos	Jim	120
+17012015	072542	Puska	Connie	Vickers	Jean	160
+28082013	200922	Voruz	Laura	Ridenour	Barbara	140
+20052013	102516	Daigle	Elaine	Mendez	Leonard J	100
+27092016	080236	Merlino	Karen	Vega	Evaristo	160
+28022015	051036	Tapia	Carlos	Kolbe	Ed	170
+20062017	095845	Finley	Terry	Fox	Karen	80
+17032017	122435	Thompson	Teresa A	Mcdaniels	Mike	90
+02022017	114924	Webb	Jr George E	Tovar	Leonardo	70
+21042014	192038	Franz	Linda	Mayl	Sheryl	110
+30052014	072103	Nguyen	Thu	Salem	Chuck	160
+22062017	162726	Alder	Terry J	Noble	Jesse	90
+11062014	043709	Housley	Glenn C	Payrow	Farshid	150
+05012018	024232	Owens	William	Corpening	Kenny	70
+07042016	072638	Reynods	Elizabeth	Green	Richard	140
+29012015	014312	Juarez	Jose	Zakos	Jim	40
+06032017	150856	Eckhout	Rick	Green	Richard	130
+28062017	083253	Larey	Terry	Broady	George	130
+23022015	061316	Lund	Gary	Lasson	Calvin	60
+09062013	205734	Domingues	Bob	Varblow	Carl	130
+16032014	114003	Flanagan	Chris	Cortez	Fernando	160
+28012016	031528	Thurlkill	Tommy	Benedict	Carol	180
+25052016	101332	Meyer	John	Mayl	Sheryl	130
+24122017	021334	Pelaez	Palino	Brown	Brent	40
+25112015	004621	Taylor	Larry	Luc	Hao	50
+19012014	063141	Sullivan	Dan	Skidmore	Laura	150
+20012018	235418	Frazier	T Gray	Milinkovic	Milorad	120
+13022016	112455	Barahona	Norman	Fox	Karen	60
+17072015	005550	Cooley	Robert	Smith	Steven	130
+03122016	142453	Downing	Joshua	Lust	Desiree	130
+13082015	220143	Shaoolian	Abe	Fujikawa	Toshiko	160
+12062014	103019	Tanguay	Michael	Nguyen	Phuong	120
+29032014	014641	Nellermoe	Mark D DPM	Valcich	Tom	50
+14052013	183708	Mahabirsingh	Vish	Skidmore	Laura	100
+14112017	063004	Pack	Ernie	Tribble	Harrison O	110
+10032016	180041	Scharlow	Carol	Luc	Hao	130
+30042016	200821	Lee	Sunny	Mc	Kinstry Irving	180
+13102016	041857	Johnson	S J	Wong	Vicky	110
+15092017	055047	Stigliano	Jon	Stone	Ed	40
+23022017	095415	Tennill	David	Green	Richard	140
+28012017	002953	Choi	David	Tyrrell	Chris	100
+24102015	013411	Gatlin	Travis	Forte	Ann DC	70
+24062015	110831	Johnson	Marian	Noble	Jesse	130
+27112016	191617	Robinson	Cathie	Wong	Vicky	30
+20082017	205543	Steiner	Terry	Schroeder	Tom	120
+28092016	080656	Thomas	Bruce	Davidson	Grant	130
+20022018	082644	Potts	Terry	Mumptaz	Muhammad	60
+29052014	111756	Bui	Yvonne	Shaskas	John R	160
+25112015	232328	Taylor	Sally	Stone	Ed	190
+28042017	165541	Cash	Alan	Kim	Woon	130
+05012015	100824	Pigram	Debra	Vega	Evaristo	40
+03042017	092302	Schaeffer	Theresa	Davidson	Grant	160
+10022014	022344	Traverso	Peter	Bauch	Jane	130
+05042016	044710	Koos	Thomas	Abbott	Teresa	150
+06082014	232001	Fisher	Terry	Pham	Victoria	120
+15072015	030458	Thornley	Jamie	Shper	Paul	140
+26012014	000620	Collais	Gary	Auriemma	Maria	70
+15092014	052849	Johnson	Tami	Davidson	Grant	190
+30062014	005607	Cool	Ryan	Church	Vera	180
+02122017	043446	Puska	Connie	Shunn	Becky	120
+21122016	161307	Balint	Chris	Zakos	Jim	160
+11052013	111330	Gotwalt	Tom	Fowler	Vincent	90
+08012016	135842	Strickland	Benny	Di	Pirro Thomas	70
+22112016	153612	Jackson	Jim	Cortez	Fernando	90
+24082017	172653	Ten	Eyck Mills	Starks	Cassandra	140
+13062014	191110	Mc	Neal Bob	Lasson	Calvin	180
+29042017	082557	Peavy	Rusty	Ridenour	Barbara	130
+02082013	010720	Kwarta	Dale	Barrientos	Linda	180
+25032014	145148	Barragn	Jorge	Fox	Karen	130
+13092017	181712	Testa	Sr Stephen	Veasey	Deborah	100
+17112014	140133	Tatem	Lee	Mayl	Sheryl	110
+19102013	133044	LA	Shomb Patti	Sardisco	Joe	120
+19122013	101324	Felts	T A	Strohbeen	Mary	120
+08042017	195617	Nguyen	Roger	Mc	Kinstry Irving	110
+27092014	164218	Griffith	Tammy	Tribble	Harrison O	140
+25122016	210916	Walsh	Stephen	Auriemma	Maria	70
+19062015	193552	Tate	Nolan	Cortez	Fernando	50
+21072015	005407	Hyland	Paul	Zakos	Jim	200
+17042016	130701	Sullivan	Paul	Fujikawa	Toshiko	60
+18092017	134715	Tanihara	Kodo	Corpening	Kenny	160
+07092016	105355	Barton	Angela	Ugarph	Dave	170
+10032017	071649	Ocoro	Gustavo	Green	E	160
+03052013	083247	Touchton	Lloyd	Vickers	Jean	80
+02092013	200452	Morton	Thomas	Barrientos	Linda	90
+21062017	130423	Aicher	Linda	Vega	Evaristo	120
+27072015	222304	Santillan	Daniel	Vega	Evaristo	90
+30092016	153743	Guebari	Anna	Braicich	Agnes	190
+30012017	140101	Tennell	William	Michel	Jessica	70
+03052016	144205	Kwarta	Dale	Virgen	Victor	40
+18062016	133540	Rodgers	Linda	Cutri	Elaine	180
+10062014	182521	Torres	Luis	Cox	Ty	150
+08072015	060420	Tatje	Hank	Ridenour	Barbara	140
+15112013	185956	Perlitz	Tom	Boyton	Affree	150
+10122017	180813	Cole	Joe	Skidmore	Laura	110
+03032015	024748	Taha	Daher	Boyton	Affree	90
+03122014	045648	Braun	Sandi	Di	Pirro Thomas	180
+05042016	171814	Landry	Chad	Ugarph	Dave	50
+12052015	001752	Branch	Kenneth	Duong	Lewis	200
+29122013	195053	Hines	Daniel	Tribble	Harrison O	40
+28022015	060648	MA	Kenny	Kim	Woon	190
+07022018	141233	Phumai	Sai	Cortez	Fernando	110
+22032016	201812	Muery	Russell	Starks	Cassandra	190
+22032018	031131	Thatcher	Pat	Virgen	Victor	140
+14032014	203658	Evans	Tyann	Issia	Vinnie	140
+10062013	054043	Boyd	Terry	Benedict	Carol	190
+30092014	052844	Taylor	Paul	Duong	Lewis	200
+16012014	013551	Taylor	Daniel L	Conklin	Tom	100
+04062017	193329	Conrad	Terrie	Green	Richard	90
+26062013	215437	Kowalski	Glenn	Bauch	Jane	180
+18042017	094953	Burch	Leigh	Hanna	Scott	140
+02022018	070932	Tallman	Jr Frank	Tyrrell	Chris	120
+30042015	020335	Bardarou	Ivan	Garcia	Gulio	130
+01032018	010136	Duong	Pat	Forte	Ann DC	140
+10112014	052701	Gratrix	Scott	Skidmore	Laura	90
+23082013	093802	Taylor	III Joseph	Ugarph	Dave	110
+03092015	221148	Tharp	Donald	Nguyen	Phuong	130
+13012018	022423	Juwvipart	Alex	Di	Pirro Thomas	170
+04062014	025253	Jacobson	Sue	Varblow	Carl	60
+07102015	023304	Taylor	Bill	Wiltz	Paul	110
+05042017	173852	Ly	Brandon	Mc	Kinstry Irving	160
+01052014	234049	Davies	Tami	Abbott	Teresa	50
+25022017	024520	Kerr	Rebecca	Borden	Gloria	130
+06122016	005243	Nazari	Sorooj	Lowe	Betty	180
+10052014	153549	Mc	Neal Bob	Braicich	Agnes	140
+07112013	094444	Phan	Quoc	Vickers	Jean	60
+12122017	130929	Earl	Thomas M	Fleischner	Molly	40
+25012018	083224	Torres	Erasmo	Strohbeen	Mary	180
+06012017	043034	Lee	Todd	Burney	Kelly	70
+17012016	124053	Caress	William	Cutri	Elaine	160
+16102016	084040	Laws	Peter	Vickers	Jean	80
+07022017	104633	King	Brian	Urquhart	Jean	200
+27012014	093942	Jalaldin	Azim	Smith	Steven	170
+24082016	204738	Teel	Richard	Hee	Kyong	170
+21112016	123005	Woolley	Bill	Noble	Jesse	90
+20042015	040423	Gabrielski	James	Mendez	Leonard J	140
+01062016	143942	Mullinax	Larry	Cutri	Elaine	80
+24022014	050004	Touchton	Lloyd	Tyrrell	Chris	110
+05072016	175752	Smith	Ted	Kolbe	Ed	100
+19102017	190109	Krehbiel	Solveig	Vickers	Jean	50
+21092015	045620	Taylor	Ray	Ball	Sam	50
+24122017	121104	Houston	John	Rosario	Robert	100
+30122016	193902	Wright	Todd	Sutter	Danny	110
+10052014	123503	Parnell	Butch	Schroeder	Tom	150
+07102015	024351	Taylor	Paul	Urquhart	Jean	140
+30032015	072432	Shu	George	Pham	Victoria	180
+23062013	002258	Moeller	Hans	Mcdaniels	Mike	60
+20112014	074315	Bernier	Timothy	Boyton	Affree	40
+09092016	141037	Klein	Jennifer	Borden	Gloria	140
+02052015	032107	Mitchem	Sam	Cox	Ty	90
+16012015	140905	Harmon	Kim	Sardisco	Joe	140
+12052014	040705	Gurney	Jean	Payrow	Farshid	80
+15062015	193549	Leevongcharoen	Heng	Lasson	Calvin	40
+28022015	060941	Avilla	Carlos	Nguyen	Kim	110
+20072014	052207	Talbott	James	Valcich	Tom	60
+11112016	000227	Vandevert	Julie	Nguyen	Kim	150
+12112017	062934	Reyes	Anthoney	Braicich	Agnes	150
+20092013	130022	Davis	Mary	Lasson	Calvin	170
+01102014	130949	Harris	LA Vond	Mccurley	Richard	180
+12042014	185744	Myers	Tadd	Turner	Edward	60
+21102017	015223	Rodriguez	Fernie	Smith	Steven	90
+06112015	104758	Taylor	Jeff	Cutri	Elaine	160
+27052016	214505	Zimmermann	James	Nguyen	Kim	30
+28022018	064358	Pham	Thanh	Michel	Jessica	130
+11082017	182354	Le	Jimmy	Shunn	Becky	60
+05072016	003737	Williams	Helen	Zimmit	Vince	190
+22102014	213816	Motsko	Dorothy	Nguyen	Phuong	80
+28022017	011452	Tenret	Jerry	Vickers	Jean	130
+04032018	174025	Cheeks	Malcom	Maug	Mary	100
+20082017	005929	Heffner	Terry	Kolbe	Ed	110
+03062013	175756	Bear	John	Turner	Edward	200
+03042017	144746	Amsden	Jim	Vickers	Jean	90
+30052017	103715	Hudson	Terri	Varblow	Carl	190
+11042018	043909	Preston	Jim	Di	Pirro Thomas	40
+23122014	165853	Tanksley	David L	Sutter	Danny	110
+13112016	103735	Herrmann	Thomas	Mumptaz	Muhammad	30
+23062014	082910	Tyler	Colleen	Cutri	Elaine	150
+07112014	174802	Tantello	Larry	Nguyen	Kim	180
+29092014	224548	Boris	Tammy	Bauch	Jane	50
+11052014	100942	Savdharia	Raj	Davidson	Grant	100
+09122017	072336	Garza	Daniel	Virgen	Victor	110
+28122013	065509	Bramlett	Ted	Lin	Eddy	160
+01102017	015537	Taylor	O F Tex	Auriemma	Maria	60
+17072014	173608	Talbert	Lucia	Cutri	Elaine	50
+07032017	130554	DE	LA Riva Isaac	Cox	Joe	190
+02042015	204746	Brewer	Tara	Mayl	Sheryl	80
+22072016	233209	Tedder	Murl	Cox	Ty	90
+23052017	032535	Horst	Jackie	Conklin	Tom	30
+16032017	035003	Hernandea	Maria Teres	Valcich	Tom	130
+14032014	141744	Sells	Allison	Stone	Ed	170
+13102013	133001	Allen	Tim	Kolbe	Ed	130
+26102014	193838	Bowder	Janet	Carr	James	50
+09122015	235302	Taylor	Hugh	Broady	George	150
+07052016	214807	Box	Robert	Auriemma	Maria	100
+31012018	161510	Khachathes	Weera	Valcich	Tom	50
+10072017	152902	Wikar	Halina	Issia	Vinnie	160
+11052014	230107	Sabistina	Gary	Van	Heule James	80
+02082013	143406	Atkins	Beverly	Smith	Steven	150
+04022017	085321	Mc	Annally John	Luc	Hao	150
+21092015	033706	Tessitore	AL	Tribble	Harrison O	90
+24052017	092446	Penn	T J	Ball	Sam	110
+02022016	084834	Alston	Thomas	Fleischner	Molly	150
+29072013	113227	Parker	Tomas	Salem	Chuck	180
+23042018	142413	Maher	Maryann	Braicich	Agnes	200
+09052016	084816	Strand	Eric	Benedict	Carol	130
+27032017	072937	Smith	Lisa	Duong	Lewis	170
+25062016	194205	Mahon	Tim	Johnston	Denny	40
+26032018	060929	Thayer	Steven A	Van	Winkle Robert	50
+24042015	070621	Shaoolian	Abe	Shaskas	John R	70
+04082015	075506	Weber	Jim	Mccurley	Richard	100
+01062014	221927	Pham	Hung	Green	Richard	180
+26042014	031158	Taft	Dean	Zimmit	Vince	120
+06052014	213738	Parker	Tomas	Martsen	Vaughn	130
+06082017	132044	Rucks	Terry	Luc	Hao	200
+27122013	153627	Tart	Herb	Starks	Cassandra	60
+28022014	032018	Fitzsimons	Teresa	Michel	Jessica	150
+30062013	110035	Tatem	Lee	Barrientos	Linda	150
+21072017	070442	Linane	Terry	Chong	Ung Ki	160
+18022018	212911	Pra	Somsuk Suni Sa	Veasey	Deborah	140
+12032015	150817	Osorio	Pedro	Nguyen	Phuong	140
+09022017	210015	Collins	Jr Ernest	Strohbeen	Mary	160
+22112016	210123	Christensen	Rick	Fowler	Vincent	90
+23102017	115512	Fleischmann	Dennis	Van	Heule James	160
+28052016	175527	Estes	Darrick	Sutter	Danny	150
+01062014	114526	Nutter	Belmont	Shper	Paul	40
+22072013	091318	Meciea	Francisco	Valcich	Tom	110
+27042016	200957	Helleren	Paul	Cutri	Elaine	190
+12112017	090108	Heinen	June	Mccurley	Richard	110
+07072017	163350	Rosebush	Terry	Fleischner	Molly	80
+08092014	071024	Stepankowski	Tamara	Sardisco	Joe	50
+04122013	024305	Manbeck	T S	Boyton	Affree	40
+26012017	150911	Preston	Jim	Braicich	Agnes	80
+02122016	153004	Terry	Jr T Rankin	Tovar	Leonardo	160
+07062013	135931	Hardin	Thomas R	Conklin	Tom	190
+18122014	091626	Garvuno	Maria	Tyrrell	Chris	170
+21102013	033649	Mc	Laughlin Mary	Maug	Mary	150
+10102015	034919	Thoene	Mark	Mendez	Leonard J	180
+29092014	041059	Tharp	Donald	Zimmit	Vince	110
+19062016	163937	Langdell	Ted	Barrientos	Linda	180
+22072017	013246	Ellis	Joe	Garcia	Gulio	50
+24092016	175205	Petsch	William	Nguyen	Kim	150
+18062016	182853	Ayo	Ted L	Schroeder	Tom	140
+08042014	075227	Luzero	Jose	Luc	Hao	120
+16072016	031524	Scot	Ted	Luc	Hao	160
+17062016	080834	Fries	Ted	Boyton	Affree	90
+23092014	023702	Nutter	Belmont	Church	Vera	120
+09072014	022108	Takemura	Takeya	Shper	Paul	50
+17052017	093339	Fitzgerald	Jim	Abbott	Teresa	70
+16022016	183303	Stokes	Steven	Vega	Evaristo	90
+06012017	060817	Veksler	Alexander	Martsen	Vaughn	190
+17062016	174951	Honda	Minoru	Benedict	Carol	100
+16082016	001720	Cortez	Isabel	Vega	Evaristo	50
+12072013	185125	Sinclair	Bruce	Lin	Eddy	170
+02052015	065039	Toler	Raymond A	Michel	Jessica	120
+03032016	111416	Tanaka	Tasker	Shper	Paul	100
+08072015	185143	Pram	Hanh	Van	Heule James	110
+28052013	235223	Attanasio	Thomas	Mendez	Leonard J	70
+17092013	191020	Landry	Todd J	Rivera	Evelyn	50
+09052014	061046	Stacy	Kenneth	Corpening	Kenny	150
+27052014	062523	Suzuki	Taiko	Kim	Woon	150
+08072016	043917	Anderson	Terri	Mumptaz	Muhammad	140
+26082015	113833	Manley	Robert W	Mccurley	Richard	30
+01082013	002707	Gerard	Tammy	Bauch	Jane	190
+01072014	122451	Neighbous	Ronnie	Broady	George	160
+15062014	004431	Sibley	Jack	Auriemma	Maria	110
+03092016	175248	Hunt	Darryl	Shunn	Becky	100
+26082014	201606	Rosner	David	Michel	Jessica	140
+22102017	042910	Mejia	Elva	Tyrrell	Chris	140
+15042014	060752	Williams	Don	Maug	Mary	110
+09022014	053311	Jong	Kevin	Vickers	Jean	160
+28022017	090950	Mitchell	Eugene	Garcia	Gulio	90
+16032015	004938	Beatriz	David	Kolbe	Ed	130
+04092014	200910	Tamanini	Richard	Mayl	Sheryl	50
+11072017	031038	Kahiane	Johnny	Nguyen	Phuong	160
+18062013	030350	Bauer	Don	Fox	Karen	200
+26112014	201829	Franks	Dawn	Lasson	Calvin	100
+20102014	201558	Franz	Linda	Payrow	Farshid	140
+14052014	074252	Schaefer	Wolf	Lowe	Betty	130
+23032015	232718	Escobedeo	Maria	Turner	Edward	200
+07012017	065900	Ten	Eyck Mills	Wong	Vicky	180
+29032018	171946	Chaffin	Kenneth	Varblow	Carl	130
+01012014	165854	Zisko	Scott	Fujikawa	Toshiko	190
+09102016	002849	Tescher	Gary	Urquhart	Jean	160
+08102014	104108	Slocum	Ed	Burney	Kelly	40
+21092016	180643	Fog	Scott	Vasser	Ronnie	200
+01102016	061255	Buegi	Joseph	Braicich	Agnes	50
+19052013	213142	Brown	Wayne	Cortez	Fernando	130
+17072016	205130	Mc	Gill Tayna	Cortez	Fernando	70
+28112015	150017	Davies	Debbie	Kolbe	Ed	60
+09102016	035814	Saavedra	Carlos	Karam	Francis	110
+14072013	015226	Taylor	Hye	Chong	Ung Ki	170
+15112014	173350	Tanen	Harry	Wiltz	Paul	130
+02022016	064856	Talmage	Tom	Pham	Victoria	120
+27022016	154034	Ten	Eick William	Gonzalez	Jose	110
+04122017	192006	Robinson	Bob	Green	Richard	110
+01052015	031647	Richey	Wayne	Fox	Karen	120
+26122013	032256	Walker	Tommie	Skidmore	Laura	170
+18122014	230740	Buscemi	Deborah	Barrientos	Linda	70
+10052013	080956	Mitchell	Tabitha	Green	Richard	110
+07062016	071155	Elswick	Terri	Richards	Stuart	190
+03092013	222719	Wolford	Dave	Broady	George	100
+10102017	080005	Meredith	Stephen	Di	Pirro Thomas	100
+26022016	015938	Turner	Ron	Gonzalez	Jose	190
+27012018	131429	Feetham	Thad	Lust	Desiree	190
+15112013	203607	Kerigan	T P	Payrow	Farshid	80
+06042016	094302	Causby	Elizabeth	Kolbe	Ed	150
+17032016	202620	Tanis	David B DC	Sardisco	Joe	180
+03032018	111742	Schuster	Earl	Lasson	Calvin	70
+26042015	113804	Crance	Dan	Salem	Chuck	150
+22052017	193521	Mc	Clung Ray	Di	Pirro Thomas	60
+11012018	001026	Hicks	Joe	Lowe	Betty	110
+24072016	221115	Rollison	Bill	Shaskas	John R	40
+05062014	031448	Brown	Debra	Shaskas	John R	60
+16092016	170837	Patel	Ray	Turner	Edward	170
+30112015	165118	Hay	Lloyd	Zimmit	Vince	150
+05092013	114700	Vushnonney	Amin	Cortez	Fernando	110
+16052013	170159	Treadway	Wayne	Braicich	Agnes	70
+08062015	162439	Chung	Tony	Vanderwaal	Randy	180
+15062016	105845	Terry	Jr T Rankin	Virgen	Victor	180
+07092013	101504	Averette	Tabitha	Boyton	Affree	130
+09122017	173618	Easley	Carl	Nguyen	Kim	110
+12112015	135255	Taylor	Mark	Turner	Edward	130
+11092014	213706	Mac	Beth John	Risser	Charles	130
+13052015	155848	Brown	Tarsha	Van	Winkle Robert	110
+15042016	201744	Doehring	Troy	Sardisco	Joe	70
+04092017	073204	Pak	Kil	Ridenour	Barbara	50
+25122013	233332	Mackey	Donald	Issia	Vinnie	190
+25052013	025628	Johnson	S J	Fujikawa	Toshiko	190
+21042018	044746	Blair	Theodore T	Ball	Sam	180
+24082017	010955	Martinez	Rey	Mayl	Sheryl	150
+30092015	211506	Portenga	Windi	Lasson	Calvin	120
+11012016	113929	Christopher	Robert	Milinkovic	Milorad	190
+24112015	192251	Taylor	John	Vega	Evaristo	180
+07082017	132017	Terry	Ronnie	Shper	Paul	100
+06092014	193121	Testa	Lou	Fleischner	Molly	180
+13092013	130830	Tamor	Keith DVM	Mcdaniels	Mike	130
+11012017	024211	Cummings	John	Garcia	Gulio	40
+19022018	074148	Rajsachack	Kim	Vasser	Ronnie	130
+19022016	154036	Teague	Eric	Maug	Mary	190
+17012017	133939	Carey	June	Rosario	Robert	50
+10052017	002758	Steinhoff	R Lynn	Sardisco	Joe	180
+30082015	195950	Guy	Bintu	Mayl	Sheryl	200
+19012018	074227	Corral	Joe	Noble	Jesse	140
+25042014	001042	Taffe	Nancy	Mayl	Sheryl	100
+04102016	224239	Baird	Henry	Payrow	Farshid	160
+19012014	151336	Townsend	Jerry	Smith	Steven	160
+27102015	153246	Taylor	Jr Edward F	Fleischner	Molly	180
+07102017	143407	Pickering	Dave	Virgen	Victor	90
+02072014	022649	Johnson	Ted	Stone	Ed	110
+09012016	053807	Peace	Ronnie	Sardisco	Joe	100
+21022015	132909	Raens	Patricia	Fowler	Vincent	140
+15082013	082017	Bahr	Micah	Rosario	Robert	80
+21102013	073045	Mahon	Tim	Barrientos	Linda	110
+01122017	133050	Jorgenson	Terry	Virgen	Victor	80
+13012016	130155	Wakuluk	Tricia	Shper	Paul	50
+25032016	200300	Tiebout	James	Chong	Ung Ki	70
+25102013	220436	Marshall	Tamara	Di	Pirro Thomas	40
+12062016	085630	Baker	Ted	Brown	Brent	200
+22092016	071910	Lisinski	John	Mc	Kinstry Irving	130
+11052016	210418	Shaoolian	Abe	Lin	Eddy	190
+18112017	203615	Phelps	Ryan	Hee	Kyong	170
+10112017	140040	Seis	Joe	Davidson	Grant	80
+27072013	081047	Bass	T H	Sardisco	Joe	110
+26122014	094035	Bowder	Janet	Shaskas	John R	50
+10022015	180204	Rathgeb	Lisa M	Braicich	Agnes	190
+25072016	035536	Bauer	Michelle	Shunn	Becky	170
+07102016	010108	Alfred	Robert	Vickers	Jean	90
+05022016	173443	Teichmann	Larry	Van	Heule James	80
+04072016	065651	Mc	Cracken Terri	Abbott	Teresa	160
+23042017	121015	Dennisson	Bill	Van	Winkle Robert	40
+05112017	072731	Sanchez	Severino	Maug	Mary	170
+03112016	235629	Johnson	Kaydi	Broady	George	100
+28012014	215649	Piper	Betsy	Cutri	Elaine	130
+07052013	085059	Willison	Ngyen	Barrientos	Linda	200
+28032016	182749	Padilla	Fabiola	Rivera	Evelyn	170
+21072016	235843	Helton	Tim	Gonzalez	Jose	150
+13122014	163343	Roe	Cathy	Auriemma	Maria	170
+13092017	215956	Testa	Lou	Skidmore	Laura	190
+07032018	021205	Tharp	Donald	Braicich	Agnes	160
+24092014	071302	Ly	Tammy	Broady	George	100
+10032015	235024	Chacet	Luis	Starks	Cassandra	90
+16072015	144837	Meulenkamp	Steve	Smith	Steven	80
+08102017	200304	Hyden	Don	Lust	Desiree	130
+18112017	173040	Corral	Joe	Wong	Vicky	80
+08032016	060717	Sheeper	Tim	Garcia	Gulio	100
+20032018	171642	Sokolik	Teddy	Zakos	Jim	40
+21092017	033541	Watson	Jim	Rivera	Evelyn	100
+22072013	111018	Gunn	Tammy	Cox	Joe	90
+18032018	232303	Stach	Launa	Fleischner	Molly	100
+06092017	102226	Teskie	Lyle	Payrow	Farshid	70
+30112013	142859	Adams	Terry	Rosario	Robert	60
+25122016	205345	Taormina	Vince	Sardisco	Joe	140
+09032016	061632	Clark	Jimmy	Cortez	Fernando	60
+20092015	024400	Ward	Larry	Barrientos	Linda	190
+06122013	013706	Tibbitts	Don	Michel	Jessica	30
+10022015	212244	Blair	Angie	Wiltz	Paul	190
+20032015	064307	Soria	Ricarda	Mccurley	Richard	50
+16082015	225321	Fahim	Mike	Mayl	Sheryl	50
+29042017	011046	Baker	Derek	Richards	Stuart	80
+12112013	095605	Carter	Paul	Brown	Doyle	90
+03102015	195006	Fox	Jimmy	Fujikawa	Toshiko	170
+28102015	013316	Granducci	Joe	Wong	Vicky	190
+25102015	001225	Taylor	April	Johnston	Denny	180
+09092014	055333	Steinhart	Terran T	Valcich	Tom	190
+21012014	021710	Godwen	P C	Lust	Desiree	130
+01092017	113601	Terry	Leonard	Luc	Hao	120
+06122016	012343	Temple	Phillip	Noble	Jesse	120
+13092017	112447	Curtis	Pat	Bauch	Jane	70
+18112015	232316	Smith	Jody	Sardisco	Joe	140
+24032016	072426	Tebeau	Marvin	Vasser	Ronnie	160
+13082017	074345	Auston	Terry	Turner	Edward	140
+23082017	182952	Chu	Richard	Varblow	Carl	160
+18062016	123837	Kay	Ted	Ugarph	Dave	170
+24062017	023020	Ang	Hour	Cox	Ty	170
+03062015	062213	Williams	Jennifer	Nguyen	Phuong	180
+04082017	184426	Atchley	Terry	Lowe	Betty	50
+14032016	214517	Tobias	Alan	Church	Vera	120
+08072013	080439	Arnold	T E	Zakos	Jim	110
+23102015	000624	Taylor	Carolyn	Vasser	Ronnie	60
+17032015	140717	Stiefel	Janice	Bauch	Jane	70
+15052016	234250	Ludack	Teresa	Boyton	Affree	130
+22052017	204535	Terrero	Robin	Zimmit	Vince	170
+28022014	083842	Abrams	Eugene	Virgen	Victor	110
+11052013	060048	Tucker	John	Vanderwaal	Randy	180
+01112016	142342	Gonzales	Jorge	Fox	Karen	180
+24032017	174621	Kellenberger	Teresa	Boyton	Affree	110
+16012018	115350	Worther	Dorothy	Skidmore	Laura	60
+04042017	052916	Hope	Terrel A	Mcdaniels	Mike	140
+30042018	060029	Marshall	Tamara	Church	Vera	120
+23082014	193532	Townsend	Nicole	Mccurley	Richard	50
+06082014	213857	Butzke	Jonathan	Milinkovic	Milorad	60
+01122016	013629	Terry	Winford	Mayl	Sheryl	50
+16072013	113612	Simmons	T F	Broady	George	150
+12052013	091200	Kalantzis	Tasos	Borden	Gloria	190
+14122016	153444	Shearrer	Deborah	Carr	James	90
+31032016	103101	Tecces	Joseph	Brown	Brent	70
+21082016	221909	Teehan	Edward	Hee	Kyong	40
+24072015	123543	Nunez	Tirso	Tribble	Harrison O	200
+30062014	011422	Smith	Rafeal	Brown	Brent	120
+19072013	032352	Boettger	T G	Van	Heule James	40
+13112016	154230	Thornton	Randy	Boyton	Affree	190
+19042018	053555	Boldt	Theodore C	Hee	Kyong	100
+25112015	163312	Taylor	Robert	Broady	George	190
+14092017	213056	Hammer	Barbara	Duong	Lewis	50
+29112016	002345	Allyn	Gary	Zimmit	Vince	30
+02102013	003014	Kinley	Raymond	Ugarph	Dave	50
+11112014	101709	Strategier	Nancy	Tovar	Leonardo	40
+01102013	013328	Hart	T K	Skidmore	Laura	40
+16092015	122657	Hillenburg	Judy	Pham	Victoria	110
+14102017	060810	Loney	Terry	Mendez	Leonard J	140
+27082017	225826	Horton	Terry	Abbott	Teresa	100
+15082017	185922	Arp	Terry	Carr	James	70
+13022018	173409	Puska	Connie	Van	Heule James	110
+10062016	120020	Kopec	Ted	Cutri	Elaine	150
+25102017	234037	Taylor	Hye	Zimmit	Vince	190
+11102015	030725	Wahl	Tamara	Vanderwaal	Randy	70
+03082016	100557	Jackson	Lela	Vickers	Jean	170
+14062017	074133	Binder	Terry	Schroeder	Tom	180
+08032014	160448	Meghani	Amyn	Corpening	Kenny	180
+26022016	091105	Mayo	Buz	Di	Pirro Thomas	100
+18102017	175221	Lackey	Buba	Luc	Hao	130
+20072014	020923	Talbot	Ray	Salem	Chuck	150
+14012014	110238	Nalley	Troy	Gonzalez	Jose	100
+06012017	001142	Dean	Tom	Sutter	Danny	50
+26092015	103139	Preston	Nancy	Mccurley	Richard	130
+11122013	024248	Shafer	Thomas	Cox	Joe	70
+23042018	120107	Zentner	Theodore F	Luc	Hao	60
+15042017	220510	Pendrick	Arthur	Skidmore	Laura	190
+13112013	150227	Miller	Timothy P	Michel	Jessica	110
+03112015	201918	Taylor	Donald	Chong	Ung Ki	90
+24122015	130131	Lara	Terry	Hanna	Scott	110
+03102016	221706	Roca	Lydia	Sutter	Danny	50
+26112015	205653	Barette	Tammy S	Duong	Lewis	50
+17022014	175325	Twining	Erlyne	Lin	Eddy	110
+04012018	140853	Shinpaugh	Roy	Green	E	180
+29072016	120437	Gilliland	Teddy	Zimmit	Vince	100
+27092014	032102	Combs	Tammy	Green	E	110
+03042014	192223	Roblen	Juan	Pham	Victoria	80
+11012017	035016	Thelusmond	Elius	Vickers	Jean	140
+18022017	193239	Young	Tammy	Van	Winkle Robert	60
+11032018	162839	Dschaak	Melanie	Zimmit	Vince	90
+16012017	155845	Maltaraich	Ron	Strohbeen	Mary	130
+14092017	173018	Vallar	Charolotte	Hee	Kyong	120
+30122016	032821	Chappell	Pat	Braicich	Agnes	90
+15012017	060324	Tenbusch	Larry	Abbott	Teresa	60
+26062016	161313	Williams	Ted	Fleischner	Molly	180
+16092016	022900	Torres	Erasmo	Borden	Gloria	70
+02092014	085338	Meciea	Francisco	Van	Heule James	170
+17102015	000217	Donner	Frida	Sutter	Danny	150
+16072017	120817	Smittle	Terry	Brown	Brent	50
+24122013	001518	Weiler	Thomas	Martsen	Vaughn	130
+02052016	102945	Castillo	Veronica	Green	E	200
+20072015	114452	Dabit	Suad	Mccurley	Richard	100
+03102014	140712	Hart	Merton	Urquhart	Jean	110
+07112015	004701	Bauman	Thelma	Ridenour	Barbara	40
+04122015	082305	White	Anthony	Ridenour	Barbara	90
+28012015	004242	Ashe	Robert	Brown	Doyle	170
+24082017	212438	Terry	Randy	Carr	James	40
+15012018	031438	Tipton	Roy	Cortez	Fernando	60
+02012014	192712	Koch	Terri	Veasey	Deborah	80
+24112016	045551	Pawlikowski	Anna	Shper	Paul	120
+30042017	132953	Terra	Lou	Michel	Jessica	70
+30062014	222206	Cuevas	Antonio	Fowler	Vincent	130
+30042017	060713	Drennan	Terry	Di	Pirro Thomas	50
+02072013	205400	Barstad	Tonia	Mcdaniels	Mike	130
+02032015	152346	Martinez	Rey	Smith	Steven	160
+01082016	171225	Tedford	Tim	Van	Heule James	90
+06022014	101557	Zhukovsky	Oleg	Cutri	Elaine	130
+08062016	024323	Magana	Gilbert	Ugarph	Dave	160
+27052014	023457	Suess	Terry	Karam	Francis	200
+05022015	090029	Brown-Soltero	Elisa M	Shper	Paul	60
+05092017	154856	Tescher	Gary	Boyton	Affree	40
+20012014	010245	Radziwiecki	Mary	Vickers	Jean	130
+05082015	205037	Taussig	Steve	Rivera	Evelyn	170
+01022014	092637	Le	Gun	Zakos	Jim	140
+22022016	171228	Shroyer	Joe	Rosario	Robert	190
+13102017	231411	Buchanan	Dewight	Ugarph	Dave	150
+09102014	061917	Sper	Tamara	Bauch	Jane	120
+31032016	090006	Taylor	Brian	Tribble	Harrison O	150
+12042017	084413	Rusershafer	Lloyd	Barrientos	Linda	50
+01072016	221047	Hundley	Ted	Richards	Stuart	180
+22072014	014721	Polito	Terry	Fowler	Vincent	160
+15032015	080326	Flores	Juan	Auriemma	Maria	150
+20052016	234352	Swartz	Pamela	Sardisco	Joe	120
+08092013	172416	Layne	Ted	Fleischner	Molly	70
+13112015	200159	Garcia	Isaias	Lowe	Betty	80
+01022016	104501	Redmond	Todd	Green	E	200
+16082015	071946	Scherman	Bob	Salem	Chuck	40
+07012018	121204	Pray	Jean	Ugarph	Dave	110
+25112014	063734	Lacy	Linda	Mumptaz	Muhammad	130
+27012015	134124	Branum	Kenneth	Lasson	Calvin	190
+28062014	132503	Takashima	Toshio	Karam	Francis	190
+12052016	064331	Schilleci	Harvey	Fox	Karen	90
+08092016	161053	Taylor	Bob	Brown	Doyle	130
+21022016	041337	Vires	William	Shaskas	John R	60
+22112014	115356	Pak	Kil	Nguyen	Kim	80
+27102016	112127	Sayegh	Edward	Barrientos	Linda	60
+14092014	114504	Michaels	Tami	Mcdaniels	Mike	190
+20082017	214043	Payne	Terry	Conklin	Tom	170
+20092014	021922	Aucoin	Wayne J	Nguyen	Kim	140
+31032018	131458	Oglum	Scott	Virgen	Victor	90
+09052015	001539	Mitchell	Lari	Salem	Chuck	120
+13052016	033756	Floires	J C	Wiltz	Paul	40
+09082013	063924	Ormand	Steve	Salem	Chuck	60
+19022018	221732	Tsongsumrits	Amorn	Turner	Edward	100
+01022017	063452	Rummage	Larry	Zimmit	Vince	130
+16062014	163902	Hua	Linh	Lasson	Calvin	140
+26092017	215948	Lund	Gary	Bauch	Jane	90
+15022014	163038	Merlino	Karen	Wong	Vicky	50
+14042015	124350	Manukyan	Albert	Van	Winkle Robert	160
+06102015	154636	Pearson	Bobbie	Strohbeen	Mary	160
+28012018	120949	Abbott	Thad	Lust	Desiree	50
+02112016	213209	Telford	Randy	Cox	Ty	160
+06032014	160629	Olson	Karen	Abbott	Teresa	70
+08042018	121436	Cooper	Julius	Hee	Kyong	170
+22072014	135527	Talent	Don	Wiltz	Paul	70
+21042017	115457	Watts	Harold W	Pham	Victoria	40
+16122013	203408	Aycock	Jesse	Abbott	Teresa	140
+02052017	205151	Del	Grande Ann	Wong	Vicky	140
+15102013	235321	Mejia	Tony	Michel	Jessica	70
+14102014	235813	Tanaka	Tasker	Rosario	Robert	70
+22062016	230820	Edwards	Arlene	Van	Heule James	170
+18062016	030205	Merkel	Ron	Davidson	Grant	40
+09062016	090716	Scull	John	Brown	Doyle	140
+06052015	164052	Dodd	Lawrence DC	Garcia	Gulio	110
+01092015	073707	Tran	Hung	Burney	Kelly	170
+01012015	102514	Peranpta	Emaleo	Carr	James	160
+05022018	131126	Vongsady	Samantha	Nguyen	Kim	160
+20042018	030226	Lee	Theodore	Valcich	Tom	170
+23042014	203300	Thayer	Fred	Ugarph	Dave	150
+24112013	091518	Mc	Govern Terrence	Auriemma	Maria	60
+28042014	022216	Robnett	Mary B	Van	Heule James	110
+13092016	041025	Marks	T Andrew	Vasser	Ronnie	160
+10072015	003719	Thayer	Boyka	Vega	Evaristo	120
+10042014	021928	Niknejad	Amir	Brown	Doyle	130
+10092013	004829	Klingler	Bryce	Schroeder	Tom	60
+04082015	124821	Ames	Steven	Burney	Kelly	150
+29112014	192210	Johnson	Kristi	Veasey	Deborah	80
+30032017	113310	Fredericks	Teri	Maug	Mary	160
+28062017	160048	Pyle	Lee	Green	Richard	140
+21052013	095318	Browne	Ronald T	Virgen	Victor	190
+14032016	205238	Johnson	S J	Urquhart	Jean	170
+20112014	215657	Spence	Thomas	Abbott	Teresa	90
+17012014	154008	O'Neil	Hugh	Wiltz	Paul	150
+16032018	221852	Talley	Greg	Shunn	Becky	40
+16112017	074657	Patel	Parbhubhai	Pham	Victoria	80
+15122013	125300	Evans	Tyann	Lust	Desiree	180
+14042015	065244	Wells	A C	Shper	Paul	110
+04052016	012841	Deremer	Jim	Milinkovic	Milorad	170
+27092013	060901	Mc	Govern Terrence	Starks	Cassandra	160
+07072013	210019	Taylor	Fred	Zakos	Jim	150
+08092014	044741	Mason	Tamara	Karam	Francis	160
+15102014	195441	Bui	Yvonne	Strohbeen	Mary	200
+30042017	132054	Caves	Tim	Schroeder	Tom	70
+12052014	225508	Ho	Yiu	Salem	Chuck	30
+18042016	191435	Cochrane	Jim	Hee	Kyong	170
+30112015	134133	Taylor	Robert	Virgen	Victor	170
+07072014	140823	Miyasato	Takeko	Mcdaniels	Mike	160
+15122015	214258	Tiebout	James	Issia	Vinnie	40
+05062015	203152	Lee	Timothy	Schroeder	Tom	160
+29122013	200934	Williams	Thomas	Valcich	Tom	190
+22072017	215904	Cocores	Ted	Shunn	Becky	170
+11062016	172201	Greve	Ted A	Payrow	Farshid	120
+08012014	192257	Park	Dennis	Brown	Brent	160
+28092016	224506	Fennacy	Patrick	Veasey	Deborah	60
+01052015	065907	Ng	Tommy	Smith	Steven	50
+25102015	130852	Taylor	Morris	Garcia	Gulio	120
+09102014	063151	Wade	Jerold	Barrientos	Linda	40
+30052013	051814	Nigg	Tom A	Auriemma	Maria	60
+13112016	073346	Briggs	John	Payrow	Farshid	70
+18122015	023739	Roberson	Stuart	Corpening	Kenny	80
+25082015	204504	Baker	Jesse W	Braicich	Agnes	140
+24032018	074608	Noble	Frederick	Van	Winkle Robert	160
+04072016	100233	Weber	Cindy	Nguyen	Phuong	190
+15122017	075449	Hall	Gilbert	Cortez	Fernando	110
+09072017	221206	Steward	Terry	Smith	Steven	60
+28052014	233351	Chung	Andy	Fowler	Vincent	110
+08042016	170813	Morioka	John	Braicich	Agnes	140
+19012018	122450	Gatlin	Travis	Zakos	Jim	40
+26082014	170750	Noah	Bobby	Cortez	Fernando	40
+20122015	023834	Yost	James	Auriemma	Maria	40
+05122013	173115	Miranda	Tony	Noble	Jesse	40
+16122013	011345	Dodd	Bill	Di	Pirro Thomas	60
+20052013	205254	Worley	Charles	Ball	Sam	80
+06122014	120201	Golstone	Scott	Risser	Charles	40
+30042018	134757	Bjorgan	Heather	Hee	Kyong	120
+03102015	150720	Roca	Lydia	Smith	Steven	70
+07092017	015034	Teslow	Matt	Barrientos	Linda	170
+08042017	143205	Hill	Jim	Strohbeen	Mary	70
+07112014	172317	Tanashian	Jack	Fujikawa	Toshiko	40
+08022016	230732	Martofel	Allen	Cutri	Elaine	190
+22112014	181746	Burns	Gail	Duong	Lewis	200
+02092014	030804	Doss	Tamla	Cutri	Elaine	110
+12092016	040807	Barry	Tim	Chong	Ung Ki	40
+22032015	045053	Chandler	Gavin	Skidmore	Laura	40
+27022017	090129	Tenore	Jr Anthony	Cox	Ty	150
+12052016	201320	Salasar	Louise	Lowe	Betty	80
+20102015	140432	Smith	Lisa	Fox	Karen	160
+07112015	151246	Taylor	Linda	Pham	Victoria	40
+04062017	231635	Sullivan	Dan	Tyrrell	Chris	150
+13092014	053141	Potter	Julie	Maug	Mary	190
+05032014	050311	Cline	John	Pham	Victoria	90
+07082017	181156	Kelly	Mike	Mccurley	Richard	120
+25072017	224147	OH	Keith	Cox	Ty	90
+28112013	003822	Rinaldi	Theresa	Turner	Edward	190
+28102015	205336	Taylor	Yvonne	Ridenour	Barbara	80
+03052015	115957	Pineda	Sylvia	Wong	Vicky	110
+14012014	225831	Mahoney	Tim	Bauch	Jane	180
+29012017	212945	Teninty	Jay	Martsen	Vaughn	30
+28102014	225552	Franks	Dawn	Fox	Karen	30
+27122017	060430	Khan	Ali	Milinkovic	Milorad	130
+09062017	165819	Strum	Terri	Strohbeen	Mary	130
+14102014	120436	Tanguay	Michael	Garcia	Gulio	30
+04062016	165003	Lerch	John	Nguyen	Kim	130
+14072017	233720	Browne	Ronald T	Cox	Joe	200
+27032017	193006	Lambari	Teresa	Gonzalez	Jose	90
+27042016	052717	Wolke	Madelyn	Broady	George	170
+01122016	075331	Tanguay	Michael	Starks	Cassandra	60
+19072014	103936	Feetham	Thad	Shaskas	John R	130
+17102016	080859	Lim	Penny	Van	Winkle Robert	170
+12092014	012908	Tamate	Paul	Van	Heule James	100
+03112013	074729	Rose	Tina	Skidmore	Laura	170
+17092013	004645	Mc	Gee Michael	Mendez	Leonard J	130
+19082014	035413	Talley	Ed	Broady	George	90
+25012014	211948	Ho	Amy	Boyton	Affree	50
+18052013	021401	Taylor	Troy	Nguyen	Kim	70
+06092014	194641	Farrer	Judy	Lasson	Calvin	200
+11072016	133125	Dankaneley	Beth	Pham	Victoria	120
+12032016	180038	Johnson	Jeff	Green	Richard	120
+02102013	025821	Sheehan	T Kevin	Burney	Kelly	150
+07022015	063310	Bibas	Rebeca	Benedict	Carol	150
+12102016	085948	Zinowski	Mike	Cox	Ty	50
+02032017	205652	Touhey	John	Vickers	Jean	140
+18012015	225850	Yost	Holly	Mcdaniels	Mike	200
+16092013	134046	Johnson	Terry	Fujikawa	Toshiko	200
+21102015	220011	Taylor	Elaine	Cutri	Elaine	150
+27062016	223124	Bahry	Ted	Burney	Kelly	170
+24112016	225524	Ridolfi	Dave	Skidmore	Laura	140
+26112015	193207	Washington	Lillian	Stone	Ed	120
+24022015	052057	Rice	Beth	Rivera	Evelyn	40
+07092013	030112	Proulx	Rhonda	Duong	Lewis	180
+04082014	125043	Watts	Tammie	Brown	Brent	50
+18052017	013010	Lowery	Terrell	Auriemma	Maria	140
+09012017	104404	Gibson	Greg	Johnston	Denny	140
+02042014	204243	Terry	Pattie	Shper	Paul	70
+26052016	085710	Bensky	Robert	Shper	Paul	140
+29012016	172849	Goodwin	Sarah	Risser	Charles	170
+03092016	110642	Lerma	Eddie	Smith	Steven	80
+26102015	062127	Elliott	David	Kim	Woon	50
+11122014	201335	Fortune	Sheri	Tribble	Harrison O	190
+09112016	132429	Polito	Terry	Green	E	190
+27062014	205700	Takahashi	Mirna	Barrientos	Linda	110
+28062015	114231	Tate	Danny	Duong	Lewis	120
+04102016	025059	Dominique	Eddy	Vasser	Ronnie	70
+20012015	132730	Tenbusch	Larry	Strohbeen	Mary	50
+23032017	191509	Rodriguez	Teresa	Vanderwaal	Randy	120
+26112015	031758	Plybon	Tara	Skidmore	Laura	120
+22012016	125151	Vo	Tony	Green	E	70
+18122017	005526	Jackson	Mike	Shunn	Becky	150
+18042018	020959	Yu	Peter	Brown	Brent	80
+20032014	220753	Schuman	Nate	Hee	Kyong	90
+05032015	221355	Shah	Aziz	Cortez	Fernando	180
+23022016	071032	Taylor	Jim	Tovar	Leonardo	180
+17042014	074326	Rich	James	Sardisco	Joe	200
+05092017	162615	Sharman	Tom	Urquhart	Jean	190
+01102014	062422	Ellis	Joe	Payrow	Farshid	120
+12062017	191147	Terry	Michael	Tovar	Leonardo	170
+07072017	074248	Rickner	Terry	Mc	Kinstry Irving	40
+23012017	111618	Beaver	Robert	Boyton	Affree	50
+01052015	035443	Edge	Chris	Veasey	Deborah	50
+16012016	175031	Molton	Larry	Benedict	Carol	100
+06012017	182343	Sanders	Terri	Cortez	Fernando	60
+19072014	192701	Talbot	Bob	Lin	Eddy	140
+03042017	085652	Fitzsimons	Teresa	Ball	Sam	90
+24052014	160353	Dodaro	Joseph	Zimmit	Vince	80
+19012015	083054	Harvey	Michelle	Braicich	Agnes	80
+01012018	075123	Hyland	Paul	Nguyen	Kim	190
+16112014	232050	Gibbar	Leann	Shper	Paul	60
+17022018	122633	Binder	Terry	Wong	Vicky	180
+09102015	124902	Muery	Russell	Nguyen	Kim	180
+16082014	164055	Craig	W R	Urquhart	Jean	70
+04072016	163035	Mirzoian	Hakop Jack	Nguyen	Kim	90
+25022017	212258	Haswell	Frank	Rivera	Evelyn	70
+04082013	172504	Briceno	Alonzo	Lasson	Calvin	130
+22102013	172818	Miller	Virginia	Gonzalez	Jose	100
+05032017	084132	Tepper	Jonathan DC	Shunn	Becky	110
+17032017	175407	Crawford	Teresa	Cutri	Elaine	100
+20082015	024528	Wolf	Bill	Sutter	Danny	80
+26102015	233742	Dougherty	Tim	Shper	Paul	170
+10012014	075155	Johnston	Terri	Brown	Doyle	60
+05062017	220849	Taylor	Parrish	Church	Vera	80
+18042016	074144	Snyder	John	Burney	Kelly	60
+10082014	123639	Lessley	Dana	Vasser	Ronnie	180
+16042018	194212	Testo	Theo	Pham	Victoria	110
+19012014	044525	Baumgardner	Cathy	Hee	Kyong	110
+30062017	214218	Wells	A C	Rosario	Robert	150
+18032014	104336	Brown	C	Vega	Evaristo	200
+09072017	002958	Taylor	Chris	Church	Vera	130
+12022016	230715	Dolph	Jonathan	Karam	Francis	110
+27092013	152041	Dupaix	Steve	Zakos	Jim	140
+20102013	150209	Matamis	Ted	Mayl	Sheryl	110
+09022015	082254	Fania	Umberto	Conklin	Tom	130
+04012015	054024	Brown	Tom	Fujikawa	Toshiko	50
+08032016	081430	Johnson	Ted	Rosario	Robert	150
+15032018	221255	Ratzlaff	Curtis	Ugarph	Dave	180
+23112016	021358	Baker	Darren	Richards	Stuart	200
+10122015	100617	Gregor	Yrwand F	Lust	Desiree	110
+13092017	234207	Tardiff	Marc	Sardisco	Joe	160
+21052017	165323	Tomassetti	Terrence E	Johnston	Denny	140
+29032018	155851	Fisher	Bill	Garcia	Gulio	120
+21092016	210144	Matta	Jimmy	Pham	Victoria	150
+18032017	135045	Arnold	Teresa M	Church	Vera	160
+06072013	001018	Davis	Travis	Chong	Ung Ki	60
+10122014	180101	Jackson	Mike	Rivera	Evelyn	150
+14112017	001923	Hamel	Terry	Carr	James	190
+23082015	053848	Martin	Tom	Stone	Ed	120
+01052015	215259	Stroud	Ron	Gonzalez	Jose	180
+14062017	191050	Bridgewater	Terry	Cox	Ty	100
+13012018	010131	Joseph	Chuck	Van	Heule James	50
+03092015	220845	Collazo	Adrian	Fujikawa	Toshiko	60
+08082013	011616	Lin	Kim	Conklin	Tom	150
+11032014	130446	Mc	Daniel Barbara	Mayl	Sheryl	70
+01032017	134253	Hyland	Paul	Mc	Kinstry Irving	130
+21062017	040053	Terry	David	Mc	Kinstry Irving	80
+14092016	232828	Crosby	Terry	Cox	Ty	50
+10082016	072720	Mitchell	Mimi	Salem	Chuck	160
+15022016	014305	Kitson	Aretha	Zakos	Jim	70
+14122013	085348	Coenen	III Theo J	Mc	Kinstry Irving	110
+16122015	231412	Jarrett	Rebecca	Ugarph	Dave	80
+26092017	215825	Balint	Helen	Sardisco	Joe	180
+10062017	165624	Toppelhauer	Terry	Brown	Doyle	120
+17072014	130136	Talbert	Ross	Starks	Cassandra	150
+03052014	111918	Seis	Joe	Conklin	Tom	100
+13042014	003121	Tadlock	Sheri	Sardisco	Joe	160
+23012018	143354	Hemsworth	Anthony	Braicich	Agnes	200
+10082016	191052	Tacker	Thomas	Ridenour	Barbara	60
+18012015	115910	Burch	Leigh	Vasser	Ronnie	190
+22102014	232013	Tran	Cang	Karam	Francis	160
+21062015	032043	Santangelo	Tom	Auriemma	Maria	140
+04082013	101423	Stemwedel	George	Veasey	Deborah	150
+16072015	093642	Kennamore	Bobby	Martsen	Vaughn	90
+26022018	000301	Femiak	Steve	Zimmit	Vince	140
+26102014	232203	Baxter	Rita	Sutter	Danny	140
+09112017	113449	Redmon	Trexlor L	Starks	Cassandra	180
+23052016	041054	Durlach	David	Mendez	Leonard J	170
+05052016	103556	Sullivan	Mark	Boyton	Affree	130
+12052013	123507	Nguyen	Anna	Corpening	Kenny	160
+06102015	013132	Taylor	Anne	Lust	Desiree	90
+13062016	161809	Burnett	Louis	Skidmore	Laura	60
+30042016	051503	Abbate	Daniel	Michel	Jessica	140
+31082014	002801	Peranpta	Emaleo	Karam	Francis	50
+27012014	031104	Tamfer	Anthony J	Ball	Sam	80
+12102017	115803	Swepston	Wade	Abbott	Teresa	80
+22022017	164415	Potts	Terry	Wiltz	Paul	180
+30112017	010930	Challop	Alan	Wong	Vicky	50
+06072015	131201	Tatham	James	Fowler	Vincent	60
+11092016	142907	Taylor	Wayne	Tribble	Harrison O	50
+02102015	135830	Taylor	Robert	Cortez	Fernando	190
+26102017	231246	Jaynes	Jerry	Lust	Desiree	90
+21072017	081844	Brown	Terry C	Conklin	Tom	200
+14042015	103403	Shear	Ted	Michel	Jessica	140
+06092016	115430	Weber	Jim	Nguyen	Kim	30
+21062015	141127	Ashe	Robert	Schroeder	Tom	80
+13072015	040221	Hardy	Ed	Lin	Eddy	130
+30032016	040234	Toppelhauer	Terry	Milinkovic	Milorad	170
+23102015	163132	Honda	Minoru	Smith	Steven	110
+26052017	182439	Sanders	Terri	Mayl	Sheryl	190
+17102013	192345	Mc	Carley Timothy	Mccurley	Richard	50
+08102015	095155	Blackwell	Taylor	Luc	Hao	60
+27042015	235735	Winters	Paul	Chong	Ung Ki	130
+30072014	212503	Bunno	Larry	Chong	Ung Ki	170
+17112016	113233	Taylor	Cliff	Brown	Brent	80
+22102015	143557	Taylor	Tim	Lin	Eddy	90
+24022017	194314	Pizzolato	Adrienne	Burney	Kelly	140
+15082014	132417	Trowbridge	Stephen	Mendez	Leonard J	90
+18102017	164527	Rabbat	Abdullah	Wiltz	Paul	120
+23052013	000214	Kahssai	Kidane	Maug	Mary	170
+18032014	015418	Vaughn	Donna	Burney	Kelly	160
+04072017	115601	O'Brien	Terry	Strohbeen	Mary	120
+12072016	110503	Mitchell	Ted	Chong	Ung Ki	50
+30062017	043637	Algren	Steve	Mc	Kinstry Irving	180
+03012017	121349	Vorhies	Terry	Nguyen	Phuong	90
+04112014	121854	Luke	Diane	Hee	Kyong	190
+01072016	110817	Vanderhoof	Ted	Starks	Cassandra	50
+03052013	133501	Taylor	Steve	Forte	Ann DC	100
+10122017	110543	Anaya	Ernesto	Ball	Sam	100
+12032016	121654	Wachholz	Jodi	Cox	Joe	50
+07052014	075355	Tahir	I	Fowler	Vincent	170
+13012015	131812	Nguyen	Trang	Rosario	Robert	110
+24012016	132219	Bain	Charles	Van	Winkle Robert	190
+26122015	232803	Hoang	Giam	Richards	Stuart	120
+09052017	205612	Fattoross	Sam	Johnston	Denny	200
+24122014	160946	Pollic	Sharon	Luc	Hao	90
+01062017	173546	French	Terri	Davidson	Grant	150
+01032016	001403	Brown	Anthony	Forte	Ann DC	130
+07062013	123148	Baker	Terry	Di	Pirro Thomas	120
+12122013	104522	Russell	Bobby	Karam	Francis	160
+14012015	171119	Saylor	Lee	Fox	Karen	40
+19022018	185108	Ayasit	Sriwong	Van	Heule James	60
+12072014	114052	Kinsella	Tom	Chong	Ung Ki	30
+02072013	190317	Herrmann	Thomas	Bauch	Jane	110
+26042018	041747	Krehbiel	Solveig	Tovar	Leonardo	190
+15092013	085640	Taylor	Addison	Nguyen	Phuong	160
+28032018	142035	Lindquist	Tom	Mendez	Leonard J	160
+10072014	083128	Welchen	Tekita	Risser	Charles	150
+04072013	133132	Juckem	Anthony	Davidson	Grant	130
+03112017	172439	Hensley	Helen	Mendez	Leonard J	160
+07092016	171042	Lin	Kim	Michel	Jessica	40
+22042017	020614	Barker	Gary	Payrow	Farshid	70
+19042016	201834	Simmons	Raleigh	Hee	Kyong	70
+19012017	232948	Walker	B J	Mendez	Leonard J	160
+13042015	151114	Tardiff	Marc	Mendez	Leonard J	140
+03052016	193335	Allen	Tim	Virgen	Victor	60
+06072017	202326	Bobis	Mary	Davidson	Grant	190
+18092013	224119	Neuman	Todd	Fleischner	Molly	170
+08122017	164348	Hooten	Teddy	Sardisco	Joe	70
+19082016	044944	Andersen	Jerry	Valcich	Tom	100
+05082017	081118	Johnson	Terry	Duong	Lewis	110
+01022014	073249	Smith	Donald	Van	Heule James	170
+16122015	122817	Taylor	Steve	Sardisco	Joe	80
+15052015	052509	Scott	Norm	Zimmit	Vince	200
+30122016	144345	Kell	Patrick	Forte	Ann DC	190
+20112014	094355	Tang	Kap	Kim	Woon	140
+16122013	061454	Bhakta	Dahyabhai	Nguyen	Phuong	180
+09072017	054727	Aronoff	Terry	Shper	Paul	110
+11042016	164722	Hughes	Kevin L	Hanna	Scott	40
+25062016	000527	Weaver	Ted	Green	E	60
+21012016	122146	Mulligan	Steve	Luc	Hao	190
+18062014	110005	Saito	Eddie	Milinkovic	Milorad	160
+02072013	194352	Caves	Tom	Urquhart	Jean	160
+27042016	100713	Hyde	Herb	Boyton	Affree	90
+07052017	190507	Steinhart	Terran T	Shper	Paul	60
+17012016	133902	Hunter	Terrayce	Mumptaz	Muhammad	50
+29072015	151213	Noyes	George	Tovar	Leonardo	170
+13112013	182559	Biederman	Terry	Michel	Jessica	30
+10082015	194404	Van	Dyke Susan	Carr	James	200
+19072017	190434	Richards	Terry	Mc	Kinstry Irving	60
+26012017	025658	Flam	Marjorie	Noble	Jesse	190
+29032018	115650	Theama	Chris	Sutter	Danny	50
+18022016	080252	Torrie	Bob	Lasson	Calvin	160
+14102014	165944	Chaffin	Kenneth	Wiltz	Paul	100
+31012014	174758	Olsten	Oly	Lust	Desiree	130
+03062014	051712	Roussell	Michael	Zakos	Jim	90
+16112013	140337	Taylor	Beverly	Mayl	Sheryl	120
+06012016	235646	Smith	Brenda	Sutter	Danny	120
+05032016	041156	Quinn	Mike	Braicich	Agnes	50
+29032016	204406	Hyunh	Van	Ridenour	Barbara	40
+30062017	232140	Mertz	William T	Wong	Vicky	120
+10052013	232501	Santangelo	Tom	Nguyen	Phuong	90
+18102015	134613	Taylor	Todd	Conklin	Tom	100
+22072014	101249	Thornton	Michael	Van	Heule James	160
+04102014	231322	Evans	James	Veasey	Deborah	190
+18082016	195043	Olinger	Jack	Forte	Ann DC	180
+29082015	125138	Hernandez	Santos	Mc	Kinstry Irving	190
+19062013	182641	Cen	Tom	Van	Heule James	100
+28102016	183156	Chen	Phil	Forte	Ann DC	150
+26062015	040923	Kam	Siu	Barrientos	Linda	50
+20062015	112959	Chhay	Van	Fleischner	Molly	100
+18012014	120234	Shipman	Troy	Hee	Kyong	150
+04032015	081313	Gutierrez	Alonzo	Forte	Ann DC	150
+08012015	135557	Costa	Rick	Lin	Eddy	30
+11082013	200316	Dossett	Barbara	Gonzalez	Jose	150
+04032016	091349	Pedroza	Rene	Stone	Ed	140
+06082013	045625	Tak	Sang	Di	Pirro Thomas	30
+18042014	000435	Bramlett	Ted	Lowe	Betty	50
+14012017	073101	Rahman	Khalilur	Skidmore	Laura	80
+26042014	122818	Senn	Tim	Mc	Kinstry Irving	90
+20022018	162025	Cho	Nam Soo	Nguyen	Phuong	60
+09062016	001559	Irwin	Chris	Van	Winkle Robert	50
+03042015	080841	Bardsley	Jim	Carr	James	140
+25082017	103854	Argenbright	Terry	Tovar	Leonardo	70
+13122014	031549	Petruy	Liliana	Church	Vera	110
+05112017	172422	Hughes	Michael	Abbott	Teresa	180
+06012016	212642	Anthony	Jim	Borden	Gloria	120
+30042017	163628	May	Paul	Wiltz	Paul	100
+14052016	072220	Cadby	Matt	Cortez	Fernando	40
+08102015	083753	Dexter	Will	Nguyen	Phuong	60
+02092016	030721	Tilling	Laura	Green	E	80
+06112014	074243	Tanaka	Glenn	Barrientos	Linda	180
+29082015	175948	Mcwhorter	Sam	Hanna	Scott	170
+06052015	092041	Tarini	Richard	Skidmore	Laura	140
+10082015	044957	Tavares	Joe	Milinkovic	Milorad	170
+21122014	004142	Schenk	Wilbur	Issia	Vinnie	40
+22112013	160308	Mozingo	Terry	Bauch	Jane	100
+11112015	103834	Esterbrook	Wes	Lowe	Betty	140
+26092014	115229	Wise	Tammy	Noble	Jesse	160
+24062013	161711	Cardena	Cosme	Virgen	Victor	130
+09032016	025818	Sohn	Edward	Starks	Cassandra	150
+21032015	080452	Cortez	Isabel	Pham	Victoria	70
+22032015	173658	Patterson	Deanna	Sutter	Danny	30
+28022018	081931	KY	Thanh	Issia	Vinnie	130
+27012017	183231	Pitts	James	Broady	George	90
+08072015	234234	Hogue	Wes	Sutter	Danny	60
+06022016	224049	Cantrell	Theodore	Michel	Jessica	130
+04052016	120557	Matin	Shaikh	Barrientos	Linda	80
+02092016	101413	Teesdale	Dorthy	Bauch	Jane	40
+17082016	033139	Rahman	Khalilur	Strohbeen	Mary	80
+11042018	040454	Teran	Jim	Skidmore	Laura	190
+25042014	025438	Richter	Chad	Sardisco	Joe	170
+20122014	182930	Costa	Joey	Chong	Ung Ki	180
+20072014	161555	Talcott	Wesley	Cox	Ty	110
+29082015	045631	Bear	John	Tovar	Leonardo	160
+16082017	052538	Ng	Tommy	Conklin	Tom	150
+04042016	151627	Shulman	Bruce	Cox	Joe	140
+13042015	071741	Villa	Jesus	Van	Winkle Robert	100
+26082013	084650	Sheeran	Paul	Wong	Vicky	60
+20112014	115726	Fham	Tom	Gonzalez	Jose	80
+13042018	000826	Harpster	Thelma	Johnston	Denny	130
+27082014	185605	Shulman	Leonard	Green	Richard	180
+23042018	041700	Thompson	Tammy	Veasey	Deborah	90
+27082016	234643	Johnson	Teena A	Wong	Vicky	70
+30042014	194432	Houlihan	Monica	Lasson	Calvin	100
+15052015	073350	Wall	Teresa	Schroeder	Tom	100
+10122017	115455	Moore	Terry	Van	Winkle Robert	190
+23052014	031148	Hiblar	Nancy	Brown	Brent	100
+12092015	080458	Conrad	David	Brown	Doyle	30
+01032015	234205	Stacy	Kenneth	Vickers	Jean	80
+19042018	154043	Theodore	Richard G	Tyrrell	Chris	130
+19112014	043556	Chaffin	Kenneth	Mendez	Leonard J	60
+22072015	163510	Leggero	Mike	Michel	Jessica	190
+20022018	162507	Kinares	Kiciiaj	Forte	Ann DC	200
+13072017	001607	Medlin	Terry W	Shper	Paul	130
+15042015	065319	Sullivan	Dan	Burney	Kelly	100
+12092014	093100	Tamber	Suk	Green	Richard	100
+28102014	064920	Osman	Tony	Gonzalez	Jose	160
+16092017	181605	Teston	Terry	Church	Vera	100
+19042014	043540	Ali	Danny	Ridenour	Barbara	40
+09052015	053022	Golden	Larry	Auriemma	Maria	60
+21062017	010710	Gartside	Terry	Fujikawa	Toshiko	140
+10092015	214831	Bear	John	Duong	Lewis	110
+23042015	102443	Dollombosky	Lynn	Borden	Gloria	190
+10112013	090206	Terry	Edward L	Tyrrell	Chris	150
+21062016	045151	Pollock	Ted	Turner	Edward	50
+21112013	004855	Han	Chung	Forte	Ann DC	170
+20122015	105704	Mellios	John	Wiltz	Paul	70
+01052016	210515	Morales	Charles	Fujikawa	Toshiko	170
+22092017	142638	Hansen	Norma	Urquhart	Jean	100
+14102015	220513	Baldwin	Randall	Green	E	30
+25072017	004451	Mc	Cauley Terrence M	Vega	Evaristo	80
+17072014	111613	Vick	Ted	Forte	Ann DC	180
+26082014	190644	Sukkar	George	Shper	Paul	130
+24082017	025331	Tenison	Patricia	Tyrrell	Chris	130
+23012015	152252	Fielding	Kathy	Turner	Edward	120
+04112015	154208	Iannotti	Joe	Green	E	90
+29062017	144426	Mallery	Terry M	Nguyen	Phuong	40
+24082016	170616	Bedingfield	Terry	Mendez	Leonard J	80
+30042017	000802	Dakka	Ramsey	Brown	Doyle	120
+10122014	185547	Powell	Imogene	Fox	Karen	190
+18012015	175431	Fichtner	Kathi	Lust	Desiree	110
+30112013	080541	Kennamore	Bobby	Brown	Doyle	50
+26022016	155800	Dodd	Lawrence DC	Luc	Hao	110
+30042018	185439	Wilson	Sandy	Kolbe	Ed	90
+29122015	002331	Ellis	Robert	Tribble	Harrison O	120
+01022015	185839	Terry	Pattie	Lasson	Calvin	160
+19092015	191344	Matin	Shaikh	Mumptaz	Muhammad	120
+11032017	144623	Teran	Jim	Hanna	Scott	140
+13122016	004629	Delmont	Jerry	Varblow	Carl	60
+10042017	125246	Lee	Son Hui	Strohbeen	Mary	170
+13082013	224152	Zalenski	Jerry	Zimmit	Vince	50
+07052014	080224	Acosta	Tony	Varblow	Carl	180
+30062015	134245	Tate	Sr Thomas G	Kolbe	Ed	40
+02012016	004043	Laws	Peter	Carr	James	190
+28072017	172508	Mullens	Terry	Fox	Karen	70
+23092016	225246	Gonzalez	Louis	Strohbeen	Mary	170
+15112014	224821	Lewis	Trish	Noble	Jesse	70
+03012015	003300	Smith	Bob	Boyton	Affree	170
+30012014	073715	Cardillo	Chris	Virgen	Victor	190
+17092015	031229	Dipiazza	Greg	Skidmore	Laura	70
+04062014	193306	Mullinax	Larry	Forte	Ann DC	50
+28042016	164612	Davis	Nathaniel	Vega	Evaristo	50
+17042017	190735	Bradford	Fred	Ugarph	Dave	200
+18112016	021429	Yaw	Ban	Shaskas	John R	160
+14042016	151127	Salamzadeh	Abraham	Karam	Francis	90
+30012017	110136	Brower	Joe	Mendez	Leonard J	180
+14112014	233926	Mokahey	Gary	Forte	Ann DC	110
+30042017	004208	Tromp	James E CPA	Gonzalez	Jose	110
+20042015	225105	Mackey	Donald	Noble	Jesse	180
+01052014	043001	Fleischmann	Dennis	Corpening	Kenny	110
+25072014	201906	Keegan	Eileen	Tribble	Harrison O	140
+29092014	205333	Jackson	Tammy	Green	Richard	70
+17122017	103403	Daigle	Elaine	Cortez	Fernando	60
+14082014	055925	Janssen	Wayne E	Starks	Cassandra	130
+24062015	163720	Rahman	Khalilur	Benedict	Carol	190
+30112015	073850	Harvey	John	Cutri	Elaine	140
+29032015	191525	Memon	Mike	Lust	Desiree	160
+27102017	144428	Messinger	Tom	Mayl	Sheryl	40
+18012017	151943	Hwang	Seong	Nguyen	Kim	110
+25052016	180805	Hoops	Tom	Church	Vera	90
+08082017	054559	Lara	Terry	Hee	Kyong	140
+19122015	010619	Michaud	Mark	Abbott	Teresa	160
+19032017	030146	Reissig	Teresa	Schroeder	Tom	40
+29072015	003225	Taul	John	Skidmore	Laura	190
+14072016	221347	Crawford	Teresa	Green	E	70
+11022014	043344	Taylor	Pat	Vasser	Ronnie	40
+29012016	063500	Currey	Thomas D	Fleischner	Molly	180
+05122013	234102	Taylor	T Scott OD	Virgen	Victor	100
+16052016	104812	Ruiz	Levi	Luc	Hao	70
+04032015	184351	Cortez	Claudia	Shper	Paul	190
+18012018	163016	Thompson	Jack	Forte	Ann DC	100
+21072017	052411	Weiss	Terry	Cutri	Elaine	70
+13052015	153018	Paule	Michael DC	Nguyen	Phuong	190
+06112015	030925	Taylor	Gary	Tyrrell	Chris	70
+26012016	205108	Beyer	Leroy P	Vickers	Jean	190
+31032015	100454	Visman	Gideon	Mcdaniels	Mike	90
+12082017	203806	Van	Hoose Terry	Davidson	Grant	190
+08122014	234602	Dunham	Jackie	Tribble	Harrison O	120
+24072017	223852	Teeters	Judy	Mc	Kinstry Irving	150
+07012014	191245	Tipton	Roy	Richards	Stuart	120
+11022018	163941	Allen	Tim	Duong	Lewis	70
+01022016	184123	Lee	Timothy	Nguyen	Kim	120
+12022015	043107	Martinez	Reuben	Shunn	Becky	80
+22022018	060853	Taveprungsenuk	Julia	Zimmit	Vince	90
+13052017	091833	Conrad	Terrie	Chong	Ung Ki	110
+08082017	154845	Le	Blanc Terry	Shaskas	John R	70
+24102016	115145	Fenison	Michael	Corpening	Kenny	150
+28032015	115024	Steiner	Robert E CPA	Kim	Woon	110
+02122014	234359	Jaskulski	Rick	Van	Winkle Robert	100
+23082017	073738	Wilson	Jeff	Tovar	Leonardo	130
+31012016	102030	Keach	Dorris	Rivera	Evelyn	180
+03032016	114301	Jones	Cliff	Di	Pirro Thomas	100
+02122016	201415	Spencer	Forest	Cox	Joe	130
+17092014	062039	Otero	Carlos	Rivera	Evelyn	30
+20112014	153901	Davis	Larry	Barrientos	Linda	60
+28092015	035548	Hiemstra	Jim	Noble	Jesse	170
+30062017	091250	Mast	Terry	Strohbeen	Mary	40
+26082013	134528	Buckstaff	Clyde	Boyton	Affree	110
+25112016	082954	Graham	Rick	Urquhart	Jean	120
+10092015	124741	Spitzer	Jennifer	Rivera	Evelyn	70
+30122013	151637	Vires	William	Rosario	Robert	110
+24092017	185252	Teune	Steven	Tovar	Leonardo	50
+11042016	031527	Conley	Jeanette	Turner	Edward	140
+22072015	192138	Harbison	Barb	Boyton	Affree	70
+28082014	104038	Uddin	Mohim	Milinkovic	Milorad	80
+13042017	110536	Kalantzis	Tasos	Michel	Jessica	80
+23012018	154436	Gezahager	Teklu	Borden	Gloria	70
+19072014	185703	Todey	Joe	Risser	Charles	130
+07012017	135810	Kasmikha	B	Wong	Vicky	60
+15122013	155625	Varner	Terry	Tyrrell	Chris	200
+30042018	102102	Mackey	Donald	Rivera	Evelyn	30
+27012018	012826	Thacker	James	Sutter	Danny	120
+29112013	075931	Mirzoian	Hakop Jack	Johnston	Denny	80
+17022014	033601	Gregor	Yrwand F	Starks	Cassandra	150
+05022015	200208	Levy	Moses	Skidmore	Laura	200
+06042015	061433	Bloom	Tara	Barrientos	Linda	50
+13122015	225857	Taylor	Pat	Green	Richard	50
+16062016	021145	Emberton	Ted	Tyrrell	Chris	60
+12042018	071148	Bauman	Thelma	Virgen	Victor	110
+08072014	133409	Ray	Steve	Burney	Kelly	170
+10112014	025355	Pillin	Don	Zimmit	Vince	80
+18102017	084235	Chapman	James	Sutter	Danny	110
+09102016	112718	Watkins	John	Issia	Vinnie	150
+06022016	153912	Choi	Ki	Issia	Vinnie	50
+29092013	100744	Vannausdle	Kelly	Ugarph	Dave	140
+02102016	144212	Tatum	Tim	Ball	Sam	40
+24032015	173855	Cain	Betsy	Rosario	Robert	160
+26032017	111733	Corrow	Teresa	Di	Pirro Thomas	170
+29052015	001626	Sanchez	Monarae	Broady	George	110
+25012015	034013	Mock	Debbie	Zimmit	Vince	140
+19102014	015121	Mc	Neal Bob	Conklin	Tom	70
+17082016	075404	Koch	Terri	Mayl	Sheryl	190
+19062014	203610	Sanders	Terri	Veasey	Deborah	40
+07012017	193731	Ye	Greg	Vanderwaal	Randy	130
+05082015	092242	Legree	Tim	Turner	Edward	140
+05072014	150319	Brown	Denise	Fox	Karen	200
+28092014	215239	Sanders	Tammy	Ball	Sam	180
+15092015	155328	Curry	Bob	Veasey	Deborah	190
+23022016	014133	Anastasia	Tami	Chong	Ung Ki	80
+29082015	222929	Smith	B	Broady	George	120
+28022018	005307	Williams	Than	Borden	Gloria	140
+29072013	052453	Tank	Art	Benedict	Carol	110
+18022016	115823	Shearrer	Deborah	Kim	Woon	80
+17072013	070503	Taylor	James	Schroeder	Tom	160
+11102013	211837	Mc	Vay Ted	Pham	Victoria	90
+23052015	024324	Koos	Thomas	Varblow	Carl	120
+10052015	113910	Tarquinio	Ronald	Brown	Doyle	80
+26072016	170525	Tanguay	Michael	Kim	Woon	120
+29032014	032639	Musgrove	Daniel	Urquhart	Jean	60
+23102014	191156	Jackson	Lela	Rosario	Robert	110
+13102015	145349	Collier	Michelle	Van	Heule James	100
+11112015	174140	Taylor	Dennis	Braicich	Agnes	90
+27072016	130645	Stiefel	Janice	Valcich	Tom	160
+30092016	032935	Rutkowski	Jim	Fox	Karen	170
+09032015	152116	Marcus	Edward	Church	Vera	190
+02092014	065605	Howd	H	Varblow	Carl	170
+16112014	090500	Tulberg	Patricia	Cox	Ty	100
+31032015	073816	Wooden	Peggy	Shaskas	John R	70
+26022014	120755	Bartle	Tom	Nguyen	Kim	110
+11022014	033441	Vossler	Craig	Shaskas	John R	190
+29092014	200958	Vayer	Sema	Benedict	Carol	190
+13092014	223819	Tamez	Jose	Schroeder	Tom	30
+29062013	003456	Schafer	Carrie	Chong	Ung Ki	50
+07062014	053641	Carson	Delano N	Vega	Evaristo	100
+12052015	223208	Corveddu	Robert	Gonzalez	Jose	160
+13082013	054458	Guerra	Elsa	Di	Pirro Thomas	200
+26072017	060931	DE	Foure Terry	Mc	Kinstry Irving	150
+07092017	215246	Medina	Leticia	Hanna	Scott	50
+16072016	084757	Templeton	Tom	Mc	Kinstry Irving	140
+24112014	130151	Thomas	W	Shper	Paul	130
+10042014	085213	Glazer	Linda	Shunn	Becky	80
+19062017	013726	Drennan	Terry	Salem	Chuck	130
+27032017	134129	Lim	Penny	Abbott	Teresa	160
+08022017	113635	Montgomery	Rick	Noble	Jesse	130
+01112014	093956	Comet	Kevin	Tyrrell	Chris	130
+04082014	041624	Hanson	Pamela	Vanderwaal	Randy	60
+22092014	192436	Torell	Tammi	Duong	Lewis	140
+19042017	101226	Wilson	Ken	Tovar	Leonardo	90
+14032014	174503	Wade	Sue	Boyton	Affree	90
+22062016	220510	Takata	Ted	Virgen	Victor	90
+24102017	014427	Seese	Don	Cutri	Elaine	190
+29122016	012908	Johns	Kathy	Mc	Kinstry Irving	110
+09122015	051221	Taylor	Edward	Cortez	Fernando	70
+16062017	050715	Monkres	Terry G	Abbott	Teresa	100
+06112014	113835	Revel	Beatrice	Virgen	Victor	90
+21032016	052125	Plaskett	Cheryl	Issia	Vinnie	140
+08112014	220051	Carter	Paul	Michel	Jessica	50
+19022016	021644	Teague	Rodrick	Boyton	Affree	150
+25062013	184320	Columbus	Tony	Strohbeen	Mary	40
+01012018	074730	Tidwell	Gerald	Mayl	Sheryl	90
+30082016	191357	Kelly	Paula	Ball	Sam	160
+10062016	002807	Gondos	Richard	Van	Heule James	170
+13072017	191919	White	Terry	Cox	Ty	110
+13112013	131556	Plummer	Timothy	Borden	Gloria	70
+28042018	215243	Castrinos	Debra	Conklin	Tom	120
+17032018	131745	Kollars	Craig	Conklin	Tom	140
+19122017	104549	Peed	Jeanette	Bauch	Jane	150
+28052014	234409	Ngai	Tom	Luc	Hao	190
+12062017	213420	Balding	Terry	Kolbe	Ed	90
+24062017	195955	Herrmann	Thomas	Borden	Gloria	120
+12022015	124517	Tarini	Richard	Vanderwaal	Randy	180
+21032014	124349	Eastman	Dana	Garcia	Gulio	110
+04122015	060920	Taylor	Addison	Bauch	Jane	130
+15052015	213837	Johnson	T D	Tyrrell	Chris	110
+11012018	211208	Tart	Herb	Sutter	Danny	70
+06112015	053702	Domingues	Bob	Church	Vera	150
+04072017	202941	Minton	Terry	Milinkovic	Milorad	70
+30112016	051335	O'Neil	Hugh	Cortez	Fernando	60
+01012017	135345	Zeevi	Ron	Michel	Jessica	140
+25082015	230332	Nimz	James	Sardisco	Joe	100
+20022014	054904	Chandler	Tab	Chong	Ung Ki	170
+03102015	210857	Giles	Julie	Bauch	Jane	120
+23072016	233423	Gordon	Jane	Wong	Vicky	60
+07062013	061555	Aimesly	Thomas	Mendez	Leonard J	150
+06012017	195530	Ruddle	Wayne	Burney	Kelly	130
+12122017	120349	Armstrong	D C	Burney	Kelly	190
+14022016	202558	Malazgirt	Emmie	Chong	Ung Ki	140
+14112014	170534	Potter	Julie	Borden	Gloria	120
+30092013	184336	Taggart	Brian	Issia	Vinnie	90
+04092014	010938	Lauer	Sue Ann	Braicich	Agnes	90
+04042014	072454	Moreno	Jose	Fowler	Vincent	90
+18102014	094227	Hill	Tim	Schroeder	Tom	160
+15042017	001801	Marks	Alberto	Cox	Ty	80
+17082015	002219	Khan	Teresa	Di	Pirro Thomas	110
+08122016	004146	Vet-Ton	Johre	Di	Pirro Thomas	90
+05122014	131049	Atkins	Beverly	Borden	Gloria	180
+29112017	110757	Winters	Thomas	Braicich	Agnes	160
+30072013	235621	Hoesly	Tom	Chong	Ung Ki	150
+23102013	060601	Larsen	Sr Thomas J	Varblow	Carl	60
+10032015	194710	Roblen	Juan	Ball	Sam	50
+19112017	063456	Williams	Gene	Sutter	Danny	160
+19082014	101857	Talley	Mac	Garcia	Gulio	140
+15102017	122216	Cole	Charles	Starks	Cassandra	90
+14122017	124900	Cantu	Todd	Stone	Ed	130
+24122015	183623	Taylor	Daniel L	Karam	Francis	120
+13072013	012200	Bernier	Timothy	Auriemma	Maria	170
+26082014	105457	Patterson	Theodore	Brown	Brent	120
+21012016	151614	Morgan	Terri	Lasson	Calvin	160
+10082017	144437	Feehan	Terry	Nguyen	Phuong	140
+21012014	211222	Joseph	Chuck	Virgen	Victor	50
+25042016	071207	Knapp	Roger	Tribble	Harrison O	100
+21092017	083047	Redmon	Trexlor L	Varblow	Carl	120
+03072013	002419	Johnson	T D	Mcdaniels	Mike	100
+21022015	152739	Zinowski	Mike	Stone	Ed	140
+27092013	142752	Boyd	Kevin	Davidson	Grant	70
+29092015	085948	Kothari	Atul	Michel	Jessica	140
+30052015	095244	Tageant	Marcus	Michel	Jessica	170
+27042015	020905	Evans	Matthew	Vasser	Ronnie	40
+17102014	112859	Moore	Henrietta	Green	E	70
+01062015	175500	Tanaka	Tasker	Burney	Kelly	160
+24092014	235546	Hoang	Helen	Schroeder	Tom	80
+12052017	022339	Jiminiz	David	Broady	George	130
+09042016	231507	Crosby	Eddie	Di	Pirro Thomas	30
+10032014	143604	Tabor	Waco	Abbott	Teresa	100
+07022014	215550	Netter	Martha	Mendez	Leonard J	60
+24092014	105600	Cancio	Tammy	Cox	Joe	140
+01122014	122807	Bromm	Dianne	Luc	Hao	100
+06112014	063557	Gleason	Gary	Sardisco	Joe	150
+30092014	214740	Smith	Jenise	Schroeder	Tom	40
+04072013	133121	Taylor	Milton	Milinkovic	Milorad	150
+16092013	073945	Nguyen	Henry	Braicich	Agnes	110
+02102013	232042	Adams	Tom PE	Kim	Woon	60
+28092013	235654	Mc	Laughlin T K	Tovar	Leonardo	80
+18012018	142648	Mellios	John	Salem	Chuck	150
+05032018	155342	Fritz	Randy	Ugarph	Dave	110
+14032016	235708	Elliott	Myles	Stone	Ed	70
+16062013	084758	Linkel	Derek	Church	Vera	100
+16052014	021730	Bardelli	Corin	Lin	Eddy	100
+21062017	213201	Terry	Greg	Chong	Ung Ki	150
+17082013	150248	Johnson	Tommy R	Varblow	Carl	40
+24102016	102431	Golden	Ralph	Strohbeen	Mary	40
+23102014	195216	Embry	Patricia	Boyton	Affree	130
+15032018	013158	Koons	Kathy	Lasson	Calvin	80
+01082014	004046	Kennedy	Brenda	Brown	Doyle	150
+29092015	200837	Mai	Hong	Shaskas	John R	170
+08042016	080319	Titus	AL	Mumptaz	Muhammad	120
+13042017	160838	Steinhoff	R Lynn	Hee	Kyong	130
+08082013	224445	Bosgra	Terry	Sutter	Danny	30
+06112015	062202	Corrow	Teresa	Luc	Hao	70
+21052016	022347	Chess	Chris	Vasser	Ronnie	170
+30092013	092840	Hoffman	Keith	Abbott	Teresa	30
+06092014	220803	Ganimian	Shahe	Smith	Steven	120
+15112015	043106	Taylor	Richard	Pham	Victoria	190
+23052013	132739	Berman	Paul	Schroeder	Tom	180
+15122016	090639	Caruana	Bryan	Tyrrell	Chris	130
+04012014	161319	Funderburg	Terry	Martsen	Vaughn	100
+03112014	211438	Larsen	Sr Thomas J	Braicich	Agnes	50
+30032018	055548	Griffith	Tammy	Tovar	Leonardo	80
+20122017	140936	Fenison	Michael	Luc	Hao	80
+10112014	182812	Hecker	Allen	Borden	Gloria	150
+28042017	233602	Claussen	Brenden	Skidmore	Laura	170
+12072014	204533	Kahiane	Johnny	Lasson	Calvin	50
+25122017	051027	Affeldt	Tom	Carr	James	30
+22072013	222225	George	Tim	Johnston	Denny	90
+14012017	160724	Tobin	John	Cortez	Fernando	50
+27072013	124337	Herrmann	Thomas	Brown	Doyle	80
+18112016	113903	Motamed	Anna	Conklin	Tom	80
+18072016	041200	Puzycki	Ted	Benedict	Carol	150
+25032017	131930	Laurel	Maria	Brown	Brent	180
+14102017	060107	Smith	B	Vickers	Jean	40
+15052014	163658	Godwen	P C	Shper	Paul	40
+10082016	080033	Terpening	Bill	Smith	Steven	90
+02012018	144530	Craig	Wayne	Milinkovic	Milorad	190
+26032017	172802	Choi	David	Zakos	Jim	100
+13012018	235326	Harting	Dennis	Brown	Doyle	50
+08122014	021754	Yost	James	Burney	Kelly	140
+09012018	012403	Moreno	I C	Lasson	Calvin	190
+09012017	175540	Walczak	Teresa	Shunn	Becky	30
+15012018	210122	Jones	Pam	Maug	Mary	110
+03062015	072640	Allen	Gary	Forte	Ann DC	60
+19022016	163415	Teahen	Peter	Mendez	Leonard J	70
+23052013	184255	Weidenfeller	Ray	Broady	George	110
+28072015	034957	Tatz	Shmuel	Forte	Ann DC	180
+11102014	222128	Babb	Terri	Nguyen	Kim	100
+31032018	211546	Lewis	Tammy	Mccurley	Richard	170
+09112017	052406	Dennis	Ken	Lasson	Calvin	60
+26122014	202640	Shinabarger	Peggy	Corpening	Kenny	80
+05072014	195940	Zyburt	Marc	Vickers	Jean	80
+26082013	062940	Layne	Ted	Rivera	Evelyn	120
+16122017	060812	Ratterree	Mark	Mc	Kinstry Irving	180
+01022016	012740	Marotta	Tony	Cutri	Elaine	150
+21012014	035321	Storen	Mary	Fujikawa	Toshiko	140
+30032015	092651	Lin	Kim	Mcdaniels	Mike	180
+21032018	000239	Burke	Jean Ann	Nguyen	Kim	190
+05112014	215524	Tanabe	Toshiaki	Mumptaz	Muhammad	50
+19032018	164852	Pabo'n	Carlos	Strohbeen	Mary	180
+19042018	033349	Boone	Emily	Fowler	Vincent	160
+26072014	055528	Taliaferro	Tracy L	Shper	Paul	180
+28032014	232642	May	Chris	Shaskas	John R	60
+21102015	034525	Taylor	Christine	Carr	James	100
+18022014	100034	Webb	Richard	Fujikawa	Toshiko	40
+07112016	162216	Patton	Kenneth	Noble	Jesse	130
+30092013	200056	Willison	Ngyen	Sutter	Danny	190
+23122015	194503	Taylor	David	Wiltz	Paul	130
+07012018	003007	Simpson	Linda	Payrow	Farshid	30
+09102013	184721	Simons	Eizabeth	Barrientos	Linda	170
+16102016	071832	Miller	Jill	Schroeder	Tom	160
+12042015	105114	Soria	Ricarda	Maug	Mary	150
+28102013	062533	Wright	Thomas M	Vasser	Ronnie	110
+14062016	084829	Van	Duser Carol	Shunn	Becky	90
+30042016	233634	Michael	Buzz	Michel	Jessica	160
+17022016	042448	Hite	Betty	Davidson	Grant	100
+31032014	134937	Hill	Jim	Chong	Ung Ki	100
+23122017	034633	Daniels	Delbert	Varblow	Carl	140
+09122015	044904	Taylor	Ken	Starks	Cassandra	180
+06122013	004951	Zarou	John	Salem	Chuck	40
+27092016	114245	Tedrick	Jim	Urquhart	Jean	160
+30062013	180746	Taylor	Pat	Benedict	Carol	140
+08062013	071247	Whisenhunt	David	Pham	Victoria	60
+09032017	115904	Pray	David	Duong	Lewis	90
+25082014	155031	Fausett	Patsy	Rosario	Robert	170
+28072014	083226	Palermo	Sue	Boyton	Affree	180
+11122013	134429	Turner	Thomas	Karam	Francis	150
+07042016	171446	Thomas	Greg	Barrientos	Linda	50
+25022015	230314	Lewis	Trish	Sutter	Danny	60
+12092016	190322	Chung	Woon S	Fleischner	Molly	110
+16062014	194122	Shinabarger	Peggy	Urquhart	Jean	100
+29022016	091651	Tatem	Lee	Mccurley	Richard	30
+02032018	034058	Mokahey	Gary	Green	E	190
+05022014	234921	Copeland	Odis	Ball	Sam	90
+04012016	135933	Rogers	Nichole	Nguyen	Phuong	200
+25022015	073851	Washington	Lillian	Pham	Victoria	170
+27122014	212923	Tannehill	Bernice	Fujikawa	Toshiko	40
+15092013	182151	Mc	Caslin Jason	Lasson	Calvin	190
+05072014	101747	Sugar	Tarkan	Zakos	Jim	90
+01122015	221544	Taylor	Steve	Valcich	Tom	150
+15062013	015449	Campbell	T C	Ridenour	Barbara	60
+16012016	014750	Kajani	Yasmeen	Cortez	Fernando	120
+24112016	223055	May	Robert	Veasey	Deborah	170
+21012014	034749	Thomas	John	Cutri	Elaine	170
+04102013	050525	Carr	Terry L	Duong	Lewis	130
+29092016	080321	Wahl	Tamara	Hee	Kyong	90
+07052015	060056	Wallace	Tarla	Virgen	Victor	140
+22012017	065015	Flewelen	James	Shper	Paul	40
+21092017	174519	Mc	Afee Douglas	Valcich	Tom	110
+18042014	170055	Bloom	Tara	Martsen	Vaughn	180
+11082014	172715	Rodorigo	Mark	Vega	Evaristo	140
+05092013	093453	Borgwardt	Josie	Mumptaz	Muhammad	100
+23102016	144042	Bhagwat	Pradeep	Ugarph	Dave	140
+21042015	043208	Spitzer	Jennifer	Vanderwaal	Randy	120
+20042018	221254	Veganes	Theodore P	Church	Vera	170
+16102017	133415	Taylor	O F Tex	Fujikawa	Toshiko	100
+13072017	194037	Blackwell	Taylor	Braicich	Agnes	50
+30042017	024844	Bromm	Dianne	Noble	Jesse	40
+20102017	113058	Burkhalter	Danny	Salem	Chuck	190
+25032014	100104	Lopez	Gregory	Schroeder	Tom	40
+19092014	025052	Tamkin	Jeffrey	Wong	Vicky	140
+30092016	030645	Saunders	Barry	Cox	Ty	90
+25072014	095930	Greaves	Jean	Mc	Kinstry Irving	150
+04042014	070051	Higson	Timothy	Mumptaz	Muhammad	70
+23012018	095214	Meyer	Thomas G	Church	Vera	190
+29032018	232209	Tempelton	Cherisa	Luc	Hao	110
+19062015	032929	Kirch	Tammy	Carr	James	80
+28122013	103404	Brown-Soltero	Elisa M	Starks	Cassandra	150
+25102014	235725	Crockett	Tom	Di	Pirro Thomas	40
+04052013	184544	Polito	Terry	Karam	Francis	70
+08022014	042929	Barton	Angela	Corpening	Kenny	40
+09122016	020254	Temple	Dana	Boyton	Affree	40
+03022018	115331	Hake	Lakkhana	Karam	Francis	70
+08052017	014333	Johnson	Terrance	Payrow	Farshid	100
+13122017	085328	Garcia	F Henry	Abbott	Teresa	100
+07102015	101240	Taylor	Beverly	Karam	Francis	140
+21092015	225923	Craig	W R	Rivera	Evelyn	90
+17072014	182414	Talbert	Don	Mendez	Leonard J	30
+30032017	204158	Novelen	Teri	Vickers	Jean	40
+20102014	165746	Fabian	Tracy	Risser	Charles	140
+03112015	191700	Kim	Unsik	Cox	Joe	110
+28012016	061344	Leumer	Michael	Martsen	Vaughn	110
+13092013	081420	Tardiff	Marc	Benedict	Carol	110
+20032014	040201	Tackett	Robert	Maug	Mary	150
+08022015	113943	Dabit	Suad	Brown	Doyle	120
+24012016	151927	Robison	Tom C	Green	E	180
+02052014	064034	Graham	Scott	Karam	Francis	70
+26102016	210933	Wadsworth	George	Brown	Doyle	120
+17052013	170554	Barajas	Joshua	Gonzalez	Jose	80
+14022014	034427	Land	Kathryn	Nguyen	Kim	50
+28042018	193818	Thornley	Jamie	Lin	Eddy	90
+13112013	060234	Goderis	Lou	Stone	Ed	160
+13102016	094512	Aguilar	Arnold	Mccurley	Richard	190
+28042017	212447	Mc	Evoy Lynne	Brown	Doyle	200
+19032016	184915	Quinn	James	Fujikawa	Toshiko	100
+02112015	040858	Taylor	David	Hanna	Scott	110
+09032015	083304	Herndaz	Marcos	Turner	Edward	100
+07062013	011032	Bahsin	Tony	Vickers	Jean	130
+24112015	205758	Taylor	Sam	Boyton	Affree	190
+14032017	162139	Roberts	Terence	Ugarph	Dave	190
+26122017	120331	White	Mike	Davidson	Grant	40
+13032014	092150	Sam	Sarigh	Martsen	Vaughn	170
+16012015	150702	Miller	Teresa	Issia	Vinnie	40
+11052014	164353	Rabbat	Abdullah	Vickers	Jean	160
+14062016	112137	Gleason	Gary	Cox	Joe	190
+29122015	084522	Hoskinson	Ron	Kolbe	Ed	190
+28112013	044612	Rosenthal	Tracy	Tribble	Harrison O	90
+07112014	041358	Mitchelle	Eric	Smith	Steven	110
+04022018	122830	Sujiva	Jiraporn	Richards	Stuart	70
+21032015	022715	Gomez	Jaun	Brown	Doyle	80
+18102014	030714	Miller	Rick	Varblow	Carl	180
+17082014	151331	Tallcot	Connie	Burney	Kelly	180
+23082014	231928	Tallman	Jr Frank	Zimmit	Vince	140
+12102016	161314	Houweidi	Hamid	Noble	Jesse	40
+14112017	113216	Gabrielski	James	Green	E	60
+05072016	121848	Cocores	Ted	Zakos	Jim	170
+23072016	155500	Dupree	Lachrista	Milinkovic	Milorad	150
+17022015	220456	Sanders	Tammy	Turner	Edward	120
+18092015	140105	Cain	Cyric	Virgen	Victor	50
+17052013	090455	Bui	Yvonne	Ugarph	Dave	120
+01122014	061545	Mausolf	Juli	Abbott	Teresa	140
+16012016	083516	Amburn	John	Virgen	Victor	180
+28042015	152627	Braun	Sandi	Bauch	Jane	140
+01022015	003308	Causby	Elizabeth	Maug	Mary	70
+15082016	184735	Harris	Theresa	Corpening	Kenny	180
+09022016	073518	O'Dell	Tom	Church	Vera	120
+10042018	102136	Tamez	Jose	Bauch	Jane	100
+24082013	205556	Stiefel	Janice	Corpening	Kenny	90
+28022014	022841	Taber	Thomas	Valcich	Tom	130
+04042014	121420	Shulman	Bruce	Bauch	Jane	70
+31082016	024105	Rupe	Robert	Nguyen	Phuong	140
+10042018	095526	Chitty	Floyd	Skidmore	Laura	190
+21062013	143412	Obolsky	Mike	Carr	James	120
+02042017	054933	George	Tim	Corpening	Kenny	90
+28052016	194958	Lowry	James	Mumptaz	Muhammad	90
+14012016	075039	Palmer	Bob	Martsen	Vaughn	170
+03062016	224102	Mc	Clung Ray	Veasey	Deborah	170
+14102014	050652	Miller	Linda	Rivera	Evelyn	150
+13022017	050001	Bobbitt	Darrell	Nguyen	Phuong	60
+01082014	220646	Taylor	Sally	Corpening	Kenny	180
+15082015	070520	Taylor	Chris	Karam	Francis	190
+27092017	110746	Davis	Everald	Shaskas	John R	70
+04032017	234358	Rodriguez	Jorge I	Nguyen	Phuong	100
+18022016	101230	Winfrey	Susan	Issia	Vinnie	60
+06092015	072627	Raddatz	Judy	Virgen	Victor	200
+30042015	134701	Targett	Bertha	Barrientos	Linda	60
+30062014	011740	Pospisil	Elizabeth	Richards	Stuart	120
+24072016	032446	Thornton	Howard	Hanna	Scott	150
+10032017	022615	Nygaard	Martin	Issia	Vinnie	120
+20122015	072420	Flores	Francisco	Abbott	Teresa	150
+09082016	092927	Carrillo	Andres	Veasey	Deborah	30
+08042015	175331	Frommelt	John	Ugarph	Dave	180
+30052014	205158	Cavaiola	Antonette	Corpening	Kenny	50
+01042016	125301	Heart	Max	Brown	Doyle	60
+23102016	070436	Sanchez	Severino	Green	E	120
+28112017	091440	Peralez	Albert	Sardisco	Joe	100
+11032015	171709	Villa	Jesus	Mayl	Sheryl	60
+01022016	012559	Turbes	Gerald J	Milinkovic	Milorad	110
+02112014	033854	Mazurkewicz	Elizabeth	Wong	Vicky	110
+13122014	134822	Frankenberger	Tim	Chong	Ung Ki	100
+06052017	132950	Adams	James T	Fleischner	Molly	50
+02032015	214219	Young	Phil	Sardisco	Joe	60
+26092013	192641	Haworth	Ed	Rosario	Robert	60
+03062016	200052	Butler	Ed	Michel	Jessica	140
+28062013	022928	Woodham	Sheryl	Fleischner	Molly	160
+13042018	105411	Barton	Angela	Zakos	Jim	90
+13072017	012216	Warner	Terry	Green	E	110
+13082016	224957	Simpson	Steven	Forte	Ann DC	170
+25102015	220141	Taylor	Bob	Strohbeen	Mary	100
+20082014	120606	Chapman	James	Mayl	Sheryl	180
+28032014	125339	Stoll	Sherri	Sutter	Danny	80
+24092015	232151	Wang	Andy	Michel	Jessica	40
+30112013	192434	Rodriguez	Jorge	Zimmit	Vince	80
+11102016	214827	Ventura	Artolo	Shaskas	John R	150
+28052017	004434	Leoni	Theresa	Benedict	Carol	130
+24072015	152539	Tatum	Bill	Urquhart	Jean	140
+09052013	003457	Stover	Tommy	Mumptaz	Muhammad	50
+18072014	182243	Denton	Pam	Brown	Brent	200
+16012017	054106	Tennyson	Eugene	Rosario	Robert	190
+25042015	023528	Lamb	James	Karam	Francis	120
+12112016	070208	Sanders	Glen	Hee	Kyong	200
+06112016	202656	Teller	Barbara	Vasser	Ronnie	120
+15092016	102714	Cordova	Lupe	Hanna	Scott	160
+30062013	143713	Touchton	Lloyd	Di	Pirro Thomas	160
+15082013	164907	Park	Charles	Fowler	Vincent	40
+20092017	185302	Newberry	Bryan	Lust	Desiree	170
+03112016	025312	Keating	Joyce	Brown	Doyle	190
+19112015	090742	Klein	Jennifer	Auriemma	Maria	40
+19022015	050509	Ammar	Loay	Brown	Brent	180
+22092016	143741	Ryan	Steve	Brown	Doyle	40
+26112015	155403	Cox	Tamara	Davidson	Grant	120
+13092017	061817	Brannon	David	Boyton	Affree	200
+09042014	204953	Sterman	Bill	Zimmit	Vince	200
+10082015	011824	Steinbeck	William	Garcia	Gulio	190
+12112014	133423	Bahry	Ted	Lust	Desiree	140
+17102013	132754	Martin	Thomas	Tribble	Harrison O	40
+04062016	090129	Young	Wendy	Kolbe	Ed	100
+15062016	203217	Nimmo	Dee	Hanna	Scott	110
+22062015	172210	Urbany	Theresa	Shper	Paul	170
